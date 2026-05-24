@@ -68,6 +68,7 @@
 - [政企行业软件项目交付中的那些典型问题](/article/typical-issues-in-software-project-management/index.md)
 - [Manus临近被Meta收购前，季逸超（peak）都聊了些什么干货？](/article/what-peak-ji-talked-about-before-manus-meta-acquisition/index.md)
 - [哲学教授是怎么看AI的？](/article/what-yumingfeng-talked-about-ai/index.md)
+- [赌博为主的市场（如Polymarket、A股）中，赢钱或亏钱有什么科学分析吗？](/article/who-wins-and-who-loses-in-prediction-markets/index.md)
 - [博客写了又没人看，你写它干嘛？](/article/why-blog-if-nobody-reads/index.md)
 - [科技公司疯狂裁员养 AI，钱却在巨头间打转？这波操作到底啥情况？](/article/why-tech-giants-cut-jobs-while-spending-billions-on-ai/index.md)
 
