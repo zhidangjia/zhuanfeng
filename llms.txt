@@ -1,6 +1,14 @@
 # 朱岸峰的深度思考与分享
 
-> 我是个八线小镇做题家，北大计算机毕业，关注有趣、硬核的问题，喜欢有时间含金量的思维。无论是技术干货还是生活灵感，希望我能为你提供一些理解这个世界的独特的视角和启发。立即访问，发现更多精彩内容！This file contains links to all documentation sections.
+> 我是个八线小镇做题家，北大计算机毕业，关注有趣、硬核的问题，喜欢有时间含金量的思维。无论是技术干货还是生活灵感，希望我能为你提供一些理解这个世界的独特的视角和启发。立即访问，发现更多精彩内容！
+
+
+
+## Alternate Language Versions
+
+- [en-US](/en/llms.md)
+
+This file contains links to all documentation sections.
 
 ## Table of Contents
 

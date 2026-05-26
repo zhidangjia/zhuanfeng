@@ -1,0 +1,52 @@
+# Zhuanfeng personal website
+
+> Explore Zhu Anfeng's personal website – a hub for technology insights, personal interests, and life stories. Discover technical columns, hobbies, and memorable moments that reflect a passion for learning and growth. Visit now for inspiration and unique perspectives!This file contains links to all documentation sections.
+
+## Table of Contents
+
+### blog
+
+- [Twenty Million Donated Steps:Are Direction, Ability, and Persistence Really an Impossible Triangle?](/en/article/2000-steps-souvenir/index.md)
+- [Birthday Wishes in 2025 - Are These Little Rituals Really So Trivial?](/en/article/2025-birthday/index.md)
+- [A Special Reward](/en/article/a-special-reward/index.md)
+- [After Nanjing Was Eliminated in the 2025 Jiangsu City League Semifinal - Why Was It More Popular Than the Chinese Super League?](/en/article/about-2025-jiangsu-city-football-league/index.md)
+- [Ancient Poetry Related to the Name "Anfeng"](/en/article/anfeng-poem/index.md)
+- [On *The Great Comeback of the Chinese Women's Volleyball Team* and the 2002 World Championship](/en/article/china-women-volleyball/index.md)
+- [Early Spring, 2009](/en/article/early-spring-2009/index.md)
+- [Early Summer, Half Moon, Cool Night](/en/article/early-summer-2008/index.md)
+- [The Sea, Endless Drifting](/en/article/essay-business-trip-sea/index.md)
+- [First Prize for Outstanding Engineering Consulting Achievements in Jiangsu](/en/article/first-prize-for-consulting-achievements-in-jiangsu/index.md)
+- [Peking University Memory - The 2003 Graduation Farewell Match](/en/article/football-farewell-match-graduation-2003/index.md)
+- [Football Memories of Jingde (V)](/en/article/football-memories-jingde-fifth-article/index.md)
+- [Football Memories of Jingde (I)](/en/article/football-memories-jingde-first-article/index.md)
+- [Football Memories of Jingde (IV)](/en/article/football-memories-jingde-forth-article/index.md)
+- [Football Memories of Jingde (II)](/en/article/football-memories-jingde-second-article/index.md)
+- [Football Memories of Jingde (III)](/en/article/football-memories-jingde-third-article/index.md)
+- [Peking University Memory - Football Memories of Anzi](/en/article/football-memories-of-zhuanfeng/index.md)
+- [May Day Odds and Ends](/en/article/he-trivialities-of-may-day/index.md)
+- [I Saw the USS Enterprise](/en/article/i-see-uss-enterprise/index.md)
+- [In the Tall Birch Forest, My Youth Wanders](/en/article/in-the-tall-birch-forest-my-youth-wanders/index.md)
+- [Major Events of Jingde Middle School (1943-1995)](/en/article/jingde-middle-school-big-events/index.md)
+- [A History of Jingde Middle School (1943-2003)](/en/article/jingde-middle-school-history/index.md)
+- [The Story of Jingde Middle School's Official Website](/en/article/jingde-middle-school-website/index.md)
+- [Old Photos of Jingde](/en/article/jingde-old-pictures/index.md)
+- [So I Was the Little Brother of the Zhu Family](/en/article/jingde-zhu-xiaodi/index.md)
+- [Memories of the 5460 China Alumni Directory](/en/article/memories-5460-china-alumni-directory/index.md)
+- [A Handwritten Thank-You Letter](/en/article/memories-jsptpd-handwritten-letter/index.md)
+- [My 2011](/en/article/my-2011/index.md)
+- [My High School and College Football Jerseys](/en/article/my-football-jersey/index.md)
+- [Peking University Memory - Leaving the Banquet Board](/en/article/peking-university-reminiscence-banquet-resignation/index.md)
+- [Peking University Memory - In Memory of an IP Address](/en/article/peking-university-reminiscence-ip-address/index.md)
+- [Standing at the North Pole](/en/article/standing-at-the-north-pole/index.md)
+- [If Nobody Reads Your Blog, Why Write It?](/en/article/why-blog-if-nobody-reads/index.md)
+
+### Jingyang Zhu Genealogy
+
+
+### Others
+
+- [About Me - Zhu Anfeng](/en/aboutme/index.md)
+- [Demo](/en/demo/index.md)
+- [foo](/en/demo/259rnea4/index.md)
+- [bar](/en/demo/6ia0xkac/index.md)
+- [Memories Worth Revisiting](/en/memories/index.md)

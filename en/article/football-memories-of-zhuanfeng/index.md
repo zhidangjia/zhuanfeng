@@ -1,0 +1,16 @@
+---
+url: /en/article/football-memories-of-zhuanfeng/index.md
+---
+Author: Li Yu. Originally published around 2003 on **PKU Weiming**.
+
+Among my university friends, Li Yu was never exactly known for elegant punctuation, so please read the following with some tolerance:
+
+> With Anzi, I always felt we had met too late. We were not in the same class and did not really move in the same circle, so before senior year we were little more than nodding acquaintances. Only when life slowed down in our fourth year, when we spent our days playing football, chatting online, and going out to eat and drink, did I realize how much Anzi's temperament suited me, and I came to regard him as a true confidant.\
+>
+> Anzi was straightforward by nature. If he had lived in ancient times, he would definitely have been the kind of man who repaid kindness and grudges with equal openness, drinking from big bowls and eating great chunks of meat. Being friends with him was always refreshing. There was no need for calculation. A brother was simply a brother. During senior year we ate and drank all over the place. I had never really touched strong liquor before, but because of Anzi's boldness I ended up drinking a lot too. For example, that time at the west gate chicken-wing stall when each of us finished a whole bottle of Erguotou, or the farewell match, when I drank so much that I went back to the lab, shut the conference-room door, and fell asleep there until dinner, while loop and the others searched everywhere for me, or the time I brought out a bottle of Wuliangye from the 1980s that my father had once told me to give away but that I had instead hidden in my cupboard for four years. I drank it all with Anzi, loop, danny, and others over a basin of boiled fish at Huamei.\
+>
+> Anzi's playing style was just like his personality: direct and exhilarating. He mainly played on the right, quick in both directions, strong at dribbling, crossing, and finishing. Though he seemed to adore Beckham, to me his style was actually more like Zanetti's. Playing with him always felt reassuring. If you gave him the ball, he would always find a way to send it somewhere dangerous, and the rest was up to me. As for his finest works, one was that long-distance lob from the wing against the Class of 2001 in the departmental league, almost a mirror image of Hagi's goal against Colombia in 1994. Though I still strongly suspect he was really trying a cross and miskicked it. He insists to this day that it was a deliberate outside-of-the-foot lob. The other masterpiece was the cross he gave me in the farewell match. Even now, if I close my eyes, I can still recall that cross, as if it had been calculated to the millimeter. All I had to do was jump, glance the header, and then celebrate.\
+>
+> When graduation came, emotional people like Anzi and me both chose to head south for the sake of girls. I went to Shenzhen; he went to Nanjing. After losing touch for two years, I finally found his contact information again. Remembering that old goal, Anzi said to me: "I still cannot figure out how I managed to give you a cross like that. I never delivered one like it again..." When the QQ window flashed with that line, my eyes grew a little wet.
+
+The photo below was taken at Peking University's First Sports Hall in 2003.\

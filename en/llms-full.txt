@@ -1,0 +1,1369 @@
+---
+url: /en/aboutme/index.md
+---
+# About Me - Zhu Anfeng
+## Core Competencies
+
+* End-to-end management of informatization projects: With 20 years of experience in the IT industry, familiar with project execution logic across government, enterprise, defense, and telecom sectors, and capable of coordinating the full process from requirements analysis and solution design to final delivery.
+* Design and implementation of complex technical solutions: Skilled at handling complex and ambiguous business scenarios, aligning with senior client decision-making needs, accurately distilling core requirements, and designing practical technical solutions that can be implemented effectively. Has led multiple key ministry-level projects and received several industry awards.
+* Integration of technology and business: Combines a solid academic background in computer science from Peking University with VP-level management experience. Has repeatedly led new business initiatives from zero to one, with strong capabilities in product planning, technical architecture, executive reporting, and commercial realization.
+* Cross-domain collaboration and team leadership: Brings more than 10 years of director-level management experience, effectively coordinating cross-functional resources to drive complex projects and ensure alignment among stakeholders and high-quality delivery.
+* Execution under high pressure: Has led the delivery of large-scale, high-visibility projects worth tens of millions, including more than six months of on-site intensive project work, and adapts well to fast-paced, high-pressure environments.
+* Open and collaborative values: Strongly believes that a group of outstanding people can go farther together.
+
+## Educational Background
+
+* Junior and senior high school: Attended Jingde Middle School in Anhui Province. Achieved the highest science score in the county in the 1999 National College Entrance Examination.
+
+* University: Studied at Peking University, Department of Computer Science and Technology.
+
+## Professional Experience
+
+* Since 2006, worked at [Jiangsu Post and Telecommunications Planning and Design Institute (now China Communications Services Consulting & Design Research Institute Co., Ltd.)](http://www.cicdi.com/), focusing on business development in the field of informatization until leaving in early 2014.
+
+* Later joined the [telecom operator system (Jiangsu Telecom)](https://www.189.cn/js/), working on the development and operation of mobile internet products.
+
+* In 2018, joined the [startup Nanjing Wanggan Zhicha](https://www.tmlsystem.cn/), focusing on the field of NLP.
+
+* In 2020, joined [a subsidiary of China Electronics Technology Group Corporation (CETC)](https://www.cetc.com.cn/) to contribute to China's national defense.
+
+## Main Honors
+
+* In 2010, led the "Digital Dafeng Port Informatization Plan" project, which received the [Jiangsu Outstanding Engineering Consulting Achievement Award (First Prize)](https://www.doc88.com/p-393940177329.html).
+
+* In November 2012, as a core member in developing the "Rui Intelligent Energy Consumption Monitoring, Management, and Decision Analysis System Based on Cloud Services," received the [Nanjing Science and Technology Award (Third Prize)](https://wenku.baidu.com/view/49c97d195a0102020740be1e650e52ea5518ce17.html).
+
+* In June 2015, as the core product leader, received the [Jiangsu Internet Finance Innovation Enterprise Award](https://mh.jgvogel.cn/c/2015-06-12/961907.shtml).
+
+* In September 2016, as a principal contributor to the "Data Center VR Visualization Management Platform," received the [Fifth China Innovation and Entrepreneurship Competition Military-to-Civilian Division Award (Third Prize)](http://www.ctp.gov.cn/cxcyds/sstz/201609/4a2014427d964dffbf2818ff566ab9c3.shtml).
+
+## Contact Me
+
+---
+
+---
+url: /en/article/2000-steps-souvenir/index.md
+---
+# Twenty Million Donated Steps:Are Direction, Ability, and Persistence Really an Impossible Triangle?
+::: center
+
+:::
+
+I have participated in Tencent's step-donation activity for years, and I have finally passed 20 million donated steps. I checked the record specially: the first time I joined this activity was on August 27, 2016.
+
+In a person's life, there are not many things one can remember to do every day and keep doing for more than nine years. The only real difficulty here is walking more than 6,000 steps a day and then remembering to donate them before 10 p.m.
+
+Once again, I felt the power of time in a very concrete way. Even for such a small thing, if you keep doing it regularly, the result can still be meaningful.
+
+Looking back, in most periods of my life, direction, ability, and persistence have indeed felt like an impossible triangle.
+
+From now on, I should remind myself more often how those twenty million steps were actually achieved.
+
+---
+
+---
+url: /en/article/2025-birthday/index.md
+---
+# Birthday Wishes in 2025 - Are These Little Rituals Really So Trivial?
+## 1. Online Identity
+
+We live in an age of endless account registration. Almost every tool we use on our phones or computers for work and life requires an account before it becomes useful. I do not know whether anyone has ever tried spending a full day in modern society without using any tool that requires login, but I imagine that would be quite difficult.
+
+In essence, every person has an online identity, and most tools do not allow unidentified users to participate.
+
+But that also creates a whole series of problems. Your online identity does not truly belong to you. It can be lost, forgotten, or even taken away.
+
+Most internet services require registration with a mobile phone number or an email address. Neither one truly belongs to the user. A phone number belongs to a telecom operator; an email address depends on the mail provider and domain provider. If they reclaim your number, email, or domain, your online identity is suddenly in trouble. If you cannot change it in time, you may lose it altogether. Not long ago I got a data SIM card from China Unicom and kept receiving messages meant for the previous owner, many of them debt-collection texts. They did not affect my normal use, but the whole thing still felt absurd. These days, changing your phone number is a serious hassle, and it is almost impossible to know how many online identities are tied to it.
+
+Not only does the account name not belong to you, but the legal ownership of the account does not belong to you either. Take WeChat as an example: the ownership of a WeChat account belongs to Tencent. Clause 7.1.2 of the WeChat Service Agreement explicitly states that users obtain only the right to use the account after registration. Broadly speaking, accounts across online services belong to the service providers, while users only have the right to use them. So providers can suspend or cancel your account unilaterally at any time, and that is entirely legal. A few years ago, when Trump was banned from Twitter, that was exactly this kind of situation.
+
+## 2. Birthday Wishes
+
+Back to the main topic: once you register, personal information naturally follows, and entering a birthday is hard to avoid. Many people probably just fill in something random. I once read that New Year's Day is the most common birthday in online data, and of course that is because it is often the default choice during registration.
+
+My own habit is to leave my real birthday in serious settings. In less important places, since I am getting older, I would rather seem a little younger.
+
+Once a birthday exists, birthday wishes follow. They usually fall into a few categories.
+
+1. Pure text-message greetings. Banks, brokerages, and insurance companies used to love this. Years ago people joked that banks were the earliest to wish you happy birthday, sometimes even before midnight, earlier than family and friends. This year there were far fewer of those, and many turned into a background image or banner inside an app. There are exceptions, of course: ABC sent me a birthday text at the beginning of the month inviting me to spend one cent on a prize draw. Yes, the point was simply to make me generate another transaction.
+
+2. Big internet companies tend to use in-app greeting cards. Alipay and QQ are typical examples. You open the app and see a full-screen image decorated with lines like how many days they have accompanied you. That still carries a bit of emotional value.
+
+3. Companies that actually give you a small practical gift. That deserves real credit. JD gave me 500 JD Beans, basically a five-yuan voucher, plus some discount coupons. China Telecom gave me 20 GB of data. China Unicom gave me 300 points. Meituan and Ctrip gave me little red packets.
+
+What disappointed me most were Taobao, Didi, and Ele.me. For tools so directly tied to spending, they did not say a single word. WeChat and Douyin also had no gesture at all.
+
+In the age of big data, it is impossible that you do not know my birthday. You simply choose not to do anything about it.
+
+---
+
+---
+url: /en/article/a-special-reward/index.md
+---
+# A Special Reward
+::: center
+
+:::
+
+I only made a small repair, within my limited ability, to this city I live in. I never expected to receive such a special reward for it, and honestly I feel a little undeserving.
+
+I have already donated the prize money to charity.
+
+I kept the red-envelope cover as a small souvenir.
+
+---
+
+---
+url: /en/article/about-2025-jiangsu-city-football-league/index.md
+---
+# After Nanjing Was Eliminated in the 2025 Jiangsu City League Semifinal - Why Was It More Popular Than the Chinese Super League?
+At the end of May this year, I happened to see a [video](https://www.bilibili.com/video/BV1hxjvzgEpS/) by a Bilibili creator called Lao Maoyu Bu Chi Yu, and that was the first time I paid attention to the Jiangsu City Football League. At the time I was puzzled: what on earth is this "Su Chao"? The Scottish Premiership? Who would have thought that this league would accompany the whole summer of 2025? After Nanjing lost on penalties last night at the Olympic Sports Center, I suddenly felt like writing something to mark the very first Jiangsu City Football League in history.
+
+## 1. First Impressions of the Thirteen Great Jiangsu Cities
+
+Around 2010, while I was working at the Post and Telecommunications Design Institute, I must have traveled to all thirteen prefecture-level cities in Jiangsu. The reason is not hard to understand: the institute mainly served telecom and mobile-communications projects, so traveling across the province and even to county towns was part of the job. Later, when telecom operators expanded into ICT system integration, we partnered with them as system integrators and traveled even more frequently. But that is another story.
+
+To be honest, in those years I never felt the so-called "fragmented Jiangsu" label very strongly, but the differences between the cities were indeed obvious. The first was dialect. I could understand almost none of them. The second was transportation. Suzhou, Wuxi, and Changzhou were reachable by high-speed rail and often allowed same-day returns, while most trips to northern Jiangsu meant taking a long-distance bus and usually staying overnight. I still remember my first trip to Dafeng Telecom: the company sent a car, and the journey still took six or seven hours. It was exhausting. Of course it was not all bad. We often got off the highway midway, in places like Hongze or Zhuba, to eat a simple meal, and the fish there left a deep impression on me. Accommodation also varied. In central and northern Jiangsu, a little over one hundred yuan could get you a decent hotel in the city center, while in southern Jiangsu you were more likely to choose budget chains. Another thing worth mentioning is that the drinking culture of northern Jiangsu was clearly stronger than that of the south. "If a guest comes, you must treat them well." I later felt similar cultural warmth only in places like Shandong and Xi'an. This is not a judgment about drinking culture itself, but it undeniably brings people closer.
+
+## 2. The Foundation of Su Chao's Success
+
+Those were passionate years, and now nearly fifteen years have gone by. Today many of those cities have high-speed rail and metro systems, which really makes you admire the country's ability to build. This kind of urban hardware also quietly raises the cultural and civic confidence of local residents. That matters too.
+
+**To me, it is precisely this mix of local culture and regional differences, combined with strong economic foundations and decent civic confidence, that made the success of Su Chao possible.**
+
+::: center
+
+:::
+
+Operations also mattered. Many people say that the internet personality Daodao Fu, as a kind of Jiangsu strategist and chief instigator, played a big role in making the idea of "fragmented Jiangsu" go viral. Fair enough. I have watched quite a few of his short videos myself. He is genuinely talented, and many of his clips are very funny. He says his team is only two people, himself and "Bearded Guy," and that they are even preparing a film version of the Su Village saga. I also think local tourism-and-culture departments operated very well. Accounts like Changzhou Culture and Tourism or Wuxi Culture and Tourism did a strong job. On the one hand, local governments probably do have policy room that encourages publicity to be less stiff and more relaxed. On the other hand, as more young people born after 2000 enter the civil-service system, their perspectives and ideas are bound to change traditional methods of promotion.
+
+## 3. Why Did I Care?
+
+Back to last night's match. As someone from southern Anhui who has watched football since 1994 and has lived in Nanjing for more than twenty years, I was surprised to find that I actually felt upset when Nanjing lost. It had been a very, very long time since a single football match had made me feel that way. If I close my eyes and try to think of the last time, I might have to go back all the way to the Guangzhou Evergrande era.
+
+I keep wondering: in terms of level, this team is clearly below the fully professional sides, and probably not even as strong as the better teams in the Chinese Champions League. Yet even in China League One, where the standard is higher, Nanjing's matches usually do not attract many spectators. The players are still basically those same players, so why did this tournament become such a sensation?
+
+Then I thought of the basketball tournaments in my hometown. Since the last century, Jingde County has held basketball competitions during the National Day holiday. Different towns and government units organize teams and play in the county's only outdoor basketball court in the middle of town. The conditions are rough, with not even proper stands. Spectators just stand around or sit on nearby stone steps, but none of that stops the atmosphere from being lively.
+
+Is the standard low? Of course it is. Do most spectators really understand the game? Probably not. Many of them likely do not even know the three-second rule. Will they come one year and never return the next? As far as I know, the tournament has continued for many years except during the pandemic. So what is it that keeps those matches alive?
+
+In the end, I found myself remembering a comment left by a Bilibili user the year before last.
+
+---
+
+---
+url: /en/article/anfeng-poem/index.md
+---
+# Ancient Poetry Related to the Name "Anfeng"
+For a long time I have wanted to find a line of classical Chinese poetry into which my own name could fit. That way, when introducing myself, I might sound unexpectedly impressive. In fact, I had this idea more than ten years ago. Back then, domain grabbing was still very fashionable, and short phrases from classical poems were especially popular. The most typical example is Baidu. Leaving aside everything else, the name itself is excellent: "among the crowd, I searched for him a thousand times." It fits the meaning of a search engine perfectly. Baidu, I used to think, held a rather strong hand, but looking at its development in AI today, it has not lived up to expectations. It gives the impression of having started early only to arrive late.
+
+Actually, many years ago I once asked my father what the name "Anfeng" meant. He said it came from this line:
+
+海到尽头舟做岸，山登绝顶我为峰。
+
+I asked him how he knew that line. It was something from the 1980s, and he naturally could not remember clearly. Most likely he came across it by chance while writing Spring Festival couplets. In those days, anyone willing to use such a line in a couplet must have been a fairly open-minded person.
+
+Years later, I looked it up and discovered it was not a couplet after all. The source was actually Lin Zexu's *Chu Lao*:
+
+(As an aside: sometimes the things we take for granted are exactly the things most worth examining closely.)
+
+::: center
+**Chu Lao**
+
+Lin Zexu
+
+海到尽头天作岸，山登绝顶我为峰。
+
+如日东山能再起，大鹏展翅恨天低。
+:::
+
+Lin Zexu needs no introduction. What I am curious about is the background of this poem. We all know he lived a rich and dramatic life, and he even went to Xinjiang.
+
+I searched around and found no authoritative explanation. Some people say it was written in his youth. That does make sense. The poem carries a young person's wild boldness. It does not feel like something written in the smoke of Humen.
+
+(Wait a second. Does the second half of the poem imply that I too may rise again? Haha.)
+
+Of course, there is also another classical text that suits the feeling of "Anfeng," and it is much older, from the Northern and Southern Dynasties, nearly sixteen hundred years ago.
+
+The author wrote it while traveling by water from Fuyang in Zhejiang to Tonglu. By coincidence, those places are not far from my hometown in Xuancheng, and the scenery was probably not too different.
+
+Another coincidence is that the essay was written to Zhu Yuansi, who shares my surname.
+
+When it comes to ancient poetry and prose, all I can feel is admiration:
+
+::: center
+
+:::
+
+---
+
+---
+url: /en/article/china-women-volleyball/index.md
+---
+# On *The Great Comeback of the Chinese Women's Volleyball Team* and the 2002 World Championship
+Recently I have been listening to Yang Yi's latest audio series, *National Action: The Great Comeback of the Chinese Women's Volleyball Team*. In episode five, he says that Chen Zhonghe deliberately lost matches to Greece and South Korea in order to secure a more favorable route and a fourth-place finish at the World Championship.
+
+At the time I was in my senior year of university, and I had absolutely no memory of that history. I also rarely watched volleyball. So I specifically went back to examine the public opinion surrounding it.
+
+## Around September 27, 2002: the homepage of Sina Sports' volleyball section
+
+![Sina Sports volleyball homepage during the 2002 Women's World Championship](/img/2002年女排世锦赛-新浪竞技首页.png)
+
+The full text of the open letter from the women's volleyball team mentioned in the audio series:
+![The open letter from the women's volleyball team](/img/2002年女排世锦赛-女排公开信.png)
+
+## Open Letter to the Fans from the Head of Delegation and the Head Coach of the Chinese Women's Volleyball Team
+
+At the just-concluded Women's World Championship, in order to choose our group after entering the top twelve and to select our opponent after entering the quarterfinals, we took it upon ourselves to deliberately lose to Greece and South Korea through improper means. This was a directional and serious mistake. At the time it happened, we did not even realize in our thinking that it was wrong. In some situations we still argued self-righteously and insisted that we were correct, which only increased the dissatisfaction and doubt of public opinion, our opponents, and volleyball fans. It was only after leaders from the State Sports General Administration discovered the problem, called Germany, clearly expressed their position, and severely criticized us, that we realized the seriousness of the matter. In the days after returning home, under criticism and help from superiors and many sides, we calmly and seriously examined and reflected on ourselves, while also reading a great number of letters and reports from the public. We were deeply shaken and deeply educated.
+
+We began to understand that the nature of our mistake was serious. Deliberately choosing to lose before the match was in fact match-fixing, and the result damaged many interests and caused extremely bad influence internationally. Even if the competition format made such calculations possible, such behavior in itself violated professional ethics, the spirit of sport, and the principle of fair competition. It was a classic example of placing medals above all else. What is especially painful is that it happened with this new generation of the Chinese women's volleyball team. Carrying forward the spirit of the older Chinese women's volleyball teams, who fought for every match and every point, and walking the road of tenacious struggle and progress, should be both our duty and our firm direction. Yet our actions ran directly against that spirit.
+
+The impact of our mistake was deeply negative. Deliberately losing created the ugly impression of disrespecting opponents, referees, and spectators. In the past, the Chinese women's volleyball team had enjoyed a strong reputation internationally not only for results and technique, but also for spirit, discipline, etiquette, and sportsmanship. Because of our mistake, that image was badly damaged. At home, for more than twenty years the Chinese women's volleyball team had been strongly supported by all sectors of society and loved by countless fans. During this tournament, many people who cared about the team even stayed up into the middle of the night to watch matches. Yet our mistake deeply hurt all of them. As a team with a glorious tradition and symbolic importance in Chinese sports, our error in a time when the country was emphasizing sportsmanship and discipline created serious negative influence and set a bad example.
+
+The lesson of our mistake is profound. Our superiors and the broader fan base trusted us fully, entrusted us with important responsibilities, and placed great hopes in us. We ourselves also always felt this heavy responsibility and worked actively with full commitment. But facts prove that enthusiasm, hard work, and professional study are not enough on their own. Clear political judgment, a sense of the larger picture, and discipline are equally necessary. Otherwise one loses direction in one's work and harms both the country and the cause. We know that such a major loss requires us to bear responsibility, however difficult that responsibility may be to bear. In particular, as the head of delegation and the first person responsible for the Chinese women's volleyball team, I bear an unshirkable primary responsibility. We sincerely accept criticism and are willing to accept punishment.
+
+We will continue to summarize and reflect deeply on all of this. We earnestly ask everyone to believe that we can learn from this lesson, correct our mistake, and work even harder in the future. At the same time, we sincerely hope that everyone will continue to care about and support the Chinese women's volleyball team.
+
+## Around September 27, 2002: related reports on Sina Sports' volleyball section
+
+![Related reports during the 2002 Women's World Championship](/img/2002年女排世锦赛-相关报道.png)
+
+## Around September 27, 2002: popular comments on Sina Sports' volleyball section
+
+![Popular comments during the 2002 Women's World Championship](/img/2002年女排世锦赛-热门评论.png)
+
+Unlike today, the "popular comments" of those years were basically all drawn from newspapers and other print media. After a quick look, it is clear that negative commentary formed the overwhelming majority.
+
+---
+
+---
+url: /en/article/early-spring-2009/index.md
+---
+# Early Spring, 2009
+::: center
+
+:::
+
+> Author: Zhu Anfeng. Originally published on [QQ Zone](https://user.qzone.qq.com/7260468/blog/1236589239) on March 9, 2009.
+
+Before I knew it, it was already March 2009.
+
+I was not used to it at all, because even now, the number 2009 still felt brand new to me.
+
+---
+
+---
+url: /en/article/early-summer-2008/index.md
+---
+# Early Summer, Half Moon, Cool Night
+> Author: Zhu Anfeng. Originally published on [QQ Zone](https://user.qzone.qq.com/7260468/blog/1210602905) on May 12, 2008.
+
+May has always been my favorite month, perhaps because I was born in May.
+
+In truth, May in Nanjing is not especially beautiful. The floating fibers from the plane trees by the roadside make you feel that even celebrities would need giant sunglasses when they go out, and for someone like me with a slightly allergic nose, it is even worse. And although the cool mornings and evenings with warm midday sunshine can feel pleasant, that comfort never lasts long. Within a few days, the sun is blazing overhead and the city slips into the muggy heat of summer.
+
+On my way to work this morning, I stopped as usual at the wonton stall: one bowl of wontons and one steamed bun, a breakfast with a faint taste of loneliness. The owners were an elderly couple. I remember that once they told me they came from Tianchang in Anhui. The deep wrinkles on their faces and their skin color carried the unmistakable marks of hard-working farmers. What had brought them to Nanjing to make a living? Perhaps a child at home attending university? Thoughts like that inevitably made me feel a little sad.
+
+Even though the city-management officers kept things strict and they usually had to close by about 8:30, their business was still good. In Nanjing, when you eat wontons, often all it takes is one glance at the chili oil on the table to know whether the place is first-rate. I still remember the heavy snow earlier that year. On a freezing morning, a bowl of their wontons felt like the only irresistible temptation in the cold.
+
+After that rather unclear earthquake, the thing I regretted most was calling my parents immediately. What I really wanted was to make sure nothing had happened at home, but in the end I only caused them even greater worry. As the saying goes, if you say nothing they worry, and if you say something they worry even more. According to a certain expert, if you live on the 22nd floor like I did and a truly destructive earthquake happens, running is basically impossible. If it is not destructive, then the building can probably take it. So, brothers and sisters, next time there is an earthquake, just sit there and wait for fate. Expert opinion, for reference only.
+
+That evening, as usual, I went swimming at the nearby stadium on my one-three-five-six-day schedule. Maybe the earthquake had somehow cleared my head, but that night I managed to swim 400 meters freestyle in one go without swallowing any water. Someone also said it was Amitabha's birthday that day, so perhaps learning freestyle was the Buddha's will. I was impressed with myself. Good heavens.
+
+On the way home, the air was a little cold. The moonlight was bright, no less lovely than that of my hometown. When I passed Pingjiang Bridge, I stopped for a moment to enjoy the quiet, and in the night I listened silently to the sound of the wind.
+
+![Pingjiang Bridge on Pingjiangfu Road, Nanjing, photographed on May 12, 2009](/img/南京平江府路平江桥.jpg)
+
+Below the bridge, the waves of the Qinhuai River tapped against the lonely bank.
+People on the boats were chatting softly, or resting at ease.
+Silhouettes drifted away under the moonlight, farther and farther.
+And on the bridge stretched a string of my drifting footprints.
+
+What tomorrow will be like, does it really matter?
+
+Postscript: they also said it was Amitabha's birthday that day, so perhaps my learning freestyle really was the Buddha's will. Fine, I believe in myself too.
+
+---
+
+---
+url: /en/article/essay-business-trip-sea/index.md
+---
+# The Sea, Endless Drifting
+> Author: Zhu Anfeng. Originally published on [QQ Zone](https://user.qzone.qq.com/7260468/blog/1211207399) on May 19, 2008.
+
+Recently I have been very busy, busy on a business trip in a small seaside city.
+
+At some point, friends began telling me that I was the kind of person who would always live like a free spirit, drifting for a lifetime.
+
+Perhaps the drifting truly began when I left home to study in Beijing.
+
+Perhaps drifting, too,
+
+is a kind of life.
+
+![A selfie taken by Zhu Anfeng at Dafeng Port in Jiangsu in 2008](/img/朱岸峰摄于2008年的大丰港.jpg)
+
+I like traveling, though there are many kinds of travel. One kind has no clear destination at all: you simply want to go far away to a strange place, trying to escape your own heart. Another is like flying a kite: no matter how far you go, because of that fine thread of attachment, you still return to the place you know. Another drifts with the wind, stopping when the wind stops, and setting off again when the wind rises. Another is like a dandelion seed, floating and floating until it lands somewhere and grows roots there.
+
+I do not know which kind I belong to. Perhaps I am the one that drifts with the wind. When the wind stops, I fall, rest, and remain still. When the wind rises, I lift again and travel far away. Like a kite with a broken string, I go wherever the wind carries me, to places I do not know. Until one day the kite is torn apart and is no longer a kite at all, only broken scraps of paper covered in dust. Then everything will be over.
+
+I have passed through many places and lived through many stories. Yet I am never the central figure in those stories. It is like every time I go to Shanghai and choose a Starbucks, order a latte, and sit quietly by myself. There is nowhere that can really keep me, and no one who will ask me to stay. In truth, I really do wish there were a pair of faithful eyes to cry with me, someone who would tell me not to leave, someone who would wait for me every night. But if drifting is truly my fate, then all I can do is let the wind carry me wherever it wishes.
+
+I vaguely remember 2003, one month before SARS, when I went to Hefei to look for work. It was still cold there in April, with drizzle in the sky. In a small shabby restaurant by the roadside, I ordered braised chicken and a little Erguotou. I drank while watching the other diners and tasting my own mood. What I remember now is that the warmth and coldness of human life were contained in that single cold cup of liquor, while the world I imagined then still had no edges.
+
+I only hope that somewhere there is a place with beautiful sunsets and quiet night skies, and a pair of loyal ears willing to listen to the stories of my travels, the people in those stories, and the feelings of those lives. I hope there are also faithful eyes that would cry with me for the beautiful and sorrowful love within those stories.
+
+A person drifts far away.
+Where, then, is the heart?
+
+---
+
+---
+url: /en/article/first-prize-for-consulting-achievements-in-jiangsu/index.md
+---
+# First Prize for Outstanding Engineering Consulting Achievements in Jiangsu
+It means a lot to me:
+
+Comrade Zhu Anfeng made contributions to the project that won the 2010 First Prize for Outstanding Engineering Consulting Achievements in Jiangsu Province, and this certificate is therefore awarded in recognition of that contribution.
+
+Awarded project: Digital Dafeng Port
+
+---
+
+---
+url: /en/article/football-farewell-match-graduation-2003/index.md
+---
+# Peking University Memory - The 2003 Graduation Farewell Match
+I am Zhu Anfeng. The text below was published by my college classmate Li Yu in the CS section of PKU's Weiming BBS on June 30, 2003. With sincere emotion, he recorded our farewell match at the end of undergraduate life.
+
+I have kept it ever since, as a memorial to those green and youthful years:
+
+> Sender: Ortega (Forever cs99◎FT::Mule·Graduation), Board: CS\
+> Title: Never say goodbye -- to the brothers of the CS99 football team\
+> Posted on: PKU Weiming BBS (Mon Jun 30 00:46:37 2003)\
+>
+> Anzi's precise pass flew through the gap between defenders. I brought the ball down steadily, faced the onrushing goalkeeper, nudged it lightly to the side, and Mei Qiaozhu, who had already been waiting there, pushed it into the net with ease. Cheers, a sprint, embraces. Everything felt so natural, just like it had for the past four years. Qiaozhu ran to the sideline, waving the blue-and-white jersey he had pulled off, revealing the striking red words on his white T-shirt: *never say goodbye*. Pig was always good at stirring emotions, especially at a moment when everyone was already sentimental. Around 9:15 a.m. on June 28, 2003, Mei Qiaozhu scored the first goal in the CS99 graduation memorial match.\
+>
+> The ground at the First Sports Field was still muddy after rain, but our passion was as bright as the morning sunlight. On that familiar dirt pitch, we and the junior Microelectronics 2000 team gave the spectators twelve goals in total. We laughed last, winning 7:5. Qiaozhu scored early for 1:0, but they quickly equalized. Then came almost the same move again: Anzi crossed, I flicked the ball past the marking defender, and Qiaozhu finished with ease. It was never going to be an easy game. They equalized again. Then the exceptionally fierce Qiaozhu struck once more with a sharp long-range shot that left the goalkeeper helpless. Soon after, Ouyang Tu, known for his delicate technique and dribbling, sent a lofted through ball. Anzi burst forward and slid in a finish: 4:2. Before halftime, they pulled one back and the first half ended 4:3.\
+>
+> First-half lineup: Liu Xuanzhe / Sun Xi, Yan Jing, Liu Yinghui, Yi Kai / Zheng Ran, Ying Fuchen, Ouyang Tu, Zhu Anfeng / Mei Qiaozhu, Li Yu\
+>
+> At the start of the second half, Wang Hong replaced the tiring Sun Xi, Sun Shibing came on for Liu Yinghui, and Lu Peng replaced Ying Fuchen as we switched to three forwards. Not long after, Qiaozhu squared the ball in the box and I slid in to make it 5:3. But the opponents fought back stubbornly and made it 5:5. Then Anzi broke down the flank and sent in an incredibly comfortable cross from the byline. I leapt, met it with a glancing header, and made it 6:5. Finally Kang Zhaoyang shook off two defenders and fired in a wonderful shot for 7:5. During the second half, Kang replaced Qiaozhu, Shan Jun replaced Lu Peng, Li Lijun replaced Ouyang Tu, Gao Chaohua replaced Sun Shibing, and Liu Lu replaced Yi Kai.\
+>
+> The final match of the 99 football team ended there. We were all about to go our separate ways. Perhaps the classmates who remained at school would never again see me, qquan, Mandheling, Hong mm, Anzi, and others appear together on the pitch. Perhaps we would never again have the chance to fight as a complete team. In the days to come, every chance to play football would probably feel precious to me. But everything we shared over those four years would remain an indelible memory: the small-sided league within the grade, the Freshman Cup, friendlies, football class, departmental league, the PKU Cup... We sweated together, enjoyed victory together, and tasted defeat together. We did not have professional standards or professional conditions. What we did have was a common love for football, and the brotherhood among us. I will never forget the footsteps we left on the First Field and Wusi Field, the vivid smiling faces shining with sweat in the sun, the beautiful passing combinations, the precious goals, the wild embraces, and the jersey we wore together...\
+>
+> There is no banquet that never ends, and our four years of football at university had finally come to an end. From the moment of parting onward, I would hold one lifelong dream: that one day our CS99 football team could gather again and enjoy our happy football once more.\
+>
+> Never say goodbye, my brothers. To have your friendship during those four university years leaves me with no regret and no remorse. I love you all, brothers.
+
+---
+
+---
+url: /en/article/football-memories-jingde-fifth-article/index.md
+---
+# Football Memories of Jingde (V)
+> Author: Zhu Anfeng. Originally published on [QQ Zone](https://user.qzone.qq.com/7260468/blog/13) on June 24, 2010.
+
+Football skill, literary talent, a little drinking capacity, and a touch of sensitivity.
+
+Yes, that was Pei, my friend of seventeen years.
+
+To explain everything, I have to begin again from *Football Memories (II)*.
+
+After moving into town for school, I came to know Pei, Yan, and Min one after another.
+
+My connection with Pei began with the arcade game *Captain Commando*. During the National Day holiday in junior high, the first time I went to the arcade with Pei, Feng, Tao, and others, Pei always chose the twin-sword character. In the game that character was the leader, but in real life Pei was the smallest and weakest among us, and we used to laugh that he had not even begun to grow yet. Perhaps *Captain Commando* gave him a chance to imagine himself as the boss. Back then we knew nothing of the outside world. Street hooligans often bullied boys as weak as we were and tried to extort the little money we had for games. So we invented all sorts of ways to deal with them. The best trick belonged to Pei: hiding the money in the collar of his school uniform. Easier than hiding it in your socks, and without the smell of feet. It worked every time.
+
+Though physically small then, Pei actually had a bit of a temper. In junior high he sat right in front of me, and I often teased him from behind. Once I went too far, and he stopped speaking to me for an entire week. In the end, a few friends brought us back together, and he finally burst out laughing, just one step short of saying, "How annoying."
+
+Pei fell in love with football at roughly the same time I did, around the second half of senior two, so there are many football memories tied to him. The most classic is the early period when we practiced kicking technique together. First we competed over striking the iron door, then over hitting the corners, then over hitting the posts. To be honest, I usually did a little better than he did, and every time he would argue with me until his face turned red. And when it came to playing football, there were always certain people you never had to invite twice. Pei was one of them, and always remained so.
+
+Pei had a nickname: Tractor. It says everything about his style on the pitch. He played midfield, but he always wanted to carry the ball alone until the seas dried up, the rocks crumbled, and all human strength was exhausted before finally passing it. Once, while watching from the sidelines, our friend Tai, who did not even play football, blurted out the word "Tractor." The nickname stuck instantly, and before long the entire football world around us knew there was a master called Tractor. As for why exactly the name suited him, opinions differed. This Spring Festival I even asked Tai what divine inspiration had given him that name, and he smiled knowingly and said, "Classic, isn't it?" Nicknames only ever fall into two categories: loved or hated. Pei was clearly not in the first group, so he spent years competing with Doraemon for the title of Beckham.
+
+Now that Min has grown into a Maitreya Buddha shape, Yan is pushing 170 jin, and my own waistline is heading toward two feet six, he alone remains in one corner of Huangshan still insisting on the simple joy of football, where there is a ball, friends, and matches. According to him, he no longer cares much about how good the football is. What matters is the joy of friends playing together. Only he has kept that joy alive. Sometimes he still likes to show off his figure in front of us, but I know he still gets carsick.
+
+If Min gives me the feeling of a man charging across the world, and Yan that of a robed swordsman with wine and open grudges, then Pei is the one like a river flowing east. In life, he was sensitive. With better conditions, he could absolutely have become a classic petite-bourgeois type. Among the few of us, his writing was probably the best. He often tossed out lines like, "Chairman Yan stands in the wind and rain, one Little Smart phone in each hand, yelling hello, hello, but still can't get through." But every time schoolwork came up, he would talk about the year of the college entrance exam, when he saw me in front of him shaking my leg smugly after finishing an exam, which only made his own heart more chaotic. Every holiday, Pei, Min, Yan, and I would find time to heat some wine and reminisce. His delicate temperament always made him the easiest target for our teasing. Naturally, once the wine heated up, I tended to grow rather sharp-edged, leaving him to describe me only as impossible to finish listing.
+
+Still, what I miss most are the evenings we spent talking under the red awning. Whenever I think of them, I remember the dim streetlamp making occasional noises, the scattered drinkers, the intermittent roar of motorcycles, the delicious river snails, the light beer, the cool air, and the Huangshan cigarettes hanging from the corners of our mouths. All of it made us calm and sentimental. He used to say that he liked drinking most with that version of me.
+
+After graduation, Pei went directly to Huangshan City and, like Yan, became a glorious schoolteacher. I found it hard to connect him with the image of a geography teacher. In my eyes, his personality was much better suited to something more literary. If he had taught literature, his students would surely have ended up writing doggerel fluently.
+
+This May Day, Pei also completed one of life's biggest tasks. He "signed the contract" and held his wedding banquet. Sadly, for various reasons, I could not attend. But missing something is not always only regret. With some friendships, perhaps what remains between people is precisely that lightness and the deep sediment left by time.
+
+> My dear friend Zhang Qipei left us forever on November 17, 2021. I post this in his memory. R.I.P.
+
+---
+
+---
+url: /en/article/football-memories-jingde-first-article/index.md
+---
+# Football Memories of Jingde (I)
+> Author: Zhu Anfeng. Originally published on [QQ Zone](https://user.qzone.qq.com/7260468/blog/13) on August 27, 2007.
+
+Recently I have been planning to write a small series to commemorate those vanished, happy football days.
+
+This first piece can count as an opening chapter.
+
+In truth, my love of football was influenced in no small part by my mother. When CCTV had just begun broadcasting recorded Serie A matches, she used to watch them often. That was still the era of the Dutch trio and the three great German warhorses. At first I only wondered why so many people were chasing one ball around, but after watching a few times I could already explain the offside rule to her. Perhaps that was when my mother first decided that I was actually a clever child.
+
+The first time I kicked a ball was in third grade.
+
+Because both of my parents were teachers, I often had the good fortune of "borrowing" school sports equipment. I remember that my father took me there, and I immediately picked out a yellow basketball. In all the years afterward, he probably regretted that decision countless times: why let his son get involved with a ball and waste so much study time?
+
+It was called a basketball, but in fact it was smaller than a normal one, the kind suitable for primary school children. Rural primary schools were poor back then, and there were no proper basketball hoops, so at first I really did just bounce the ball around with my friends. But perhaps bouncing it was not satisfying enough. I kicked it once, with all the creative imagination I had, and that first kick was impossible to take back. Soon all my playmates were chasing the ball around like mad dogs, catching it in their arms and booting it out again. Truly, those were passionate years. The fate of that ball was easy to imagine. A few days later it had been kicked flat. Looking back, I really did show some talent. If I had been trained properly, maybe China would by now be world champion in the art of kicking basketballs flat.
+
+Still, damaged socialist basketballs were damaged basketballs, and my mother gave me a stern scolding when she found out. From that point on, nobody in our little world dared kick a ball again, and until I moved into town for school, I never touched a real football.
+
+---
+
+---
+url: /en/article/football-memories-jingde-forth-article/index.md
+---
+# Football Memories of Jingde (IV)
+> Author: Zhu Anfeng. Originally published on [QQ Zone](https://user.qzone.qq.com/7260468/blog/1228870784) on December 10, 2008.
+
+Back in those years, the close friends I knew had usually either played football with me or drunk with me, and the even closer ones, like Zhang Qipei or Wang Min, were almost the kind you could say wore the same trousers. Wang Zhengqiang was a little different. First, although I had met him as early as junior high, we always moved in different circles and did not play together. Second, the man had an astonishingly low alcohol tolerance. After just two drinks his face would turn so red it made you want to dial emergency services.
+
+But the boy could really play.
+
+When football commentator Zhang Lu used to describe a certain kind of player in Serie A, he liked to say the player was "sly" in the positive sense. Wang Zhengqiang absolutely qualified as one of those. He struck quickly. In martial-arts novels, the masters kill in a flash of steel. With him, by the time you turned to look, all you could see was his back. If he had devoted himself to training some kind of invisible-kick technique, he would probably have become the leader of the martial world. He also had a strong sense of the game and a good overall view. Of course, our own technical level was so poor back then that when he played with us, he did not really need to display much of that broader vision. Huang Song of the golden generation had a similar style, just with less speed. Wang had a maturity on the pitch that did not match his age at all, so much so that you almost suspected he had already gone away to university and come back just to humour the rest of us.
+
+His only weakness was physicality. He always wore glasses while playing too, so against the truly reckless types things could get dangerous. In that sense, God was still fair in making people. In our era, family food conditions were generally not great. Aside from Min, who seemed to live on turtle soup, very few of us were power players. So in the Jingde football circle, technical footballers formed the mainstream, while the strong ones acted like gang bosses. Football's harmonious society had already appeared there long before the term was fashionable. Within that technical mainstream, this "sly man" moved like a fish in water.
+
+That 2:0 win by Class 1 over us, mentioned in the previous essay, was, in my opinion, almost entirely his doing. Even now, many years later, I still believe that.
+
+Another thing that must be said is that he was also excellent at *Winning Eleven*. I did not play him many times, but I never beat him. To be precise, I was always soundly thrashed.
+
+After we started working, contact became less frequent. He seemed to move through several different cities. In 2005 he came to Nanjing once with Min and watched that year's Asian Cup.
+
+The last time I saw him was at Zhu Yan's wedding, when several friends gathered at Zhu Yan's home before he caught a night train to Hangzhou. It was already late autumn, and by the next day everyone would again go their separate ways, so nobody drank much. "After this meal, I'm off," he said as he stood up. His alcohol tolerance was poor, but there was still a certain heroic air to him.
+
+I never really got the chance to play beside him properly, or to eat heartily and drink deeply with him. That remains a real regret.
+
+---
+
+---
+url: /en/article/football-memories-jingde-second-article/index.md
+---
+# Football Memories of Jingde (II)
+> Author: Zhu Anfeng. Originally published on [QQ Zone](https://user.qzone.qq.com/7260468/blog/1212376324) on June 2, 2008.
+
+When I moved into town for school, I was in the second year of junior high. It was a time when landline telephones and cable TV still felt fashionable. I did not truly fall in love with football then, but I did become inseparable from arcade games, which is how I later came to know good friends like Zhang Qipei. That is another story. My only football memory from that period was secretly watching Guizhou TV's broadcast of the 1995 FA Cup final at home, where Cantona scored the famous volley against Liverpool, and the man who took the corner was none other than Beckham.
+
+By my third year of junior high, China's Jia-A league was flourishing, but our school still had no proper sports equipment, no PE pressure from entrance exams, and free-activity periods in which anything could happen. Some people dated, some played arcade games, some ran off to steal sweet potatoes on the hill, but football was still absent. Once in a while we would kick around a mineral-water bottle as if it were a football, and have a great time.
+
+Those days passed lightly. We were young, simple, and happy, and each of us had our own dreams of the future: to charge through the world with a sword, or to wander with wine and quick justice, or to lose ourselves in romance and poetry. Yet football remained a martial world we had not stepped into.
+
+In high school, we faced far less academic pressure than students do now. There were no pop-idol talent shows either, so we had no choice but to pour all the hormones of adolescence onto the sports field. Our class took up football late, and our basics were terrible. School resources were scarce, with only one football field for countless people. Worse still, there were also four basketball courts on the same ground, so on Saturday afternoons the whole place was chaos. If you were not paying attention while playing, another ball might fly in from nowhere, or some stranger might grab the football and start shooting hoops with it.
+
+The photo below shows the old sports ground of Jingde Middle School, taken by [me](https://zhuanfeng.netlify.app/) on May 6, 2001.
+
+![The old sports ground of Jingde Middle School](/img/旌德中学的老运动场.jpg)
+
+The funniest part was always the goalkeepers. Several teams shared the same goal on one side, so for a while one team's keeper would be in goal, then another team's keeper would come over and take over. It was hilarious. Back then we played like lunatics, often staying until the sun went down. The field would go from packed with people to only the few of us stubborn brothers left lying on the ground in giant spread-eagle shapes.
+
+The juniors one year below us had started playing earlier, and they combined better too, with something of a golden-generation aura about them. I once joined one of their matches, and because my technique was still poor I had no choice but to play goalkeeper. Anyone who has played casual football knows that nobody wants to keep goal. It is basically the same as being a ball boy.
+
+Naturally I was not willing to accept that, so I practiced hard every day. In football, the way you strike the ball often tells people what kind of player you are. As for me, I never liked dribbling much; I cared more about passing technique, movement, and placement. So when I was alone I loved practicing my kicking. There had once been a row of flat classroom buildings beside the field, and one of them had a sheet-metal door that was exactly the target size I liked. Even though I was otherwise a pretty obedient student, in the name of football improvement I had to become a violent man. At the beginning my kicking was awful, and the windows nearby suffered badly. On several occasions the ball curved over the roof and smashed the second-floor glass of the building behind it. Even Beckham would not have matched that trajectory. My improvement owed a great deal to that iron door and those broken windows. Sadly, both the field and the classrooms that held our sweat and friendship have been demolished. Nearly ten years later, whenever I pass the old place, I still think of shooting at that iron door in the dusk, and its echoes still ring in my ears.
+
+Because my skills improved so quickly, by the second half of senior two I had already become one of the better football players in my class.
+
+---
+
+---
+url: /en/article/football-memories-jingde-third-article/index.md
+---
+# Football Memories of Jingde (III)
+> Author: Zhu Anfeng. Originally published on [QQ Zone](https://user.qzone.qq.com/7260468/blog/1214149330) on June 22, 2008.
+
+By senior year, there were only two kinds of ball I wanted to play: football, and *Winning Eleven*.
+
+Let me start with *Winning Eleven*, because that too is part of my football memory. One evening, the school lost power during self-study and a few classmates dragged me off to a place where you could "play game discs." I still remember the scene now. The game room was small, right next to the cinema, crowded with arcade cabinets for *Street Fighter*, *KOF*, mahjong, and a battered TV hooked up to a PlayStation that made you want to kick it to death. Single-player cost three yuan an hour, doubles cost six. For poor boys like us that was expensive, but we still enjoyed it enormously and saved money every week just to go a few times.
+
+At first we were probably playing *Winning Eleven 3*. Honestly, I should thank those people selling pirated discs. Without your lawbreaking, my life story might have been incomplete. There was no Chinese version then, not even an English version. Player names were all in Japanese. You had to identify players from the blurry pronunciation of the commentator, except for the ones whose faces looked especially strange, like Carlos, Zidane, and Ronaldo.
+
+I still miss that wild era when Carlos and Ronaldo played up front. Though I never bothered using Brazil myself, because I felt that taught you nothing. Speed-9 Carlos plus Ronaldo, along with the unstoppable Batistuta, taught you what true invincibility looked like.
+
+At the time we were Class 3-2, and gradually the ball-playing crowd in class split into two factions: football and basketball. But since there was no CBA craze, no Yao Ming, and because football had more players to begin with, almost nobody defected from football to basketball. As I remember it, only Zhou Wenyu and Zhang Shengfeng remained absolutely loyal to basketball. The school had no football competition then, and as our class team kept growing stronger, our desire to play a real match became even stronger than the desire to find girlfriends.
+
+For our first opponents, of course, we wanted someone weak enough that we could practice teamwork and build confidence. We fixed our eyes on Class 1, a class where only two people really knew how to play and everyone else just played basketball. To their credit, they accepted right away.
+
+The match was arranged for an afternoon after school. The field was still muddy after rain, and the sky was dark and heavy, with exactly the kind of mood that makes you think, before the army leaves, the general already dies. I no longer remember the details of the game, only that we lost 0:2. One goal came from He Jinwei, and the other from a basketball-playing classmate surnamed Yu who later went off to Tibet. Even now, I still do not quite understand how we lost. But that match was a real blow to me. In today's language, we had no clear understanding of our own level. A frog at the bottom of a well finally tried to climb out, only to be blown back in by the wind, with the lid slammed shut on top.
+
+As for those two players from Class 1, they both came with plenty of stories. Let me start with He Jinwei.
+
+That guy was excellent at two things: *Winning Eleven* and pinching people. In *Winning Eleven* he and I were evenly matched, but I always lost the penalty shootouts, which left a small psychological scar on my young mind. As for pinching, he had practically founded his own school of martial arts. Zhang Qipei's chest muscles, according to legend, were pinched into existence by him. Back then, he knew Wang Zhengqiang, Zhu Min from Class 4, Ma Lihui, one of the banner figures of the so-called golden generation, and Wu Wenjin, known in the jianghu as Little Left. Through them he often played with that golden generation. Once they all bought a set of white Italy jerseys, and he chose No. 12, the number of Pagliuca, which immediately earned him the nickname "Pagliuca." Unfortunately that meant he ended up playing goalkeeper more and more often.
+
+As a footballer, he did not have especially obvious traits, but he was lucky. Once he went by chartered car with the golden generation to Jixi and played a match against Jixi No. 1 High School. They actually won. It rained heavily on the journey, and the ball skated on the water like a floating leaf, so one sliding tackle meant a whole pair of trousers soaked through. These days, hiring a car to play an away match seems ordinary. Back then it felt incredibly stylish. He also scored two goals in matches that left deep impressions on me: one was in the 0:2 defeat I mentioned above, and the other came in the famous 5:5 match against the golden generation, where the opening goal was also his, more or less by accident.
+
+After graduation, he went to study in Shanghai and somehow gained an even more vivid nickname: Doraemon.
+
+For people who are that accomplished, it is hard for their nicknames not to have character.
+
+And the other player from Class 1 was Wang Zhengqiang.
+
+---
+
+---
+url: /en/article/football-memories-of-zhuanfeng/index.md
+---
+# Peking University Memory - Football Memories of Anzi
+Author: Li Yu. Originally published around 2003 on **PKU Weiming**.
+
+Among my university friends, Li Yu was never exactly known for elegant punctuation, so please read the following with some tolerance:
+
+> With Anzi, I always felt we had met too late. We were not in the same class and did not really move in the same circle, so before senior year we were little more than nodding acquaintances. Only when life slowed down in our fourth year, when we spent our days playing football, chatting online, and going out to eat and drink, did I realize how much Anzi's temperament suited me, and I came to regard him as a true confidant.\
+>
+> Anzi was straightforward by nature. If he had lived in ancient times, he would definitely have been the kind of man who repaid kindness and grudges with equal openness, drinking from big bowls and eating great chunks of meat. Being friends with him was always refreshing. There was no need for calculation. A brother was simply a brother. During senior year we ate and drank all over the place. I had never really touched strong liquor before, but because of Anzi's boldness I ended up drinking a lot too. For example, that time at the west gate chicken-wing stall when each of us finished a whole bottle of Erguotou, or the farewell match, when I drank so much that I went back to the lab, shut the conference-room door, and fell asleep there until dinner, while loop and the others searched everywhere for me, or the time I brought out a bottle of Wuliangye from the 1980s that my father had once told me to give away but that I had instead hidden in my cupboard for four years. I drank it all with Anzi, loop, danny, and others over a basin of boiled fish at Huamei.\
+>
+> Anzi's playing style was just like his personality: direct and exhilarating. He mainly played on the right, quick in both directions, strong at dribbling, crossing, and finishing. Though he seemed to adore Beckham, to me his style was actually more like Zanetti's. Playing with him always felt reassuring. If you gave him the ball, he would always find a way to send it somewhere dangerous, and the rest was up to me. As for his finest works, one was that long-distance lob from the wing against the Class of 2001 in the departmental league, almost a mirror image of Hagi's goal against Colombia in 1994. Though I still strongly suspect he was really trying a cross and miskicked it. He insists to this day that it was a deliberate outside-of-the-foot lob. The other masterpiece was the cross he gave me in the farewell match. Even now, if I close my eyes, I can still recall that cross, as if it had been calculated to the millimeter. All I had to do was jump, glance the header, and then celebrate.\
+>
+> When graduation came, emotional people like Anzi and me both chose to head south for the sake of girls. I went to Shenzhen; he went to Nanjing. After losing touch for two years, I finally found his contact information again. Remembering that old goal, Anzi said to me: "I still cannot figure out how I managed to give you a cross like that. I never delivered one like it again..." When the QQ window flashed with that line, my eyes grew a little wet.
+
+The photo below was taken at Peking University's First Sports Hall in 2003.\
+
+---
+
+---
+url: /en/article/he-trivialities-of-may-day/index.md
+---
+# May Day Odds and Ends
+> Author: Zhu Anfeng. Originally published on [QQ Zone](https://user.qzone.qq.com/7260468/blog/1209823327) on May 3, 2008.
+
+During this May Day holiday I finally met two friends' future wives: one was Min's, in 3D form; the other was Pei's, in 2D form. Both were impressive in their own ways.
+
+It was more or less settled that I would serve as Min's best man. I felt lucky to have such a chance for a good friend.
+
+Back home I played cards with friends, and Zhong Cheng won quite a bit. Later he told me that his girlfriend from the New Year period had texted him to say she was getting married, and that the day before he had even picked up fifty yuan while walking around town. "Maybe unlucky in love, lucky at the card table," he said. I only wanted to ask God and Amitabha one thing: why am I not lucky in anything at all?
+
+Tonight I went swimming and accidentally swallowed another mouthful of pool water. It still tasted terrible.
+
+This May Day was hot. Tonight I am writing this post with the electric fan on, the first time I have used it this year.
+
+I arrived in Nanjing a little after ten in the morning. Maybe because I had gotten up too early, after lunch I watched the latest episodes of *Supernatural* and *CSI: NY* and then fell asleep on the bed. I dreamed a lot. It had been a long time since I had slept like that in the afternoon, and as a result I felt very awake at night.
+
+Zhu Yan's wife says that every time I go home I produce one classic line. During the Spring Festival it was, "I was wrong." This time it was, "I need calcium supplements."
+
+On the night of the 1st, I ate a late-night meal with Qipei for more than two hours. I love that feeling of talking under familiar streetlights, beside the familiar red awning, in the familiar temperature and breeze, with familiar motorbike noise, familiar river snails, familiar faces, and an unfamiliar tomorrow.
+
+I still believe the same thing: maybe we cannot play football for a lifetime, but we can be friends for a lifetime.
+
+---
+
+---
+url: /en/article/i-see-uss-enterprise/index.md
+---
+# I Saw the USS Enterprise
+Recently Nanjing has been unbearably hot. I went out for a short run this afternoon and came back drenched in sweat.
+
+That made me think of myself more than twenty years ago, just after the college entrance examination. I turned to an old diary entry from that time:
+
+> Today, the damned two-and-a-half-day college entrance exam has finally ended. For me, it feels like setting down a weight of a thousand catties. At last, everything is over.
+> Of the five exams, my own feeling was that English was the best, then physics and chemistry, while Chinese and math were the worst. Later score estimates proved that feeling correct. But what deserves special mention is this: after not doing well in Chinese and math, I was still able to adjust my mindset and finally get through the gaokao. That in itself shows my mental resilience had already reached quite a strong level, at least compared with my peers.
+> So no matter what, I still had reason to feel relieved.
+
+I love July 9, because it always feels like a day of rebirth for me.
+
+In fact, neither you nor I are really afraid of failure. What we fear is not being given another chance. If life worked like a game with cheat codes turned on, who would be afraid?
+
+As the best footnote to today, I was lucky enough to see the strange cloud formation in the picture below, and it instantly reminded me of the USS *Enterprise*: Live long and prosper.
+
+![A cloud that looked suspiciously like the Enterprise](/img/uss-enterprise.jpg)
+
+---
+
+---
+url: /en/article/in-the-tall-birch-forest-my-youth-wanders/index.md
+---
+# In the Tall Birch Forest, My Youth Wanders
+> Author: Zhu Anfeng. Originally published on [QQ Zone](https://user.qzone.qq.com/7260468/blog/1376914791) on August 24, 2013.
+> ::: center
+
+Beautiful Huishui River
+
+wave after wave
+moving forward
+
+flowing without end
+slipping into dreams night after night
+
+![A photo of the birch forest by the Jingde County hydropower station, taken by Zhu Anfeng in 2013](/img/2013年旌德县水电站旁的白桦林.webp)
+
+Do not let me look back
+
+let me go once
+
+Do not let me look back
+
+let me go once
+
+In the tall birch forest
+
+my youth is wandering
+
+In the tall birch forest
+
+my youth is wandering
+
+:::
+
+---
+
+---
+url: /en/article/jingde-middle-school-big-events/index.md
+---
+# Major Events of Jingde Middle School (1943-1995)
+::: info
+Originally published around 2004 on the official website of Jingde Middle School, and later collected, organized, and republished by Zhu Anfeng, alumnus of the 1999 graduating class.
+:::
+
+## 1943
+
+* August: Jingde County Junior Middle School was founded at the Martyrs' Shrine by the lower east gate of the county seat, now the site of Jingyang No. 1 Primary School. Wang Han, chair of the preparatory committee, became the first principal.
+* September: The school enrolled its first two classes of first-year junior students, sixty-eight in all, plus twenty transfer students in second year.
+
+## 1944
+
+* September: A four-year simplified teacher-training class was added, admitting forty-six new students.
+* October: Teachers and students actively publicized the War of Resistance through wall newspapers displayed at the school gate.
+
+## 1945
+
+* July: The school's first junior-middle graduating class, twenty-six students, completed their studies.
+
+## 1946
+
+* July: Principal Wang Xihan resigned and Jiang Pijun succeeded him.
+
+## 1948
+
+* July: The first class of the simplified teacher-training program graduated, with twenty-five students.
+
+## 1949
+
+* March: Vice County Magistrate Zhu Mingliang took over the school on behalf of the county government and served as acting principal.
+* September: The school was renamed Jingde Junior Middle School of Southern Anhui District.
+
+## 1950
+
+* March: The second year of the teacher-training section was merged into Shexian Normal School, and the first year was merged into the school's junior classes.
+* May: Wang Chenghe concurrently served as principal, with Zhang Pingbo as vice principal and dean of studies.
+* September: Zhang Pingbo formally became principal.
+* School land and property were transferred for management by local peasant associations, and the school thereafter relied on government funding.
+
+## 1951
+
+* February: During the nationwide campaign to resist U.S. aggression and aid Korea, a wave of students volunteered for military service and cadre work.
+* June: The county government issued the school's land and property ownership certificate.
+
+## 1952
+
+* February: Zhang Pingbo was transferred out, and County Magistrate Zhang Jimin concurrently served as principal.
+* The school was renamed Anhui Jingde Junior Middle School.
+* September: A New Democratic Youth League organization was established, with full-time youth cadres assigned.
+
+## 1953
+
+* February: Party member Nan Yuemin became principal, the first Communist Party principal in school history.
+* May: The county government issued the official deed for school land.
+
+## 1954
+
+* January: Principal Nan Yuemin left, and Jiang Dazhuo was promoted to vice principal.
+* May: Wang Guoyuan was transferred in to act as principal.
+* October: The school organized dance and singing competitions to celebrate the anniversary of the October Revolution.
+
+## 1955
+
+* January: The school affairs meeting passed five regulations on student rewards and punishments.
+* May: The school implemented physical-training standards.
+* July: Some teachers went to Hefei for political-study sessions.
+* December: The school began building a nursery garden and promoted "comprehensive technical education."
+
+## 1956
+
+* April: A school assembly commended outstanding students and invited their parents to attend.
+* July to September: Teachers and staff took part in concentrated political-study and anti-counterrevolution campaigns.
+
+## 1957
+
+* August: The school carried out socialist education and the anti-rightist struggle.
+
+## 1958
+
+* October: Teachers and students suspended classes to join the steelmaking movement.
+* The high-school section was added, and the school formally took the name Anhui Jingde Middle School.
+* The campus moved to Wangci outside the west gate.
+* The county approved land requisition for the new campus.
+
+## 1959
+
+* During the temporary merger of Jingde and Jixi counties, the school was at times referred to as Jixi County No. 2 Middle School, though without formal approval.
+* A Party branch of Jingde Middle School was established, with Wang Guoyuan as the first secretary.
+* Student labor-study organizations, a security committee, and school-run productive work were established.
+
+## 1960
+
+* February: The school held a workers' congress, where Principal Wang Guoyuan presented a work report.
+* The whole school participated in construction labor for campus buildings and the large sports field.
+* March: A comprehensive teaching inspection was carried out.
+* September: Teachers led senior students to join teaching arrangements in Jixi.
+
+## 1961
+
+* April: After Jingde and Jixi were separated again, part of the school moved into the current campus area.
+* September: Twelve student-discipline rules were issued to the whole school.
+* The first graduating high-school class completed study, with forty-eight graduates and thirteen admitted to higher education.
+
+## 1962
+
+* The teaching staff was reduced to forty-nine through transfers, reassignment, and retirement.
+* July: The second high-school graduating class saw nine students admitted to higher education.
+* August: Zhang Siqi became vice principal.
+* October: A school-wide "Respect Teachers, Love Students" month was launched.
+
+## 1963
+
+* March: By administrative order, high-school admissions were suspended for two years.
+* June: The first-year class of Huatan Middle School was merged into Jingde Middle School.
+* July: The graduating high-school class sent seven students to higher education.
+
+## 1964
+
+* April: Some high-school students carried out village-history investigation and publicity performances in Tangcun.
+* May: The school won second place overall in the regional youth shooting competition held in Jingde.
+* October: School performances such as *The Third Day of the Third Month* and *Strolling Through the New City* received praise at public performances.
+* November: The school track-and-field sports meet was held.
+* December: Student Da Jiucheng was selected as an air-force pilot candidate.
+
+## 1965
+
+* March: The school marked the second anniversary of Mao Zedong's call to "Learn from Lei Feng."
+* August: The campus moved from west of the city gate to the foot of Zishan.
+* October: Zhou Anhe of the school was selected as a pilot candidate.
+
+## 1966
+
+* May: The Four Cleans movement entered the school, followed soon by the start of the Cultural Revolution.
+* June: The school established a swimming-activities guidance committee.
+
+## 1967
+
+* Red Guard representatives were organized to travel to Beijing for political networking.
+
+## 1968
+
+* April: The school acquired flatland and hillside from the vegetable-production team for expansion and for a sports field.
+* August: The Revolutionary Committee of Jingde Middle School was established.
+* September: A worker propaganda team entered the school.
+* October: Junior middle school students were organized to join agricultural-labor support work.
+
+## 1969
+
+* The school changed from autumn admissions to spring admissions and replaced Russian classes with English.
+* September: Classes resumed under the slogan of "making revolution through returning to class," while some teachers were reassigned to commune schools.
+
+## 1970
+
+* May: The school started a light-bulb reproduction factory.
+* The high-school section was moved to Huojiaqiao in Shuanghe Commune as a branch campus.
+
+## 1971
+
+* The whole school adopted a militia-style organizational system.
+* February: Luo Yongxia became deputy director of the Revolutionary Committee.
+
+## 1972
+
+* February: Xiang Kai became director of the Revolutionary Committee.
+* The relocated Huojiaqiao high-school section became the separate Huojiaqiao Middle School.
+* The school opened a plastic-bag factory, a printing shop, and a tractor-parts workshop.
+
+## 1973
+
+* May: The fifth student track-and-field meet was held.
+* August: Xue Xizhi was promoted to director, with Li Heming transferred in as deputy director.
+
+## 1974
+
+* March: Sixty-one non-agricultural household graduates were sent down to the countryside.
+* April: The sixth student track-and-field meet was held.
+* June: Yu Yehe became deputy director of the Revolutionary Committee.
+
+## 1975
+
+* Teachers and students built earth walls and rough classroom desks through self-reliance.
+* June: The seventh student sports meet was held.
+
+## 1976
+
+* June: The eighth track-and-field meet was held.
+* July: High-school students were organized to support agricultural harvesting.
+
+## 1977
+
+* Hu Hanrong became director of the Revolutionary Committee.
+* Junior middle students moved earth to expand the sports field.
+* Student Han Taisong won first place in both the 100m and 200m at a regional swimming meet.
+* Wang Zhirui became vice principal.
+
+## 1978
+
+* Han Taisong again won multiple first places in regional and provincial swimming competitions and later represented Anhui at the national middle-school swimming competition in Guangzhou.
+* August: Wang Shijie from the provincial education department came to give a report to teachers.
+* December: Xu Taiyuan became principal.
+
+## 1979
+
+* July: The school achieved excellent countywide entrance-exam results, taking many of the top spots.
+* August: Han Taisong again won four first places in the provincial middle-school swimming competition.
+* The second national mathematics annual meeting was held in Jingde, and several famous mathematicians lectured at the school.
+
+## 1980
+
+* August: Teachers were organized to visit Hangzhou for study and exchange for the first time.
+* Professors from Wuhu and Huizhou came to the school to give academic reports.
+* The school began trial implementation of sports-work regulations for primary and middle schools.
+
+## 1981
+
+* March: The school strongly promoted the campaign to learn from Lei Feng and build new social conduct.
+* June: Hu Wangzhu became principal, and Bi Danwu became vice principal.
+* August: High-school student Han Taisong again won two first places in the provincial swimming competition.
+
+## 1982
+
+* August: Pan Minggen became principal and Shi Yongcheng became vice principal.
+* High-school student Zhang Qin was named a provincial exemplary student.
+* September: The school issued regulations for transfer students and student-record management.
+* October: Three evening tutorial classes were launched and continued until 1985.
+* November: The eighth student sports meet was held.
+* The school was approved as one of Anhui's first six-year restructured complete middle schools.
+* December: Student Wang Huiqun won second prize in the regional mathematics competition.
+
+## 1983
+
+* March: A "civilization and courtesy month" campaign was launched school-wide.
+* June: Student Chen Weiping was selected as a pilot candidate.
+* Provincial leaders came to inspect the school.
+* November: The ninth student sports meet was held.
+* Student assemblies, Youth League congresses, and cross-country races were organized.
+
+## 1984
+
+* The school held poetry reading and singing competitions, student-union elections, academic contests, and social-science knowledge competitions.
+* Sports teams performed strongly at county meets, breaking multiple county records.
+* School leaders and academic-group heads visited schools in Wuhu and Nanjing for exchange.
+* Physics teacher Qiu Ruizhen was recognized at the provincial level as an exemplary parent.
+
+## 1985
+
+* The school bought a new boiler, opened a bathhouse, and held the first staff representative congress.
+* Principal Pan Minggen attended a provincial meeting of complete-middle-school principals.
+* The county government awarded the school honorary certificates for civilization-building.
+* Zhou Erfu wrote the school's name in calligraphy.
+* The comprehensive teaching building for the high-school section was completed and put into use.
+* Teachers received recognition and the school held the twelfth student sports meet.
+
+## 1986
+
+* The campus underwent greening with many newly planted trees.
+* Student Huang Daoyou won second prize at a provincial youth science exhibition.
+* Liu Bin became principal, Pan Minggen became honorary principal, and Wu Xueyou served as Party secretary.
+* A leadership group for spiritual-civilization construction was established.
+* The school held a large New Year's performance with thirty-eight programs by teachers and students.
+
+## 1987
+
+* Students won prizes in essay competitions and archives work received county recognition.
+* A title-evaluation leadership group was established under Principal Liu Bin.
+* The office building was completed and put into use.
+* Computing equipment was allocated to the school.
+* The fifth Youth League congress was held.
+
+## 1988
+
+* Teachers and students planted hundreds of trees to green the campus.
+* Hu Tiexing became principal after Liu Bin resigned.
+* A security office was added with approval.
+* Teacher Cui Ling died in the line of duty.
+
+## 1989
+
+* Students won prizes in mathematics, physics, and chemistry competitions at provincial and regional levels.
+* Campus paths, flowerbeds, and a grape trellis were completed.
+* The second staff representative congress was held and school-management reform plans were revised.
+* The school service department officially opened.
+* The Party branch and Youth League committee received honors.
+* County and regional education authorities conducted comprehensive teaching inspections.
+* The school established a moral-education leadership group.
+
+## 1990
+
+* The school held assemblies commemorating Lei Feng and strengthened campus greening with hundreds of trees.
+* The sixth Youth League congress was held.
+* Students won awards in writing, environmental essays, and language competitions.
+* Wu Yiqin became principal.
+* The first phase of the canteen and auditorium project was completed.
+* New military training for first-year high-school students began.
+* Regional authorities evaluated the school-running level and inspected audiovisual teaching.
+* A Political and Ideological Education Office was established.
+
+## 1991
+
+* The school held reports on revolutionary martyrs and visits to Southern Anhui Incident memorial sites.
+* Teams competed in calisthenics and singing contests, and staff donated funds for disaster relief and other causes.
+* Summer theory-study classes were organized for teachers.
+* The first batch of compulsory-education contracts was signed with new junior students.
+* The track-and-field team performed strongly in county competition.
+* Wu Yiqin resigned, and Vice Principal Fan Shengping began presiding over school work.
+* Students won prizes in English, chemistry, and greening-knowledge competitions.
+
+## 1992
+
+* A teachers' home was opened on the third floor of the office building.
+* Historical lectures, security honors, chess and recreation activities, and English knowledge competitions were organized.
+* New audiovisual equipment was purchased.
+* Students and classes donated for gate repairs and bicycle sheds.
+* Archives work received recognition.
+* The school resumed its printing operation and introduced color-printing technology.
+* Fan Shengping became principal.
+* The new school gate and its golden-letter decoration were completed.
+* Students won awards in speeches, chemistry, physics, and athletics.
+* Nine-year compulsory education work passed comprehensive inspection.
+
+## 1993
+
+* Staff donated funds to disability associations.
+* The school was recognized as an advanced unit in democratic management.
+* A school security office was added.
+* A regional conference for senior-three graduation work was held at Jingde Middle School.
+* The fiftieth anniversary was prepared and celebrated, and the school motto, school song, and emblem were adopted.
+* Students won prizes in physics, chemistry, essays, geography, and athletics.
+* The school printing factory introduced Peking University Founder electronic publishing and offset-printing equipment, becoming the first high-tech printing unit in the region's education system.
+* The school continued to retain its county-level civilized-unit title.
+* The new educational and teaching reward fund announced its first set of awards.
+
+## 1994
+
+* Regional authorities conducted comprehensive evaluations of sports and health work, in which the school ranked first in the region for sports assessment.
+* Students won awards in physics, mathematics, composition, English, chemistry, and subject competitions of various kinds.
+* The school won county honors in junior-middle-school management, sports and health, and physics teaching.
+* Staff donated to family-planning work and participated in county tree-planting.
+* Fan Shengping, the principal, received recognition for outstanding responsibility-system performance.
+* The school established Yunhai Industrial Company as a school-linked enterprise.
+* County leaders visited the school canteen, dormitories, and construction sites, and the experimental building reached roof-completion.
+* The school's high-school entrance and college entrance results ranked first in the county.
+* Multiple teachers won honors in teaching-paper and lesson-plan competitions.
+* The school established an Association for Caring for the Next Generation.
+* The archives room passed county inspection and received provincial qualification.
+* The Youth League committee was awarded the title of advanced league committee in the region.
+* The fourteenth student track-and-field meet was held.
+
+## 1995
+
+* Two junior students turned in a pager they found, and the county public-security bureau sent a letter of thanks.
+* The school was recognized for strong results in geography and history graduation exams.
+* The eighth Youth League congress was held.
+* County leaders inspected the school's campus greening.
+* The school's labor union received its legal-person certificate.
+* The school held a mobilization conference on quality-oriented education and issued implementation opinions.
+* Students won awards in chemistry, composition, physics, English speeches, mathematics, biology, political essays, and other subject competitions.
+* Visiting principals and teachers from other counties came for exchanges.
+* Many teachers received county honors on Teachers' Day.
+
+## Editorial Note on This Chronicle
+
+This chronicle was compiled in order to improve the school's archival materials, make reporting and summarizing educational work easier, and provide a factual basis for writing educational history. It is meant only as a beginning.
+
+From 1943 to 1982, because of the long passage of time, no single specialized record of major events had survived in complete form. Much of the early material was reconstructed from original archives still held by the school, along with recollections gathered from alumni during the fiftieth anniversary celebrations, so it cannot be considered fully complete. From August 1982 onward, the principal's office and personnel secretary began recording major events more systematically, and from 1992 the chronicle followed newly issued standards for selection and scope, so the most recent fifteen years are comparatively complete and accurate.
+
+Compiling school history requires patience, responsibility, and support from every office of the school. We believe that, driven by a shared sense of responsibility and mission, if each generation continues to record the school's path of development, this chronicle of Jingde Middle School will eventually become an important work in the history of education in Jingde.
+
+---
+
+---
+url: /en/article/jingde-middle-school-history/index.md
+---
+# A History of Jingde Middle School (1943-2003)
+::: info
+Originally published around 2004 on the official website of Jingde Middle School, and later collected and organized by Zhu Anfeng, alumnus of the 1999 graduating class.
+:::
+
+Jingde Middle School of Anhui Province was founded in August 1943. By 2003, it had reached its full sixtieth year. In the span of six decades, the school grew from its birth through hardship and development into a school of real scale.
+
+## 1. The County Junior Middle School Before Liberation (August 1943 - March 1949)
+
+As early as 1942, people in Jingde who cared about education, distressed by how underdeveloped local schooling was, proposed the founding of a county junior middle school. In November of that year, the Preparatory Committee for Jingde County Junior Middle School was established. Wang Xihan, a graduate of National Wuchang Normal University, served as chair. During the preparatory period, the county government allocated funds for operations and construction, while prominent local families were mobilized to donate land and money. In total, around 1,300 mu of land was gathered and used as school property through rent collection.
+
+In early August 1943, Jingde County Junior Middle School was formally established, with Wang Xihan as its first principal. The campus was located in the premises of Jingyang Primary School at the lower east gate of the county seat. In September, the school admitted its first two classes of first-year junior students, while one second-year class transferred in from elsewhere. By the following year, a four-year simplified teacher-training class was also opened, and the school had grown to six classes with about 260 students.
+
+In 1946, Wang Xihan resigned and Jiang Pijun succeeded him as principal. The school continued to operate with both regular junior-middle classes and teacher-training classes. The establishment of the county junior middle school ended Jingde's long history of having no secondary education at all and opened a new chapter for education in this mountainous county.
+
+## 2. Steady Growth After Liberation (April 1949 - August 1958)
+
+In April 1949, Jingde was liberated, and the newly established people's government took over the school. In September of that year, the school was renamed Jingde Junior Middle School of Southern Anhui District. The new government also implemented student financial aid, helping students from poor families continue their education and giving concrete form to the principle of opening education to workers and peasants.
+
+In the early 1950s, the school underwent multiple institutional adjustments. The teacher-training classes were reduced and merged, government funding replaced the older land-based income system, and the school gradually stabilized under public management. Principals and vice principals changed several times, but the school continued to expand, and by the late 1950s it had grown to six teaching classes, around 345 students, and more than thirty staff members.
+
+During this period, the school also experienced the broader political movements of the era, including ideological rectification and anti-rightist campaigns. Even so, teaching conditions and staffing improved gradually, and these years formed the stage of steady post-liberation development.
+
+## 3. The Difficult Early Years as a Complete Middle School (August 1958 - December 1978)
+
+In 1958, during the Great Leap Forward, the school expanded to eight classes and admitted its first high-school students. It also formally adopted the name it still uses today: **Jingde Middle School of Anhui Province**. From that point, it became a complete middle school rather than only a junior middle school. Its campus also moved from the east gate area to Wangci outside the west gate.
+
+Those years were highly turbulent. While expanding, the school had to respond to campaigns such as steel production, agricultural support work, and repeated non-teaching mobilizations, all of which badly disrupted education. In the early 1960s, after county-level administrative changes and periods of economic hardship, the number of students and teachers fluctuated sharply. High-school admissions were at times suspended. At other times the school briefly recovered and even maintained active extracurricular life, including sports meets, student performances, and public productions.
+
+The Cultural Revolution brought the normal teaching order to a near standstill. School leadership shifted repeatedly, revolutionary committees replaced ordinary administration, and many teachers were reassigned or sent elsewhere. Students were affected by political movements, labor mobilization, and the new social order of the time. Even so, the school did continue in altered form, and major physical foundations of the present campus were laid during these years, including land requisition for what became the current teaching area and sports field.
+
+The school also maintained productive labor bases, workshops, farms, and school-run enterprises during this period, reflecting the educational model of that era. By the time the Cultural Revolution ended, the school had grown to nineteen classes, more than one thousand students, and nearly sixty staff members.
+
+## 4. Reform and Renewal (1978 - 1993)
+
+After the Third Plenary Session of the Eleventh Central Committee, the school entered a new era. Wrongful cases from past political campaigns were gradually corrected, veteran teachers returned, new younger teachers were brought in, and the staff began teaching again with renewed spirit.
+
+Between the late 1970s and early 1990s, the school saw frequent changes in leadership, but development accelerated. It expanded its organizational structure, strengthened moral education, and improved school management. In 1982, the school was approved as one of Anhui's first six-year restructured complete middle schools. By the mid-1980s, the school had grown to twenty-four classes, around 1,200 students, and more than 110 teachers and staff, a scale that basically remained stable thereafter.
+
+During these years, the school placed strong emphasis on political education, democratic school management, and teaching quality. It also achieved remarkable results in exams, competitions, and awards. From the resumption of the college entrance examination through the early 1990s, hundreds of high-school graduates were admitted to universities, junior colleges, and technical schools, while the school also earned honors in subject competitions, campus governance, sports, arts, and vocational-support activities.
+
+The physical campus also changed dramatically. New lecture buildings, classroom buildings, dormitories, office buildings, canteens, gates, and road systems were built. The school introduced early computer teaching, modern printing technologies, and broader audiovisual facilities. In 1993, the staff congress formally adopted the school motto **Du Zhi, Ming Si**, together with the school song and the emblem for the fiftieth anniversary. The rebuilt main gate, with the characters written by Zhou Erfu, gave the school a new academic dignity.
+
+## 5. Ten Years of Achievement and Glory (1994 - 2003)
+
+Following the fiftieth anniversary and driven by the goal of building a first-class school, Jingde Middle School entered a decade of rapid development. With support from county leaders and education authorities, it pursued the creation of a model complete middle school and a recognized civilized institution.
+
+In these years, the school expanded its Party organization, union structure, and management system. At the same time, junior and senior secondary education were eventually separated administratively, and the school grew beyond its earlier twenty-four-class structure. By 2003, it had forty-two regular classes plus review classes, with around 2,500 students and about 135 staff members.
+
+The transformation of the campus was especially striking. Between 2000 and 2003 alone, investment reached sixteen million yuan, and the campus area expanded from 47 mu to 148 mu. New teaching buildings, offices, a science hall, a library, a standard sports ground, teachers' housing, and modern student apartments were added. The school also built multimedia classrooms, campus broadcasting and telephone systems, and broad information infrastructure, while continuing to expand its library and educational equipment.
+
+During the same period, the school strengthened its teaching staff and produced increasingly strong college-entrance results. Many students were admitted to leading universities such as Peking University, Tsinghua University, USTC, Fudan University, Shanghai Jiao Tong University, Southeast University, East China Normal University, and others. In the late 1990s and early 2000s, the school repeatedly ranked at the top of the city in overall performance and established itself as one of the strongest high schools in the region.
+
+Students also performed impressively in academic competitions, and teachers earned recognition through publications, awards, and professional advancement. The school won multiple provincial titles in civilization-building and youth-league work, and its laboratories, archives, information systems, and educational management all reached high standards.
+
+Looking back over these sixty years, Jingde Middle School moved from hardship to renewal, from modest beginnings to real distinction. Standing beside the Huishui River, with Zishan to the east and the river to the west, it came to resemble a bright pearl in Jingde. Across six decades, the school educated countless students and made major contributions to local education, spiritual life, and social development. Looking ahead, the school would continue to renew itself and to light the path by which generations of children could grow into talent.
+
+---
+
+---
+url: /en/article/jingde-middle-school-website/index.md
+---
+# The Story of Jingde Middle School's Official Website
+As someone who spent both junior high and high school at Jingde Middle School, and who for many years ate and lived on campus, I have always had deep feelings for the school. My mother also worked there until retirement. It is fair to say that Jingde Middle School is one of the most important parts of my life memory. Since 1994, I have watched the campus change bit by bit: a new laboratory building, the back hill turned into a sports field, the old field turned into a parking lot, and so on. One day, if I have time, I will probably write a separate piece about those stories.
+
+Today I want to talk about something else. Many years ago, around the time of the school's sixtieth anniversary, Jingde Middle School built an [official website](http://www.ahsjdzx.net). If I remember correctly, it was developed and maintained by Teacher Sun Yinsheng. Sadly, with the rise of the mobile internet, that site also disappeared into the long river of history.
+
+Recently, by chance, I found some snapshots of that website again, and I was genuinely excited. The image below is a screenshot of the homepage, archived on November 16, 2004:
+
+
+Looking at it now, the site feels primitive and simple. But twenty years ago, it truly served as a bridge of communication for many students. The message board below is a good example:
+
+
+I looked through those messages. I hardly recognized the names, but the sincere affection for the alma mater was overflowing from the screen.
+
+I selected a few of them here, so that Jingde alumni may revisit those days through these words.
+
+| Username | From | Posted On | Message |
+| :-- | :-- | :-- | :-- |
+| Feng Shaozhen | Wuhu | 2003-11-05 | Today is my birthday. While wishing myself a happy birthday, I also know that my alma mater's sixtieth anniversary is near. I sincerely wish my school ever-renewing vitality, my teachers fruitful achievement, and my classmates lasting success. |
+| Jingfeng | Wenzhou | 2003-11-08 | Only after leaving did I realize how beautiful my alma mater was, like a gentle and kind mother holding the heart of a wandering child. Looking back, my teachers and friends were so lovable and respectable. Now that I am away, I can only say: I miss you, and I hope you are all doing well. May the sixtieth anniversary celebration of our alma mater be a complete success, and may its future be even more glorious. |
+| Qingyu Jiting | East China University of Science and Technology, Shanghai | 2003-11-13 | More than a year has passed since I left my alma mater, and I miss it every day. My three years of high school gave me so much: joy and sorrow, my best memories, teachers I miss, and classmates I miss. Now the school is turning sixty, and though I cannot return in person, I silently wish Jingde Middle School a happy birthday and a brighter future. |
+| Han Rengang | Naval University of Engineering | 2003-11-19 | After leaving the alma mater that nurtured me for three years, I embarked on military life to defend the blue sea. Now I miss my alma mater even more, because it holds beautiful memories, respected teachers, and dear friends. On its sixtieth birthday, I offer warm congratulations on behalf of the People's Navy and wish the school an even more glorious tomorrow. |
+| Yao Jingjing | Tongji University, Shanghai | 2003-11-23 | Yesterday was my alma mater's sixtieth birthday. I regret that I could not return in time, so I leave this message instead: happy birthday, Jingde Middle School, and may your road ahead grow wider and wider. |
+| What's the Meaning | Jingyang | 2004-01-02 | I was from the first class taught by Chen Fei. Seeing these old materials from Jingde Middle School today filled me with indescribable emotion. I spent seven years there. Only after leaving did I realize how much the school had changed. I wish Jingde Middle School continued success and an early rise to provincial key-school status. |
+| Shuanghe | Shenzhen | 2004-01-05 | Best wishes to Teachers Liu Shikang, Liu Wenjin, and Qin Xiuyun. I also hope old classmates will get in touch. Where are you all? I'm going home for the New Year. |
+| Gao | Beijing | 2004-04-24 | Time passes so fast. I still remember this time last year, when our class was fighting for the college entrance exam. Now it has come again. To the younger students: as long as you put in the effort, you will certainly gain something. |
+| Duanxiao | Anhui College of Finance and Trade | 2004-04-12 | I miss my alma mater, my old friends, and my teachers forever. I want to say simply: I will always love you. Today I am proud of Jingde Middle School; tomorrow Jingde Middle School will be proud of me. |
+| Student of Jingzhong | 2004-07-19 | Gathering is not the beginning, and parting is not the end. The countless beautiful moments of our years together will remain forever in my memory. I dedicate this to my dear classmates and teachers of Senior 3 Class 1. |
+| Zhou Huabing | Kunming Institute of China National Electric Power | 2004-11-15 | Today I can finally see online that my alma mater has built such a beautiful website and can learn of its recent achievements through it. I send greetings to all teachers and students, thanks to the school that nurtured me, and special respect to the teachers and leaders who trained me. |
+| Shui Ruohan | Chaohu | 2004-11-11 | Hello everyone. I graduated from Jingde Middle School in 2002. I never imagined the school website would be so beautiful. Seeing those familiar scenes fills me with excitement. I spent six years there, and it still holds my most beautiful memories and my purest friendships. |
+| Yang Mei | Jingde | 2004-11-03 | Life outside is not easy. I miss home, my old friends, classmates, and teachers. I wish all of you success, happiness, and peace. |
+| 123 | 2004-08-29 | A beautiful campus, a youth without regret. Only when I was about to leave did I realize that the college entrance exam was not the end, but the beginning. Looking at the campus once again, I felt sorrow, joy, the beginning of dreams, and the end of beautiful years all at once. |
+
+---
+
+---
+url: /en/article/jingde-old-pictures/index.md
+---
+# Old Photos of Jingde
+::: center
+
+
+
+
+
+
+:::
+
+---
+
+---
+url: /en/article/jingde-zhu-xiaodi/index.md
+---
+# So I Was the Little Brother of the Zhu Family
+::: center
+
+:::
+
+This couplet has long hung in my home: "Cloudy mountains beyond Xisai, long roads under the eastern wind." Behind it lies an interesting story.
+
+After I was admitted to Peking University, the well-known county calligrapher [Zhu Liangda](https://baike.baidu.com/item/%E6%9C%B1%E8%89%AF%E8%BE%BE/648940) was extremely excited when he heard the news. He wrote this couplet in flowing ink and personally brought it to my home.
+
+Even though I still do not really understand calligraphy, I was of course impressed at the time. I immediately hung it in the living room and even found a painting to match it, so that the whole house suddenly looked cultured.
+
+What I only learned later is that the most interesting thing in the couplet was how he referred to me. On it he signed me as "the little brother of the Zhu family." When my father first showed it to me, I was puzzled: Zhu Liangda was nearly twenty years older than my father. Calling him grandfather would not have been excessive. So why would he call me his little brother?
+
+That is where traditional Chinese generational naming comes in. Put simply, he and I both belonged to the same generation marked by the character *liang*.
+
+According to the Zhu genealogy of Jingde, boys in the family were named in sequence following the line: *Yong shou jia ze, de mao yuan liang, xue yu xian zheng, wen zhi qi guang*. For example, my father's generation used the character *yuan* in the middle of their names, and by that order my generation used *liang*. In a way, the logic is simple: each generation cycles through the sequence in turn.
+
+I have not researched in detail why such generational naming was adopted, but the obvious function is that it made it easy for people of the same surname to identify seniority within the clan. In traditional society, etiquette between elders and juniors mattered greatly. At a first meeting, you could often tell immediately from the generation marker whether the person before you should be treated as an elder or a junior.
+
+Of course, because of war, disease, and the branching of family lines over many generations, the age gaps within the same generation could become enormous. Or the opposite could happen: two people could be almost the same age while belonging to very different generations. One of my father's primary-school classmates belonged to the *xue* generation, so by strict logic he ought to have called my father "grandfather," which has always sounded rather funny whenever we talk about it.
+
+Only after so many years have I come to appreciate the deeper meaning in the couplet Zhu Liangda gave me. The road of life is indeed a long one, and one should never let a momentary success blind oneself.
+
+---
+
+---
+url: /en/article/memories-5460-china-alumni-directory/index.md
+---
+# Memories of the 5460 China Alumni Directory
+> Author: [Zhu Anfeng](https://zhuanfeng.netlify.app/)
+
+What is the oldest trace of yourself that you can still find on the internet? For me, it is the message below on the 5460 alumni site, posted at 12:25 a.m. on September 16, 2000. I probably left it in an internet cafe off campus.
+
+![My first message on the 5460 alumni site in 2000](/img/5460.png)
+
+Unfortunately, the 5460 China Alumni Directory has long since disappeared.
+
+Looking back, the online world felt like a vast unknown territory to us back then, full of curiosity and exploration.
+
+Now, as the years have passed, those once simple and sincere interactions have long been swallowed by a fast-changing internet environment and disappeared into the currents of the times.
+
+And yet that screenshot remains like a mark buried deep in the soil of time. It reminds me that even in an age of rapid information updates, we can still look back and feel the presence of who we once were, and of the people who once shared that world with us.
+
+---
+
+---
+url: /en/article/memories-jsptpd-handwritten-letter/index.md
+---
+# A Handwritten Thank-You Letter
+Within the telecom operator system, year-end thank-you letters used to flutter through the company's OA system like snowflakes.
+
+But this time, General Manager Liu's handwritten letter genuinely moved me.
+
+It was my honor to have fought alongside you.
+
+---
+
+---
+url: /en/article/my-2011/index.md
+---
+# My 2011
+> Author: Zhu Anfeng. Originally published on [QQ Zone](https://user.qzone.qq.com/7260468/blog/1325867294) on March 12, 2012.
+
+Before writing this post, I casually looked at the post from roughly the same time the year before, *My 2010*, and could not help laughing. That piece from last year had only claimed the spot without ever really being filled in. By the time I might have been in the mood to write it, another whole year had already passed.
+
+This morning I also had an exaggerated dream. I dreamed about a football match from my high school days. In the first half, my familiar brothers were fighting hard on the pitch, but I was not on the field and could only feel anxious from the sideline.
+
+At halftime, it was 0:0.
+
+Apparently I was the only one desperate to get on and charge into the second half, but just before the second half began, a heavy rain started to fall.
+
+After that, I woke up. There was no dream of the second half at all.
+
+That was only idle talk.
+
+Sometimes I think in a boundless way: time is a very strange thing. Who says this moment must be 2012? Why not 2222? Why must a week have seven days? Why must a day have twenty-four hours? To the vast universe, what are twenty-four hours or three hundred and sixty-five days anyway?
+
+The most fundamental quality of time is that it flows steadily forward and never turns back. Whether it is called 2011, 2012, or even 2222 makes little difference.
+
+So it is with life.
+
+We can only keep making choices: to escape, to stay, to withdraw, to crawl, to stroll, to run, or to chase.
+
+And there is no need to care about the ripples we leave behind in time.
+
+Another year has passed. I hope all my friends will either achieve something or at least keep pursuing what they truly want.
+
+With this post, I thank the people I love and the people who love me. It is because of you that I understand the meaning of time.
+
+---
+
+---
+url: /en/article/my-football-jersey/index.md
+---
+# My High School and College Football Jerseys
+Looking through old photos, I happened to find pictures of my high school and college jerseys, taken in 2005.
+
+::: center
+
+
+
+In high school, we first bought a set of Italy jerseys. Later, around the winter break in the final half-year of senior year, when everyone's football level had finally improved enough that we wanted to play real matches, we organized another purchase and chose this Ajax kit. As for why we picked the relatively less common Ajax, I have long forgotten. Maybe we just liked that it felt distinctive. At the time I definitely did not know who Ajax's No. 8 was. I simply thought the number was lucky, so I picked it. My football level was decent enough then, and nobody argued with me over it.
+
+::: center
+
+
+
+The Argentina one was bought in my senior year at Peking University, when our Department of Computer Science team organized a group order. Why did I choose No. 14? Because my student number was 14. Simple as that.
+
+---
+
+---
+url: /en/article/peking-university-reminiscence-banquet-resignation/index.md
+---
+# Peking University Memory - Leaving the Banquet Board
+Before graduation, I posted on the BoardManager board of PKU Weiming BBS to announce my resignation. At the time I had long used the account name `banquet`, so using `banquet` to manage the `Banquet` board felt perfectly logical.
+
+> Sender: thx, Board: Banquet\
+> Title: \[Resignation] banquet resigns as Banquet board manager (repost)\
+> Posted on: PKU Weiming BBS (Tue Jul 1 04:30:44 2003)\
+>
+> Graduation has come. Everything is over.
+>
+> I thank the friends who helped me during my term: thx, christmas, papaya, marco, uniqehorse, and others. I will always remember the days we spent together.
+>
+> Hurried university days, hurried gatherings, and hurried songs.\
+> Friends, do you still remember that happy time and the promises we once made together?
+
+---
+
+---
+url: /en/article/peking-university-reminiscence-ip-address/index.md
+---
+# Peking University Memory - In Memory of an IP Address
+Before leaving campus at graduation, I wrote a short post on the Banquet board of PKU Weiming BBS to commemorate Room 105 of Building 33, and the IP address I had used for four years.
+
+> Sender: July (Forever cs99◎Anzi), Board: Banquet\
+> Title: In memory of an IP\
+> Posted on: PKU Weiming BBS (Mon Jul 7 13:10:27 2003)\
+>
+> Used for four years
+>
+> \--\
+> You are not by my side, and it is cold.\
+> I cannot see your shadow, and it hurts.\
+> From now on I no longer distinguish day from night, snowfield from ice.\
+> Even if I am sad, I will still wait.
+
+---
+
+---
+url: /en/article/standing-at-the-north-pole/index.md
+---
+# Standing at the North Pole
+> Author: Zhu Anfeng. Originally published on [QQ Zone](https://user.qzone.qq.com/7260468/blog/1246009555) on June 26, 2009.
+
+Another weekend afternoon.
+
+Perhaps because a few drops of rain had fallen in the morning, the sky looked especially clear. Sitting in the office, I could see the observatory on Purple Mountain distinctly. It felt as close as Zishan looked when I played football at Jingde Middle School.
+
+Time slips away just like that, quietly, and before you know it nearly half a year has passed since the Spring Festival. At work, these months seem to have produced almost nothing. A few days ago, one of our partners said our performance looked very "dry." It was such an apt word that I had to admire it. What I really felt, though, was that work had become like standing at the North Pole. Everywhere I looked was north, and that meant I could no longer find where north was.
+
+Fortunately, life still gives me plenty of things to do. I had a physical examination today, and I joked that it was fine and there was no need to be nervous. In truth, inside I was silently asking for blessings from all possible higher powers, including but not limited to God and the Buddhas. These days, almost no one goes for a medical checkup without a little fear. Hospitals always feel more suitable for horror films. Everyone seems to be held by the throat by some invisible hand. Maybe one day our great country will give us better medical insurance. Who knows? I certainly do not.
+
+Summer has arrived. Unfortunately, I have not had a real summer vacation for many years now. I also do not know whether the people who have appeared, or will appear, in my football series are now, like me, the kind of people who sometimes enjoy a little beer when happy. Suddenly I thought of a grand scene that might whet everyone's appetite. Haha:
+
+![A gathering with my high school classmates in Jingde County](/img/朱岸峰与高中同学的聚会.jpg)
+
+Caption A: A true master of the drinking table should have this kind of aura: finish one cup in a single swallow, left hand on the waist, right hand holding the empty cup flat, face expressionless. If another master beside him rests a hand on his shoulder, and the two look like heroes recognizing one another, then that would be perfect. Without question, Anzi has exactly this aura. Could he be the one-in-ten-thousand master?
+
+Caption B: The most obvious difference between a legendary drinking-table master and everyone else is that one type only drinks without speaking, another only speaks without drinking, but the highest masters can drink and speak at the same time. Like our chairman, who spent the entire evening drinking... speaking... speaking... drinking... and enjoying himself endlessly.
+
+To all friends, slim or heavy, who have read this post: may you all find your north, and stay healthy.
+
+---
+
+---
+url: /en/article/why-blog-if-nobody-reads/index.md
+---
+# If Nobody Reads Your Blog, Why Write It?
+Andy from the UK recently wrote a blog post titled [Why blog if nobody reads it?](https://andysblog.uk/why-blog-if-nobody-reads-it/), which sparked some discussion on [HN](https://news.ycombinator.com/item?id=42992159).
+
+What Andy argues is simple: the meaning of blogging does not lie in readership, but in personal growth and thought. Even without readers, writing still helps you organize your thinking and sharpen your mind. A blog is like a time capsule that records your own evolution, and perhaps one day it will be found by exactly the person who needs it. The key is not traffic, but sincerity and persistence. His analogy to street photographers is also apt: they press the shutter not to be praised, but to capture a moment. Writing a blog is similar. It is a way to record and express the inner world. What matters is the process itself, not the level of attention.
+
+I agree. In fact, Lao Jiang made a similar point in a Bilibili video back in 2020 about how to improve the depth of one's thinking. Around the 21:30 mark, he gave a sixth suggestion: create things independently. The underlying logic is very close to what Andy is saying.
+
+If you have time and thoughts, you can write something and put it online.
+
+You might ask: with AI developing as fast as it is today, perhaps in the near future personal computers will simply call one API after another. Maybe each of us will be reduced to a pile of numbers: how many tokens we consume, how many songs we listen to, how many videos we watch, and so on. Maybe much of the internet itself will become synthetic data generated by AI, since the human brain is far slower than silicon in both computation and output.
+
+You may say that this is no longer the internet of around 2005. Blogs? Hardly anyone reads them now. Why keep writing?
+
+My answer is this: whether anyone reads it is not the important part. What matters is that, somewhere along your journey, you once thought seriously about a question or a piece of your life.
+
+I think. I write. I was here.
+
+---
+
+---
+url: /en/demo/index.md
+---
+# Demo
+* [bar](./bar.md)
+* [foo](./foo.md)
+
+---
+
+---
+url: /en/demo/259rnea4/index.md
+---
+# foo
+[bar](./bar.md)
+
+---
+
+---
+url: /en/demo/6ia0xkac/index.md
+---
+# bar
+[foo](./foo.md)
+
+---
+
+---
+url: /en/memories/index.md
+---
+# Memories Worth Revisiting
+> Author: [Zhu Anfeng](https://zhuanfeng.netlify.app/)
+>
+> Website: <https://zhuanfeng.netlify.app/>
+
+### **Jingde Football Memories Series**
+
+The *Football Memories of Jingde* series, originally published on QQ Zone around 2008, records the many small moments in which football accompanied me from childhood into adulthood, and shows how deeply the game shaped my life and relationships.
+
+* In [Football Memories of Jingde (I)](/en/article/football-memories-jingde-first-article/), I look back on how my earliest interest in football was influenced by my mother. In third grade, after I kicked a basketball out of shape, I was scolded by her and did not touch football again until I moved into town for school.
+
+* [Football Memories of Jingde (II)](/en/article/football-memories-jingde-second-article/) tells the story of my school years after moving into town. Although I became fascinated with arcade games, football memories still ran deep. In junior high, the school lacked proper sports facilities, so we kicked mineral-water bottles around as makeshift footballs. In high school, my classmates and I enjoyed the game as much as we could with very limited resources.
+
+* By [Football Memories of Jingde (III)](/en/article/football-memories-jingde-third-article/), I was in my senior year of high school and had become deeply interested in both football and *Winning Eleven*. I remember the time spent gaming and playing football with classmates, as well as the competition and friendship between classes, especially our match against Class 1 and two especially gifted players, He Jinwei and Wang Zhengqiang.
+
+* In [Football Memories of Jingde (IV)](/en/article/football-memories-jingde-forth-article/), I describe Wang Zhengqiang's skill and personality. He was not much of a drinker, but he was superb on the pitch and a key figure in our football circle. I also write about the regret of never really getting the chance to play alongside him more deeply.
+
+* Finally, [Football Memories of Jingde (V)](/en/article/football-memories-jingde-fifth-article/) is a heartfelt remembrance of Zhang Qipei, my friend of seventeen years. Football brought us together, and we shared many unforgettable years. I write there about his nickname, "Tractor," his unique style on the pitch, and the literary talent and sensitivity that left a lasting impression on me. He passed away on November 17, 2021, and that piece is written in his memory.
+
+The whole series is not only about football, but also about youth, friendship, and growing up. Through football, I built deep bonds with my friends, and those memories became an indispensable part of our lives.
+
+### **Scattered Sparks of Memory**
+
+These pieces record many scenes and reflections from student life through adulthood, revealing personal growth, friendship, a love of football, and a deeper way of thinking about life.
+
+[Memories of the 5460 China Alumni Directory](/en/article/memories-5460-china-alumni-directory/): I revisit a message I left on the 5460 alumni site in 2000, one of the oldest traces of myself I can still find on the internet. It makes me reflect on how the online world has changed and how time has flowed by.
+
+[Football Memories of Anzi](/en/article/football-memories-of-zhuanfeng/): Li Yu recalls the friendship we shared in college and our football experiences together. The piece captures my personality, playing style, and the joy of university life shaped by football.
+
+[The 2003 Peking University Graduation Farewell Match](/en/article/football-farewell-match-graduation-2003/): Li Yu offers a detailed recollection of the CS99 team's farewell match in 2003, full of vivid moments from the game and the emotions among teammates. It stands as a symbol of youth and friendship as much as of football itself.
+
+[May Day Odds and Ends](/en/article/he-trivialities-of-may-day/): A record of the small moments of my May Day holiday in 2008, including gatherings with friends, expectations for the future, and scattered details of ordinary life.
+
+[The Sea, Endless Drifting](/en/article/essay-business-trip-sea/): Written on May 19, 2008, this piece reflects on a drifting life through the metaphor of travel, exploring uncertainty and the instability of the future.
+
+[Early Spring, 2009](/en/article/early-spring-2009/): A short reflection from March 9, 2009 on a new year, the future, and a quietly positive attitude toward life and growth.
+
+[Standing at the North Pole](/en/article/standing-at-the-north-pole/): Written on June 26, 2009, this piece uses the metaphor of standing at the North Pole to express confusion about direction in work and life, while still holding on.
+
+[My 2011](/en/article/my-2011/): A reflection on the passing of time, on 2011, and on hopes for what comes next.
+
+[In the Tall Birch Forest, My Youth Wanders](/en/article/in-the-tall-birch-forest-my-youth-wanders/): A poetic remembrance of youth and wandering, full of nostalgia for the past and longing for the future.
