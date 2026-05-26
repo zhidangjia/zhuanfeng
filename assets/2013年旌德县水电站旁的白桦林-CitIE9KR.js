@@ -1,0 +1,1 @@
+var e=`/img/2013%E5%B9%B4%E6%97%8C%E5%BE%B7%E5%8E%BF%E6%B0%B4%E7%94%B5%E7%AB%99%E6%97%81%E7%9A%84%E7%99%BD%E6%A1%A6%E6%9E%97.webp`;export{e as t};

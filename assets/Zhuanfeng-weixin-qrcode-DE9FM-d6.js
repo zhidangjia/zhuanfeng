@@ -1,0 +1,1 @@
+var e=`/img/Zhuanfeng-weixin-qrcode.png`;export{e as t};

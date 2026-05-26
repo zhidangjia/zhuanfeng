@@ -1,0 +1,1 @@
+var e=`/img/uss-enterprise.jpg`;export{e as t};

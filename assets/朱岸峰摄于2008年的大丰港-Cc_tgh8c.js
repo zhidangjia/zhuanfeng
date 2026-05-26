@@ -1,0 +1,1 @@
+var e=`/img/%E6%9C%B1%E5%B2%B8%E5%B3%B0%E6%91%84%E4%BA%8E2008%E5%B9%B4%E7%9A%84%E5%A4%A7%E4%B8%B0%E6%B8%AF.jpg`;export{e as t};

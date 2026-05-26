@@ -1,0 +1,1 @@
+var e=`/img/2025%E7%94%9F%E6%97%A5.jpg`;export{e as t};
