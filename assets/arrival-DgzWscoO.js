@@ -1,0 +1,1 @@
+var e=`/img/movies/arrival.webp`;export{e as t};

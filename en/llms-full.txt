@@ -42,6 +42,110 @@ url: /en/aboutme/index.md
 ---
 
 ---
+url: /en/article/​​learning-from-yang-zhenning-speech​/index.md
+---
+# After Watching a Talk by Yang Zhenning - From "Not Interested" to Admiring His Thinking and Candor
+::: center
+
+:::
+---
+
+**One of the most direct ways to know someone—especially a famous person—is to listen to their talk.**
+
+I had heard of Professor **Yang Zhenning** and some of his achievements long ago, but due to my limited understanding of physics and other reasons, I was **not very interested in his life story**. To be honest, I was more intrigued by that line in *The Three-Body Problem*—"physics does not exist"—than by Yang's biography.
+
+Today, I **randomly came across an old talk of his on Bilibili**:\
+https://www.bilibili.com/video/BV1KqRiYdErA/
+
+It gave me several new realizations. The video does not label the exact date, but it appears to be around 2012, recorded when he was in his eighties, likely at Hong Kong Baptist University. Even though the playback speed was artificially increased, I could still strongly feel how **clear his thinking remained at that age**: he switched between Chinese and English smoothly, recalled major events without much stumbling, and kept the thread intact. That is genuinely impressive.
+
+**Humor** was my first impression. As a physics legend, I expected a wall of difficult jargon. Instead, even some viewers said "even liberal arts students can enjoy it." I myself went from sleepy to engaged—almost like listening to traditional storytelling. To me, one key trait of true masters is the ability to explain a theory or a logic chain clearly and vividly, step by step. The talk also included many photos and stories of historical figures such as Einstein, Enrico Fermi, Jim Simons, Huang Kun, Deng Jiaxian, and Wu Chien-Shiung, which made it even more engaging.
+
+**Sincerity** was the other striking trait. He openly discussed life experiences and did not avoid questions, such as comparing Chinese vs. Western education styles (deductive vs. inductive). He even shared academic failures and offered practical advice.
+
+For example, he used a high school centripetal-force problem and suggested:
+
+**"When your intuition conflicts with what the textbook says, that's the best moment to learn."**
+
+Other advice that stayed with me:
+
+* Do not abandon a good idea too easily; you can shelve it and return when you learn something new.
+* Learn by infiltration: if you do not understand once, listen multiple times and you will gain something.
+* Cultivate interest first, then prepare seriously—only then can you produce results.
+* Effort that does not succeed may still have value; perhaps the timing is not right.
+* When research hits a bottleneck, consider whether to adjust direction and go with the trend.
+
+Looking at Yang's journey, my takeaway is simple: in a long life, meeting someone who can guide you at a critical moment can matter immensely. It can be the key factor that helps you break out of your own circle.
+
+---
+
+---
+url: /en/article/​how-to-manage-expectations-from-capcom-re9-trailer-case​/index.md
+---
+# Expectation Management, Starting from the *Resident Evil 9* Trailer
+::: center
+
+:::
+---
+
+Last weekend, I watched the [*Resident Evil 9* trailer](https://www.bilibili.com/video/BV1btT3zEEzj/) released by Capcom at Summer Game Fest. It gave me that rare kind of excitement again. It also made me want to talk about expectation management.
+
+## 1. Capcom's *Resident Evil 9* Trailer
+
+* **A "down-then-up" rhythm**: It starts in a bright FBI building (making many people think it is a new IP). Then, the sudden flash of the post-nuke Raccoon City Police Department makes longtime fans' adrenaline spike and the crowd explode.
+* **Anti-cliché certainty**: They announced a release date—February 27, 2026—right away. In an industry where delays are common, that decisiveness itself becomes a surprise.
+
+Expectation is the brain's prediction mechanism for the future: based on existing information, we forecast what will happen next. When Capcom showed a trailer that initially looked unrelated to *Resident Evil*, players' expectation curve swung dramatically from "that's it?" to "oh my god!" The method is essentially: lower expectations first, then release information through carefully designed cues, and finally create an "exceeds expectations" experience.
+
+Behind it is a typical formula:
+
+Low expectation setup + over-delivery = emotional leverage
+
+## 2. Expectation vs. Goal
+
+Some people ask: isn't expectation just a goal? Not really. In the workplace, a goal might be "collect 10 million in revenue this quarter." An expectation is more like: "the team believes 8 million is the ceiling, the boss hopes for at least 12 million, and reality may land somewhere between 7 and 10 million."
+
+A goal is what you want. Expectation is what you believe will happen after calibrating reality. When goal > expectation, you feel anxious. When result > expectation, you feel satisfied—even if the result is below the goal.
+
+## 3. A Probability Game: Expectation vs. Expected Value
+
+In probability, "expected value" is subtly different from everyday "expectation." Take a lottery: someone [calculated](https://zhuanlan.zhihu.com/p/405453664) that for a 2-yuan ticket, the expected value is 1.2 yuan. Mathematically you are guaranteed to lose about 40%. But psychologically, your expectation is "what if I win?" Sometimes you even imagine how you'd spend 5 million. That explains why people buy lotteries even though they know it's negative EV: psychological expectation overrides mathematical expectation. Behavioral economics calls this **optimism bias**.
+
+Expected value is a rational calculation. Expectation is mixed with emotion, experience, and cognitive bias. As Daniel Kahneman wrote in [*Thinking, Fast and Slow*](https://book.douban.com/subject/10785583/), we tend to be overconfident, underestimate risks, and overestimate gains.
+
+## 4. Expectation Management and Entropy
+
+At its core, expectation management is a way to resist cognitive entropy.
+
+Without it, informational disorder (entropy) naturally increases: different stakeholders' understanding drifts apart over time, like entropy increasing in a closed system.
+
+Effective expectation management is like a ["Maxwell's demon"](https://baike.baidu.com/item/%E9%BA%A6%E5%85%8B%E6%96%AF%E9%9F%A6%E5%A6%96/618888): through continuous communication and calibration, it injects "negative entropy"—filtering signals, reducing noise, and building order in chaos. It is like weighing yourself weekly when you work out: feedback turns a vague "lose weight" goal into a controllable expectation.
+
+## 5. So How Do You Actually Do It?
+
+The key is to **break big expectations into small ones**. Life has many big expectations—entrance exams, marriage, promotions, entrepreneurship. Break them into small expectations, complete them one by one, and create a positive feedback loop that boosts your sense of progress.
+
+For example, "read 10 books a year" sounds great, but "read 10 pages each night" is often far more actionable. The same applies to losing weight, running, and many other habits. Do not set expectations too far away; set small ones close at hand so you can tell yourself: this is doable.
+
+Even if the big expectation never materializes, you will still gain something from the small ones along the way.
+
+Handling **bad surprises that exceed expectations** is also a topic: a stock blowing up, or suddenly getting a layoff package at work.
+
+When it hits, it hurts. But emotionally, you must stabilize first, and avoid making major decisions too quickly.
+
+There is a line from the commentator Dong Lu that I strongly agree with:
+
+**When you lose something, the first thing to do is to not lose more.**
+
+In markets, that is basically what a stop-loss is: if things get bad beyond a threshold, cut quickly and switch directions.
+
+In the end, good tech writing should balance professionalism and readability. A good life is similar—between ideals and reality, expectation management helps you walk the best path:
+
+Set a "floor expectation" (tell others the worst-case result), leave "room for over-delivery" (do 10% more than you promise), and control the rhythm of information release (do not reveal key highlights too early).
+
+---
+
+---
 url: /en/article/2000-steps-souvenir/index.md
 ---
 # Twenty Million Donated Steps:Are Direction, Ability, and Persistence Really an Impossible Triangle?
@@ -98,6 +202,38 @@ In the age of big data, it is impossible that you do not know my birthday. You s
 ---
 
 ---
+url: >-
+  /en/article/a-poem-about-the-millennium-old-ginkgo-tree-guzhuli-village/index.md
+---
+# A Poem on the Millennium-Old Ginkgo Tree in Guzhuli Village
+> Author: Zhu Jianrong. Published on January 2, 2023 in *Today's Jingde*.
+> ::: center
+> ![The millennium-old ginkgo tree in Guzhuli Village, Jingde County (photo taken on Feb 14, 2023)](/img/旌德县古竹里的千年古银杏树.jpg)
+
+Spring is like emerald hills; autumn is dazzling gold,
+
+Through bitter cold and blazing heat it still stands proud.
+
+Roots twist, branches stir, the trunk is ancient and firm,
+
+Smiling as thunder rolls and sky-fire flashes bright.
+:::
+
+Notes:
+
+Guzhu Natural Village lies in the eastern part of Lianshan Village, at the foot of Dahong Mountain. Its history can be traced back to the reign of Emperor Wuzong of Tang. Descendants of Wang Bi spread across many places, and not long after Jingde County was established in the Tang dynasty, one branch moved here from Kuzhugang in Qixi. Because the area had many bitter bamboos, and to commemorate their former home, they named the place "Kuzhuli" (Bitter Bamboo Hamlet). In the early 1970s, locals felt the character "bitter" carried an unlucky meaning, so the name was changed from "Kuzhuli" to "Guzhuli" (Ancient Bamboo Hamlet).
+
+Because Wang Bi's descendants often recalled the hardship of their ancestors' old life in Kuzhugang, they planted a Huanglian tree at the village entrance. Its main trunk later died with age, and what remains today are the later shoots. After more than four hundred years of wind and rain, it has grown lush and shady, with a canopy like a giant umbrella. After settling in Guzhu, Wang Bi's descendants planted another ginkgo tree at the far end of the village. It is now more than 1,300 years old, at least twenty meters tall, with a crown of seventy to eighty square meters, and a trunk that takes seven adults to encircle.
+
+In the summer of 1917, after receiving a PhD in philosophy from Cornell University, the 26-year-old Hu Shi returned home and was hired as a professor at Peking University. Later, through arrangements between his mother and the Jiang family, Hu Shi set the wedding date for December 30 (lunar November 17), when he would marry Jiang Dongxiu. Before the wedding, Hu Shi composed the famous couplet "Traveled seventy thousand li; kept a promise for thirteen years," referring to his years of study in the United States and his childhood betrothal. Beside the ginkgo tree there is a small path. It is said that Hu Shi used this old road to carry Jiang Dongxiu by sedan chair from Jiang Village in Jingde County to Jixi County.
+
+In 2016, a local benefactor named Cheng Xiaofu donated funds to build a hexagonal pavilion beside the ginkgo tree. Its inscription reads, in spirit: "The mountain pavilion stays fresh and bright, holding life in place; the millennium ginkgo welcomes guests." Sitting in the pavilion, visitors can enjoy a full view of the ancient tree. When a breeze passes, ginkgo leaves fall softly. Drinking tea and chatting there is truly pleasant.
+
+An ancient tree that has weathered immense change can stand proud for a thousand years only because generations have protected it. To protect and treat old trees well is part of the spirit of Guzhu. It reflects a harmonious relationship between people and nature, and allows the village's local memory to continue.
+
+---
+
+---
 url: /en/article/a-special-reward/index.md
 ---
 # A Special Reward
@@ -110,6 +246,295 @@ I only made a small repair, within my limited ability, to this city I live in. I
 I have already donated the prize money to charity.
 
 I kept the red-envelope cover as a small souvenir.
+
+---
+
+---
+url: /en/article/a-tidbit-about-product-prototype/index.md
+---
+# A Tiny Trick - Using AI to Define Data Fields for Product Prototypes
+> Author: [Zhu Anfeng](https://zhuanfeng.netlify.app/)
+
+When planning a product from 0 to 1—especially in government/enterprise domains—product managers often face a recurring problem: business data fields are unclear. In early iterations, designing a prototype frequently runs into this:
+
+* the business is not mature, so nobody can define the data structure precisely
+* engineering and data teams have not joined yet, so detailed data support is missing
+* the UI needs realistic data, otherwise it looks empty
+
+At this stage, PMs have to research and infer a reasonable set of fields. Otherwise the prototype becomes a shell: it fails to communicate requirements and may even impact decision-making.
+
+💡 How can AI help?
+
+AI can act as an intelligent data assistant and help PMs:
+
+✅ infer likely fields based on comparable products and domain logic\
+✅ quickly generate sample records so prototypes look real and discussions become easier\
+✅ reference best practices to avoid missing critical fields
+
+🎯 An example:
+
+For a real requirement, I planned a module for "Smart City: Crowd Gathering Emergency Management" with:
+
+1. pre-event, in-event, and post-event handling
+2. for each function: feature description, interaction flow, data fields, inputs and outputs
+3. for data fields: 10+ fields and 3 sample rows
+
+👉 Below is what an AI produced. Different models (DeepSeek, ChatGPT, etc.) give similar answers, and they are at least a helpful starting point.
+
+***
+
+## Product Module: Smart City Crowd Gathering Emergency Management System
+
+### 1. Pre-Event Warning (Risk Prediction and Prevention)
+
+**Feature description**
+
+* Combine historical data, real-time monitoring, and AI prediction models to assess crowd-gathering risk and warn early.
+* Define crowd thresholds for different scenarios (concerts, malls, metro stations) and notify relevant departments in advance.
+
+**Interaction**
+
+* Admin users view traffic trends of hotspots and configure warning rules.
+* Alerts are pushed to emergency management departments, merchants, and relevant managers via an app.
+
+**Data fields**
+
+1. **Location ID** (unique identifier)
+2. **Location name** (mall, station, etc.)
+3. **Real-time crowd count**
+4. **Crowd growth rate** (per minute/hour)
+5. **Max capacity** (safe upper bound)
+6. **Weather**
+7. **Historical crowd data** (similar time windows)
+8. **Incident history**
+9. **Safety level** (low/medium/high)
+10. **Warning status** (normal/notice/warning)
+
+**Sample data**
+
+| Location ID | Location name | Real-time crowd count | Growth rate | Max capacity | Weather | Historical crowd data | Incident history | Safety level | Warning status |
+|------|------|------|------|------|------|------|------|------|------|
+| A001 | XX Mall | 1200 | +5% | 5000 | Sunny | 1100 | None | Low | Normal |
+| A002 | XX Metro Station | 4500 | +8% | 6000 | Cloudy | 4000 | Congestion | Medium | Notice |
+| A003 | XX Concert Venue | 9800 | +12% | 10000 | Rain | 9200 | Stampede | High | Warning |
+
+***
+
+### 2. In-Event Emergency Response
+
+**Feature description**
+
+* When anomalies occur, automatically trigger emergency response and dispatch resources.
+* Provide best evacuation routes and coordinate with broadcast systems and command centers.
+
+**Interaction**
+
+* Show incident location, affected area, crowd density, etc.
+* Provide AI-recommended actions such as evacuation routes and additional security staffing.
+
+**Data fields**
+
+1. **Incident ID**
+2. **Incident type** (stampede, fire, violence, etc.)
+3. **Time** (to the second)
+4. **Location** (linked to Location ID)
+5. **Affected crowd size** (estimated)
+6. **Response level** (low/medium/high)
+7. **Recommended actions**
+8. **Dispatched resources** (responders, equipment, etc.)
+9. **Live video feed**
+10. **Status** (in progress/resolved)
+
+**Sample data**
+
+| Incident ID | Type | Time | Location | Affected crowd | Response level | Recommended actions | Resources | Live feed | Status |
+|------|------|------|------|------|------|------|------|------|------|
+| E001 | Stampede | 18:30:12 | A003 | 200 | High | Evacuate via south gate | 10 security staff | Live | In progress |
+| E002 | Fire | 19:15:50 | A002 | 500 | High | Dispatch firefighters | 3 fire trucks | Live | In progress |
+| E003 | Violence | 20:05:30 | A001 | 50 | Medium | Control individuals | 5 police officers | Live | Resolved |
+
+***
+
+### 3. Post-Event Review and Optimization
+
+**Feature description**
+
+* Record the full incident lifecycle, evaluate response effectiveness, and optimize emergency plans.
+* Generate statistical reports for decision-makers.
+
+**Interaction**
+
+* Incident replay with key decision timestamps.
+* Analytics modules to evaluate response efficiency.
+
+**Data fields**
+
+1. **Incident ID** (linked)
+2. **Incident type** (linked)
+3. **Response time** (from detection to handling)
+4. **Actions taken** (final)
+5. **Effectiveness** (effective/partly effective/ineffective)
+6. **Casualties**
+7. **Economic loss** (estimate)
+8. **Optimization suggestions** (auto-analysis)
+9. **Responsible unit**
+10. **Review status** (not reviewed/reviewed)
+
+**Sample data**
+
+| Incident ID | Type | Response time | Actions taken | Effectiveness | Casualties | Economic loss | Suggestions | Responsible unit | Review status |
+|------|------|------|------|------|------|------|------|------|------|
+| E001 | Stampede | 5 min | Evacuate via south gate | Effective | 0 | 0 | Add more corridors | Security company | Reviewed |
+| E002 | Fire | 8 min | Dispatch firefighters | Partly effective | 2 | 100k | Inspect wiring earlier | Fire brigade | Reviewed |
+| E003 | Violence | 3 min | Control individuals | Effective | 0 | 0 | Increase patrols | Police | Reviewed |
+
+***
+
+### Summary
+
+This smart-city emergency system covers **pre-warning, in-event response, and post-event review**. With data analysis, AI prediction, and real-time monitoring, it improves safety in crowd-gathering areas and makes emergency management more effective.
+
+With a field list like this, product teammates can quickly build a fuller-looking prototype. It may be a rough start, but someone has to do 0-to-1 work, right?
+
+---
+
+---
+url: /en/article/a-tidbit-about-three-abilities/index.md
+---
+> A few practical tips for using DeepSeek / ChatGPT, etc.
+
+# A Survival Guide for the Next 10 Years: Three Skills That Decide Whether You Get Eliminated
+
+## Introduction: Your Job Is Being Redefined by the Future
+
+Have you ever wondered what work will look like in 10 years?
+
+* **Remote work**: around 40% of companies have moved permanently to remote or hybrid models (Gartner).
+* **Video dominates**: more than 1 billion hours of video are watched on YouTube every day; TikTok has over 2 billion users.
+* **Specialization**: by 2030, 85% of jobs will require new skill combinations (World Economic Forum).
+
+The future workplace is no longer a fixed "9-to-5" pattern. It is a new test of **domain expertise, writing, and video creation**. Without these skills, you may be eliminated by the times.
+
+## 1. Domain Expertise: How Deep Is Your Moat?
+
+### Why is expertise hard currency?
+
+* **Data**: LinkedIn reports that 87% of employers treat "professional skills" as the top hiring factor.
+* **Reality**: Tesla engineers have a median salary over $150k, while many general roles average around $50k.
+
+### How to build expertise
+
+* Pick a niche: data analysis, AI, UX design, etc.
+* Go deep: 1 hour a day for a year is enough to surpass most peers.
+* Quantify outcomes: e.g., "reduced operating cost by 20% by optimizing an algorithm."
+
+If you have no specialization, you may be replaced by AI or by younger specialists.
+
+## 2. Writing: In Remote Work, Your Pen Is Your Voice
+
+### Why writing matters more than face-to-face talk
+
+* Remote trend: by 2025, 36.2% of workers will be long-term remote (Upwork).
+* Efficiency: a clear project doc can save 50% of communication time.
+
+### How to improve writing
+
+* Use structured expression: pyramid principle (conclusion first).
+* Practice: write weekly summaries or analyses; after a year, your logic will sharpen.
+* Use tools: Grammarly, Notion, etc.
+
+If you cannot write clearly, remote work can marginalize you.
+
+## 3. Video Creation: Let a Billion People See Your Ideas
+
+### Why video is a super传播 tool
+
+* 90% of users prefer learning about a new product via video (Wyzowl).
+* Short video ads convert ~30% better than text/image ads.
+
+### How to learn video creation
+
+* Learn tools: CapCut, Premiere, Final Cut Pro.
+* Study viral content structure and rhythm; imitate, then innovate.
+* Output consistently: one short video per week; in a year you might build an audience.
+
+If you cannot express through video, your ideas may drown in the information flood.
+
+## Conclusion: The Future Is Here—Are You Ready?
+
+The future workplace is no longer about endurance; it is about ability.
+
+* **Expertise** keeps you competitive.
+* **Writing** helps you stand out in remote collaboration.
+* **Video** makes your ideas visible.
+
+Start now: one hour per day on these three skills. Ten years from now, you will thank yourself.
+
+---
+
+---
+url: /en/article/aar-and-move-on/index.md
+---
+# After-Action Review - Look Forward
+::: center
+
+:::
+---
+
+**An AAR is about "standing in the future and looking back"**
+
+Tan Qiao (yes, the famous Officer Tan from Chenghua Avenue) posted a video on Bilibili titled ["The most real voice that moved tens of millions: 'Look forward'"](https://www.bilibili.com/video/BV11r4y1T7aX/). It recorded a deep conversation he had with an elderly man in 2011. What touched people most was the man's simple but powerful line: "look forward."
+
+Yes, life requires us to keep looking forward. Stand in the future, and be a friend of time.
+
+That made me think: in our day-to-day work, after-action reviews also need to "look forward." But why?
+
+## 1. The Common AAR Mindset
+
+An AAR often turns into "find the cause and the problem." This mindset stays focused on the past, asking why things happened and what went wrong. It is not that this is always bad, but most of the time it produces negative outcomes.
+
+In practice, an AAR easily becomes a blame meeting: arguing about "whose fault it was," ending with rising emotional entropy and low morale. It is like repeatedly picking at a scab. It does not heal; it only makes the wound harder to close.
+
+## 2. A Future-Oriented AAR
+
+An AAR is not only about asking, "what did we do?" It should be about the future: "what will what we experienced help us do next?"
+
+I call this "stand in the future, look back at the present." Focus on the future and ask: after this happened, what can we do now?
+
+Concretely, it means:
+
+1. **Extract reusable experience**
+   * What patterns can we reuse?
+   * What blind spots need early-warning mechanisms?
+2. **Turn lessons into action**
+   * How do we prevent similar issues next time?
+   * What processes or decision models should we improve?
+3. **Spot opportunities**
+   * What improvement space did this reveal?
+   * How can we convert lessons into competitive advantage?
+
+Looking forward in an AAR also reduces endless self-attack and criticism over past mistakes—for both yourself and others.
+
+## 3. Be a Friend of Time
+
+Only when an AAR helps the future does it become being a friend of time, producing three positive effects:
+
+1. **Compounding time**: experience becomes a decision knowledge base
+2. **Emotion management**: less internal friction and blame
+3. **Faster growth**: mistakes become steps upward
+
+> "What will everything we experienced help us with in the future?"
+>
+> This question is the key standard that separates effective AARs from performative ones.
+
+## 4. Takeaways
+
+* **Accept imperfection**: mistakes and detours are part of success; they are the price of cognitive upgrades.
+* **Be a friend of time**: accept and review seriously, then look forward for direction, and compound over time.
+
+As that elderly man stayed open-minded after many hardships, true wisdom is not obsessing over "why it failed," but thinking "how failure becomes fuel." That may be the deepest practice behind "look forward."
+
+Begin with the end in mind, and you will get both beginning and end.
 
 ---
 
@@ -148,6 +573,369 @@ Then I thought of the basketball tournaments in my hometown. Since the last cent
 Is the standard low? Of course it is. Do most spectators really understand the game? Probably not. Many of them likely do not even know the three-second rule. Will they come one year and never return the next? As far as I know, the tournament has continued for many years except during the pandemic. So what is it that keeps those matches alive?
 
 In the end, I found myself remembering a comment left by a Bilibili user the year before last.
+
+---
+
+---
+url: /en/article/ai-skills-crisis-are-you-affected/index.md
+---
+# A Note on the "Skills Panic" in the AI Era - Have You Been Hit?
+> Author: [Zhu Anfeng](https://zhuanfeng.netlify.app/)
+
+::: center
+
+:::
+---
+
+In a world where AI is advancing at high speed, people in technical roles are facing challenges we have never seen before. The spread of AI tools boosts efficiency, but it also quietly changes how we work—and may weaken our core skills.
+
+**AI as a double-edged sword**
+
+In the past, programmers had to read documentation, debug carefully, and gradually build real skill. Today, an AI assistant can give an answer instantly, and we may stop caring about the root cause. It feels like "picking up pennies and losing dollars": short-term efficiency gains, but potential long-term skill decay.
+
+**A real story: the downside of dependence**
+
+A developer with 12 years of experience shared [his experience](https://nmn.gl/blog/ai-illiterate-programmers): he gradually stopped reading docs, and when he saw an error message he no longer analyzed it—he simply asked the AI. Over time, he felt his debugging ability dropped, and his deeper understanding of code weakened.
+
+**A data point: AI usage keeps rising**
+
+According to a Stack Overflow survey, more than 70% of developers use AI tools in daily work. Among them, nearly 60% said they worry that over-dependence on AI may weaken their problem-solving ability.
+
+**Suggestions: keep your edge in the AI era**
+
+1. **A regular "no-AI day"**: pick one day each week to solve problems without AI, to keep your thinking sharp.
+2. **Understand what you accept**: when you adopt an AI-provided solution, spend time understanding why it works instead of applying it mechanically.
+3. **Keep learning**: AI evolves fast; keep learning so you are not left behind.
+4. **Train problem-solving**: try thinking independently first, and only ask the AI when it is truly needed.
+
+**Closing**
+
+AI is an important tool, but it should not become our crutch. Independent thinking and continuous learning are what keep us standing firm.
+
+---
+
+---
+url: /en/article/an-article-about-bilibili-videos-total/index.md
+---
+# Question - How Many Videos Does Bilibili Have?
+> Author: [Zhu Anfeng](https://zhuanfeng.netlify.app/)
+
+***
+
+I recently read an article titled [How Big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/). It used a method called **"drunk dialing"**: generate random 11-character YouTube video URLs and try to access them. The 11 characters are drawn from letters (a–z, A–Z), digits (0–9), and two special characters (\_ and -). Since the space of possible combinations is enormous (close to 2^64), the probability of randomly hitting a valid video is very low. But with some optimizations, they improved the hit rate, found valid videos, and did analysis. Using this approach, they estimated that by 2023 YouTube had more than 4 billion uploaded videos.
+
+That made me think of an equally absurd question:
+
+**How many videos does Bilibili have?**
+
+You might say: easy, just check the annual report. I asked DeepSeek and ChatGPT, and both basically said:
+
+**Bilibili has not published a direct data point for total video count in public financial reports or investor presentations.**
+
+So we need other methods.
+
+***
+
+### Method 1: Use search engines as a rough proxy
+
+For example, searching `site:bilibili.com/video/` on Bing returns:
+
+✔ about **175,000,000 results**, i.e. **175 million videos**. That feels low.
+
+***
+
+### Method 2: Build a crawler or call APIs
+
+Bilibili definitely has anti-crawling strategies. Too much trouble—pass.
+
+Calling APIs to count in a period and extrapolate is also trouble—pass.
+
+***
+
+### Method 3: Convert BV IDs to AV IDs and infer scale
+
+Pick a latest video, get the BV, then use an online tool to convert it to an AV. I got **113961320128496**, on the order of 10^14 (hundreds of trillions), which is obviously wrong. And if AV were an auto-increment ID, converting that number back to BV does not map to an existing video.
+
+***
+
+### Method 4: "Drunk dialing" with random IDs
+
+This is similar to the YouTube method:
+
+* **Request URLs** and compute the ratio of **valid BV IDs / total attempts**.
+* **Combine with historical reference points** (e.g., known latest AV IDs) to estimate total video count.
+
+For example:
+
+* If we generate **1,000,000** random BV IDs and **10,000 are valid**, the hit rate is **1%**.
+* If the BV ID space is roughly 58^10 ≈ 2.15 × 10^17, then we might estimate total videos as 2.15 × 10^17 × 1% = 2.15 × 10^15.
+
+The article mentioned several key optimizations:
+
+1. Limit the search range (based on known IDs) to improve hit rate
+2. Improve ID generation (weighted sampling) to avoid obviously invalid combinations
+3. Parallelize requests (multithreading)
+4. Combine APIs (reduce 404, improve data quality)
+5. Compute valid-ID share and extrapolate statistically
+
+Thinking about it, it is still kind of a hassle.
+
+---
+
+---
+url: /en/article/an-article-about-bollinger-bands/index.md
+---
+# Talking About the Stock Market (1) - Bollinger Bands in Practice
+When I first started trading stocks in 2015, opening a tool like Tonghuashun made my head hurt: lines, bars, formulas, and endless abbreviations. For a long time I had no interest in learning where these indicators came from, because I felt they were just statistical tricks and did not help much with real trading.
+
+Ten years later, I still do not use indicators heavily in practice, but I want to整理 the concepts and write a small "Talking About the Stock Market" series, as a memorial to my decade in markets. The probability and statistics mindset behind these indicators is worth revisiting.
+
+## 1. First: What Exactly Are Bollinger Bands?
+
+Bollinger Bands (also called Bollinger Bands) appear in almost every stock app. You see three lines: upper band, middle band, lower band.
+
+They are not arbitrary:
+
+* the middle band is the 20-day moving average
+* the upper band is the moving average + 2 standard deviations
+* the lower band is the moving average - 2 standard deviations
+
+The statistical intuition people often reference is that price fluctuations are *often* treated as roughly normal around a moving average, and under that assumption, about 95% of observations fall within ±2σ. That 95% framing becomes the core premise for using the bands.
+
+One key misconception to clarify: **it is not that price moves inside the bands; the bands move with price.** Many people jump straight to "touch lower band = buy" and "touch upper band = sell" and invert cause and effect.
+
+### 1) Why a 20-day moving average?
+
+20 trading days is roughly one month of trading (5 days/week × 4 weeks). It offers a reasonable short-to-mid-term view. There is no strict scientific law that it must be 20; it is more of a market convention.
+
+### 2) Why 2 standard deviations, not 1 or 3?
+
+The standard deviation choice sets band width. ±2σ is a practical balance:
+
+* ±1σ covers ~68%, bands are too tight and generate many false signals
+* ±3σ covers ~99.7%, bands are too wide and signals are rare
+
+### 3) Why "95%"?
+
+In a normal distribution, the area within ±1σ is ~68%, ±2σ ~95%, ±3σ ~99.7%. The meaning is: a band break is treated as a statistical "outlier" that may imply overextension and potential mean reversion.
+
+## 2. How to Use It: Three Scenarios
+
+### 1) Breakout setup: bet on a one-way move
+
+Markets rotate between low volatility and high volatility. In Bollinger Bands:
+
+* low vol: bands squeeze (narrow)
+* high vol: bands expand (widen)
+
+Big moves often look like: squeeze → expansion → price rides the band channel (up or down). If price gaps far above the upper band, it may be short-term overbought. Healthier moves often "walk the band" rather than flying away.
+
+Example: Boyuan shares that I personally missed (I entered around the red circle but did not hold through the consolidation):
+
+::: center
+
+
+
+How to act? Before a big move, assets can consolidate for a long time. You need patience. In the example above, I saw signs of accumulation and wanted exposure, but it kept ranging for nearly two months. I could not endure it and left, missing the later run.
+
+Also, form expectations: what events or catalysts could trigger the breakout—earnings, policy, or something else?
+
+### 2) Range trading: mean reversion for conservative traders
+
+Based on the "95%" idea, you can frame it as:
+
+\==When price moves outside the band, it's a low-probability event that usually does not last long. That is the core logic of catching reversals.==
+
+* If price drops far below the lower band: it often snaps back into the band (assuming you still like the fundamentals).
+* If price breaks far above the upper band: it often pulls back; you can consider reducing exposure.
+
+### 3) Trend pullbacks: my most used approach
+
+Many veteran traders like trend trading: pick a good asset, ride a confirmed trend. Not the extreme one-way mania, but a steadier move where the band channel slopes up (or down).
+
+* In an uptrend, price often oscillates between the middle band and the upper band.
+* In a downtrend, between the middle band and the lower band.
+
+::: center
+
+
+
+\==Core logic: in a strong trend, the 20-day moving average (middle band) often acts as support (uptrend) or resistance (downtrend).==
+
+In an uptrend, you might buy nearer the lower band and reduce gradually near the middle band. In a downtrend, you might sell near the upper band and add near the middle band. The middle band is crucial: if price breaks it with a large candle, the short-term trend may be shifting and you should adjust quickly.
+
+Example: Shenghong Tech from June to September had several good add points during its uptrend (red circles):
+
+::: center
+
+
+
+## 3. A Few Practical Notes
+
+* Do not rely on Bollinger Bands alone. First judge the broader regime (breakout / range / trend), then use the corresponding method.
+* Win rate matters more than being right every time. No indicator is 100% accurate.
+* Watch exit signals: if you catch a strong run and price stays outside the upper band for multiple days, it can be an "escape" signal (overbought risk).
+* Combine with other indicators (RSI, moving averages) for stronger confirmation.
+
+---
+
+---
+url: /en/article/an-article-about-future-product-design/index.md
+---
+# In the Next 10 Years, Will Students and Retirees Be the Real "Core Consumers"?
+> Author: [Zhu Anfeng](https://zhuanfeng.netlify.app/)
+
+***
+
+After reading [The U.S. city of the future](https://www.noahpinion.blog/p/the-us-city-of-the-future), I started thinking about a question:
+
+**In the next 10 years, what kinds of products will truly have a market?**
+
+You might say: obviously products for young people, white-collar workers, and the middle class. They have money and are willing to pay for experience.
+
+But from another angle: have you noticed that the real mass consumer groups are quietly changing?
+
+**The two most important groups may actually be students and retirees.**
+
+***
+
+### Why these two groups?
+
+Look around and you will see:
+
+* **The student population is huge and still growing.** China has about **44.3 million** university students, not to mention vocational education and the massive exam ecosystems.
+* **The retiree population is surging.** By 2023, people aged **60+** exceeded **280 million**, and by **2035** it may exceed **400 million**.
+
+What do these two groups have in common?
+
+* **Lots of time, not much money.** Plenty of free time each day, but limited budget.
+* **Comfortable online.** Students are digital natives; older people are also adapting quickly to short videos and online learning.
+* **Strong demand for entertainment and learning.** One prepares for the future; the other wants life to be more interesting.
+
+So the most profitable products may not be expensive products, but products that let people **spend time cheaply**.
+
+***
+
+### What product directions look promising?
+
+From a product angle, the logic is simple: users with **"time-rich, budget-limited"** profiles want high value-for-money time consumption products.
+
+#### 1) Low-cost, high-immersion content (short video, games, AI entertainment)
+
+* Short video already takes huge time from older users.
+* Games and AI entertainment are spreading across both students and older groups.
+* Interactive AI entertainment (chat, stories, etc.) may be a major track.
+
+#### 2) Online learning & lifelong education
+
+* Students are busy with exams; online learning remains a rigid demand.
+* Retirees also learn online; many older users learn languages, photography, painting, etc.
+
+Opportunities:
+
+* AI-personalized learning for students
+* Light, social interest-based education for retirees
+
+#### 3) Low-cost offline social experiences (citywalk, community activities)
+
+Citywalk works because it is cheap, immersive, and social. Low-cost but high-social-value experiences may become more popular.
+
+Opportunities:
+
+* Affordable, interactive offline social scenes
+* Community activities and shared spaces
+
+***
+
+### How to build for this future? Three core ideas
+
+1. **Free + time consumption**
+
+Ads + free usage fits "time-rich, cash-poor" users. Games, short videos, and AI entertainment already follow this model.
+
+2. **Use AI to personalize experience**
+
+AI can tailor learning plans for students, and act as a virtual companion for retirees.
+
+3. **Online + offline for immersion**
+
+Combine short video with offline events; or let AI generate personalized routes for citywalk experiences.
+
+***
+
+### Have you thought this through?
+
+In the past, people focused on "consumption upgrade" and premium products. But now you may realize that "consumption downgrade" is also a massive opportunity.
+
+There may be fewer rich consumers, but there are more users with lots of time who are willing to spend a little money to have fun.
+
+Can your product meet their needs?
+
+---
+
+---
+url: /en/article/an-peek-behind-anduril/index.md
+---
+# From 20 People to an Industry Benchmark - What Anduril's R&D Culture Reveals
+## Why I Wrote This
+
+Anduril is a fast-rising U.S. defense tech company focusing on military applications of drones. It grew from a 20-person team valued at $250M in 2018 to a ~4,000-person company valued around $28B today. I recently read an engineer (Adnan Esmail) describing their [internal R\&D](https://joincolossus.com/article/the-amusement-park-for-engineers/). Many details were interesting, so I made notes to see whether there are lessons that could be useful for domestic defense enterprises and institutes.
+
+## 1. Validate Value with "Rough Prototypes", Not "Perfect Before Shipping"
+
+Anduril does not aim for polished perfection in the first step. They build a minimal demo that works end-to-end, prove real value, and then iterate.
+
+> “Our first tower was literally a telephone pole with a gaming PC housed in a weatherproof box, a pan-tilt unit normally used as stage lighting, with spikes on it to prevent bird shit from blocking the sensors. A lot of it came from Home Depot.”
+
+Their first surveillance tower looked crude and was even funded out of pocket, but it solved the core border-monitoring need. It reportedly helped seize nearly 1,000 pounds of marijuana and assisted in arresting dozens of smugglers, winning a pilot program with U.S. Customs and Border Protection and opening the border-security market.
+
+## 2. Break the Impasse with Extreme Speed
+
+"Fast" is the core weapon. Whether iterating products or responding to urgent demands, they compress timelines and deliver in months (or weeks) what traditional vendors might take years to do.
+
+### Example 1: Raising Anvil's interception success rate
+
+> “We had three months to stop the bleeding, and I spent my paternity leave developing a 3D radar system... In three months, we went from a 40% kill probability to knocking out 35 of 35 targets.”
+
+The early Anvil prototype used camera-based targeting and failed easily when targets moved. Even so, 40% was already far above competitors' single-digit rates. To fix the defect, the engineer built a 3D radar system during paternity leave, pushing results to 35/35. Even elite FPV pilots could not escape tracking.
+
+### Example 2: 14 days to build 53 V2P interceptors
+
+> “One of our lead engineers from the test team and his co-worker came in on a weekend and built 28 complete vehicles in a single day... In total, they built 53 vehicles in 14 days, test-flying each one three times...”
+
+V2P was a key product to compete for a contract worth over $100M. It was a 5.2 kg interceptor reaching 147 mph while maintaining high attitude precision. On the night before a competition, the U.S. military suddenly demanded intercepting a much larger Group Three drone. At 3 a.m., engineers stripped radar from 18 drones, flashed new firmware, reassembled them, and competed the next morning as if nothing happened—then achieved a one-shot hit and won a life-changing contract.
+
+## 3. Win with Low-Cost Innovation, Not Overpriced Systems
+
+When traditional defense gear is expensive and inefficient, Anduril often challenges assumptions: avoid being constrained by "official requirements", and modify cheap commercial components to meet core needs.
+
+> “We modified a $5,000 commercial boating radar—the spinning ‘candy bar’ type you see on fishing vessels... By modifying the waveguide assembly to create a narrower beam, we concentrated more energy in a specific direction and extended the range by about 10x.”
+
+At the time, the U.S. military needed low-altitude cruise-missile detection. Traditional solutions were multi-million-dollar radars, and vendors refused to sell to a "small company" like Anduril. The team asked: why cover the whole sky? If the threat mainly comes from the horizon, then optimize for that. They modified a fishing-boat radar into a workable solution. Competitors mocked them with container-sized systems, but the cheap solution won the competition.
+
+## 4. Turn Crisis into Breakthrough
+
+R\&D is never smooth. Anduril teams do not fear failure; they find root causes fast and grind details until the last minute, turning crises into breakthroughs.
+
+> “It turned out there was a fundamental issue: When a quadcopter dives downward faster than its propellers can ‘bite’ through the air, the propellers act as air brakes, inverting the effect of guidance commands. We needed to completely reverse their guidance commands when crossing this threshold... The team drove the drone... from Southern California to my home in Los Altos in the middle of the night. The next day was the baby shower for my second child, and we spent the hours and minutes before the guests arrived tuning the drone in my backyard.”
+
+Bolt initially reused Anvil's guidance logic and repeatedly missed the target by a few meters during dives, failing a key demo. After identifying the core issue, the engineer built a "dive guidance" fix. For a four-star general demo, the team drove the drone overnight to his house and tuned it in his backyard before guests arrived for a baby shower. Bolt later made it into the USMC OPF-L program and became another core product.
+
+::: center
+
+:::
+
+## 5. A Flexible Organization that Sustains Efficiency
+
+Anduril rejects "one product, one fixed team". They use modular decomposition and dynamic staffing, letting small teams support many products and avoiding efficiency collapse as they scale.
+
+> “We rebranded our engineering organization as ‘Product Engineering’... We then consolidated scattered teams into a cohesive group with three clear frameworks: products, core technologies, and key capabilities... What made this work was our matrix organization. Instead of creating dedicated teams for each product, we built functional organizations (across electrical, mechanical, and embedded systems) with deep expertise that could surge resources toward critical projects when needed.”
+
+Instead of rigid per-product teams, they organize around three blocks: products, reusable core technologies (like Lego bricks), and key capabilities (supporting services, like machine shops that can prototype in hours). When needed, they surge specialists from functional groups (electrical, mechanical, embedded). In early 2023, fewer than 200 people were responsible for 25+ products, many deployed globally in the thousands.
+
+## The Author's Closing Summary
+
+Even after leaving Anduril to start a company in physical intelligence, the author says the most unforgettable part was the atmosphere of "making the impossible possible": no empty talk in meeting rooms, only hands-on work in labs; no waiting a year for perfection, only building something usable first and then improving fast; no lone-hero mythology, only a team burning together toward one goal. That spirit is worth remembering and carrying forward.
 
 ---
 
@@ -233,6 +1021,22 @@ We will continue to summarize and reflect deeply on all of this. We earnestly as
 ![Popular comments during the 2002 Women's World Championship](/img/2002年女排世锦赛-热门评论.png)
 
 Unlike today, the "popular comments" of those years were basically all drawn from newspapers and other print media. After a quick look, it is clear that negative commentary formed the overwhelming majority.
+
+---
+
+---
+url: /en/article/congratulations-opening-19th-asian-games/index.md
+---
+# Congratulations on the Opening of the 19th Asian Games
+> Author: Zhu Jianrong. Published on July 11, 2022 in *Today's Jingde*.
+
+The ancient East greets the sunrise early,
+
+The Asian Games torch flares toward the sky.
+
+Not everyone knows Hangzhou's Mid-Autumn moon,
+
+How many truly understand the Qiantang tide?
 
 ---
 
@@ -573,6 +1377,50 @@ As the best footnote to today, I was lucky enough to see the strange cloud forma
 ---
 
 ---
+url: /en/article/imdb-top250-film-reviews/index.md
+---
+# IMDB Top 250 Quick Reviews
+::: info I only comment on the films I have watched and genuinely liked, following IMDB's default ranking.
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+---
 url: /en/article/in-the-tall-birch-forest-my-youth-wanders/index.md
 ---
 # In the Tall Birch Forest, My Youth Wanders
@@ -606,6 +1454,133 @@ In the tall birch forest
 my youth is wandering
 
 :::
+
+---
+
+---
+url: /en/article/infomation-creator-or-consumer/index.md
+---
+# Information Creator or Consumer?
+## 1. A Bloated Bookmarks Folder
+
+Today, while cleaning up my Edge browser bookmarks, I checked the stats and found I had nearly 1,640 saved URLs. That honestly surprised me. If I spend 20 minutes on average to study one bookmark, that is more than 500 hours. Even if I spend one free hour a day, it would take two years to get through them all.
+
+Some of those bookmarks were for work, but I still have far too many saved items for tech and hobbies. For IT-related links alone, I split them into nearly twenty subfolders: cloud-native, big data, frontend, 3D development, UI/UE, project management, and so on. There are simply too many great articles out there. Every time I see one, I reflexively save it, hoping I will have time later—or that it will help when I run into a problem.
+
+But in reality, I admit most of these bookmarks have been gathering dust. After enough time passes, even if you do face a problem, you may not remember that the answer is sitting in your bookmarks.
+
+A bloated bookmarks folder is also a perfect illustration of entropy: things drift from order to disorder, and it takes extra energy to restore order (i.e., spending time organizing bookmarks).
+
+## 2. About Having a Sense of Goal
+
+At work, I often use a phrase: a sense of goal. The three soul-searching questions are: what am I doing, why am I doing it, and what does "done" look like? In recent years, people love internet buzzwords like "align the granularity," but goals also need alignment. Daily standups and wrap-ups are, at their core, about aligning goals at the team level. Managers worry most when someone lacks goal clarity and does not know what a task should look like when finished—whether it is as small as a UI screen or as large as a full project deliverable. All those processes and templates exist largely to keep everyone aligned.
+
+I think, at least for now, my bookmark management lacks goal clarity. It is a failure. Even old ladies who rummage through cardboard at least make money by selling it. I have accumulated all these bookmarks, but aside from guilt about unread items, they have no meaning—because there is no **real output**.
+
+## 3. About Output
+
+In an age of information explosion, it is easy to come across a great essay, a useful technical article, or a deep video. For a curious person like me, the act of discovery itself can be exciting.
+
+I do not deny that such information can broaden your horizon, lift your mood, or shock you in a good way. But in most cases, that is where it ends. You did not actually create anything. It is pseudo-work.
+
+A more effective approach is to bookmark with a question in mind, or to create based on your bookmarks—write a short takeaway, record a video, and so on.
+
+Only then will you notice: do you really care about what you saved, or was it just momentary curiosity? If it is the latter, there is no point saving it. You are merely an information consumer. If you accept everything, you will eventually get indigestion.
+
+## 4. Forty-Eight Hours
+
+I am going to set a rule: if I save something, I must produce some takeaway or creation within 48 hours.
+
+If I do not look at new bookmarks within 48 hours, the probability is high that they will start gathering dust.
+
+Finally, when I have time, I want to explore using AI agents to optimize bookmark management, because a bookmarks folder is essentially "a crawler + a knowledge base".
+
+---
+
+---
+url: /en/article/inscription-stone-pavilion-xishan-ridge-jingde-county/index.md
+---
+# Hiking Jingde Xishan and a Study of a 1506 Stone Pavilion Inscription
+## A Hike Up Xishan in 2005
+
+In Jingde County town there are two hills: Zishan to the south and Xishan to the west. Jingde Middle School is at the foot of Zishan, so when I studied there, I climbed it many times.
+
+Xishan is farther away. Jingde is not a big county town, but you still have to cross much of it to reach the trailhead. Even so, I did leave good memories there with friends.
+
+This May Day holiday, with nothing in particular to do, I looked through old photos and found shots from May 3, 2005, when I climbed Xishan with Zhang Qipei, Zhu Yan, and Zhong Chen.
+
+Back then we had only recently started working. We had hopes for the future, and also confusion about reality. But the hike itself was full of fun, and everyone seemed to return to the raw excitement of high school or even junior high, deep in the hills.
+
+I even recorded a few videos on what was, at the time, an absolutely top-tier phone: the Nokia N82. On a modern screen they look like mosaics, but the audio is preserved well, and just listening with eyes closed is already enough.
+
+After reaching the top, we descended on the side near the fluorite mine, walked back to the South Street of the county town, found a restaurant, and ate and drank heavily. Big bites of meat, big bowls of alcohol. It was thoroughly satisfying.
+
+Looking at those photos now, I feel deeply nostalgic. Twenty years really pass in a blink.
+
+After that trip, for various reasons, I never climbed Xishan again, and I never again rested with familiar friends in that small stone pavilion.
+
+Later still, the high-speed rail era arrived at the foot of Xishan. The station there is busy, but I still miss that quieter and more innocent time.
+
+On that hike, I photographed the inscription of the stone pavilion halfway up the mountain. This time, with the help of modern tools, I translated it as a small tribute to the past.
+
+The inscription was written in the first year of the Zhengde reign of the Ming dynasty, in 1506—more than five hundred years ago. In front of that scale of time, my twenty years without climbing Xishan is almost nothing, and any worries of the human world are long washed away.
+
+Some variant characters appear in the inscription, so the translation may differ slightly in details, but the main meaning is unaffected.
+
+The text is short, plain, and concise. It does not even mention how much money was spent, which I find admirable.
+
+## 1. Classical Chinese (with punctuation)
+
+*Record of the Newly Built Stone Shelter on West Ridge*
+
+西岭距县治东四里许，西通太平路，当冲要。旧虽有亭，以便行者休息，废之已久。\
+时值祈寒盛暑，卒遇狂风骤雨，往来者苦之。予遂同妻朱氏多贞，乐然捐资独力建洞，以为往来者憩。\
+爰命五子，曰正喜，曰茂喜，曰嵩喜，曰大喜，曰戊喜。请开化名匠方珂等，伐石建洞。\
+一面高一丈有奇，深长一丈六尺，两傍石凳，一力完成。肇工于是岁春三月，毕工于秋七月。\
+落成日，谨书建洞之颠末，以为岁月记，非敢矜功要誉于乡党后世也。\
+予进贤乡长乐里人，汪姓名永庆，世居此岭麓之阳。马峙。\
+大明正德元年丙寅岁孟秋月，吉。本邑义官注永庆记。
+
+## 2. English Translation
+
+West Ridge lies about four li east of the county seat, and it connects westward to the Taiping Road, a key route. Though there once was a pavilion here for travelers to rest, it had long since fallen into ruin.
+
+In severe cold or intense heat, and especially when sudden fierce winds and heavy rain arrived, travelers suffered greatly. Therefore, I, together with my wife Zhu Duozhen, gladly donated funds and undertook the work ourselves to build a stone shelter so that travelers might rest and take refuge from wind and rain.
+
+For this purpose I called upon my five sons—Zhengxi, Maoxi, Songxi, Daxi, and Wuxi—and invited the famous stone mason Fang Ke from Kaihua and others to quarry stone and build the shelter.
+
+The front face rises more than one zhang; its depth and length are one zhang and six chi. Stone benches were set on both sides. It was completed entirely by our family effort. Work began in the third month of spring and finished in the seventh month of autumn of that same year.
+
+On the day it was completed, I carefully wrote down the beginning and end of the construction as a record for time. It is not that I dare to boast of merit or seek praise from neighbors or from later generations.
+
+I am Wang Yongqing, of Changle Hamlet in Jinxian Township. My family has lived for generations on the sunny side of this ridge, at Mazhi.
+
+On an auspicious day in early autumn, the first year of the Zhengde reign of the Great Ming (Bingyin year). Recorded by Zhu Yongqing, a local charitable official.
+
+## 3. Original Inscription Text
+
+新建西嶺石洞記\
+西嶺距縣治東四里許西\
+通太平路當衝要舊雖有\
+亭以便行者休息廢之巳\
+久時值祈寒盛暑卒遇狂\
+風驟雨徃来者苦之予遂\
+同妻朱氏多貞樂然捐貲\
+獨力建洞以為徃来者憩\
+爰命五子曰正喜曰茂喜\
+曰嵩喜曰大喜曰戊喜請\
+開化名匠方珂等伐石建\
+洞一㪽髙一丈有竒深長\
+一丈六尺兩傍石櫈一力\
+完成肇工於是歳春三月\
+畢工於秋七月落成日謹\
+書建洞之顛末以為歳月\
+記非敢𧩊功要譽於鄉黨\
+後世也予進賢鄉長樂里\
+人汪姓名永慶世居此嶺\
+麓之陽馬峕\
+大明正德元年丙寅歳孟秋\
+月𠮷本邑義官注永慶記
 
 ---
 
@@ -1157,6 +2132,47 @@ It was my honor to have fought alongside you.
 ---
 
 ---
+url: /en/article/memories-of-my-favorite-songs/index.md
+---
+# My Story with Music (I)
+::: center
+
+:::
+---
+
+## Why I Started
+
+Zhouyang HOPICO discussed in [this video](https://www.bilibili.com/video/BV1S6ZPY5E7f/) a number of well-known pieces that many people recognize but cannot always name accurately, such as the ending theme of China's *News Broadcast* and the opening theme of *Animal World*. It is an interesting angle, and his production quality left a strong impression.
+
+When he played "Le Rossignol" ("The Nightingale"), it instantly pulled my thoughts back to junior high, thirty years ago. On impulse, I wanted to write about my own story with music.
+
+## The Doorway into Music
+
+My mother is a born singer. Ever since I can remember, I often heard her sing a few lines in her spare time, songs like "Ode to Red Plum Blossom" or pieces from *The Battle on Shangganling*. In those years, at the year-end school performances, she often had items of her own.
+
+At first, whenever she sang, I felt a little embarrassed. We lived in the teachers' dorm building on campus, and I worried about disturbing others. But gradually I became absorbed and realized that her voice was something I could be proud of. She liked the mezzo-soprano range. I even bought her cassettes of singers like Paula Tsui, but that is another story.
+
+Unfortunately, I did not inherit that gene. In singing I am essentially disabled: tone-deaf, with a poor voice. My many disastrous KTV performances have confirmed this again and again.
+
+But that never stopped me from becoming a music lover.
+
+In [this article](https://user.qzone.qq.com/7260468/blog/1212376324), I mentioned that in the summer of 1993, when I was in my second year of junior high, my parents decided to move the whole family into the county town for my education. I transferred to Class 2 in the second year of Jingde Middle School and began a new chapter of school life.
+
+In a small county town in the 1990s, young people tended to gather in a few places: video parlors, arcades, audio-video stores, billiard halls, and so on. In junior high, I met friends like Qipei and spent many weekends at the arcade playing games like *Captain Commando*. Music had not entered my world yet.
+
+Looking back, though, the soundtracks of games like *Street Fighter II*, *Strikers 1945*, and the famous stage 18 of *U.N. Squadron* were already tapping on the part of my brain that loves instrumental music.
+
+By the third year of junior high, we had all become a little more mature. Emotions and understanding of the world began to deepen. I was no exception.
+
+The first device I bought that could play music was probably a small radio-cassette recorder. "Small" is relative: there was a very popular advertisement for a brand called Yanwu, and what I bought looked quite similar, though mine was likely an off-brand. There was also an American cartoon that became very popular when I was young, *Transformers*, with a character that could turn into a tape recorder. Of course, my original intention was to use the device to practice English listening, because I was preparing for the National English Competition. Later I won a provincial third prize, under the guidance of Yu Zuofang. She was also a close colleague and friend of my mother since their time at Huatan Middle School in Jingde County, where I spent much of my childhood (five years of primary school plus one year of junior high).
+
+Audio-video stores back then were like Doraemon's pocket. You could find cassettes of every genre. The best-selling ones were of course albums by the "Four Heavenly Kings" of Hong Kong pop. Perhaps because I knew I could not sing, I became more interested in instrumental music. I still remember buying relatively niche cassettes: Johann Strauss orchestral works, Richard Clayderman's piano pieces, Kenny G's saxophone, and so on. I was truly absorbed by those.
+
+I also bought some vocal music that was less mainstream: Jessica Jay's album *Broken Hearted Woman*, and several "Disco Warriors" compilations. Some tracks, like "Walkie Talkie Tanze" and "Don't Cry," I still listen to occasionally. In a way, those songs reflect subtle emotional changes during growing up: putting on headphones, listening to your favorite music, and expecting something beautiful to happen.
+
+---
+
+---
 url: /en/article/my-2011/index.md
 ---
 # My 2011
@@ -1211,6 +2227,36 @@ The Argentina one was bought in my senior year at Peking University, when our De
 ---
 
 ---
+url: /en/article/my-santi-memories/index.md
+---
+# Fragments of Thoughts on *The Three-Body Problem*
+## Why I Started
+
+I have never been the type who loves reading novels. I have not read any of the Four Great Classical Novels cover to cover, let alone the many other great works of literature from China and the world. I simply could not get interested. On the other hand, as a kid I did read through the full *One Hundred Thousand Whys* series that my father bought.
+
+Perhaps because of that, my Chinese-language grades were always only average, but that is another story. So for most "classics," I learned them through film and television instead: *Journey to the West* when I was young, *Romance of the Three Kingdoms* in middle school, and Jin Yong's works such as "Flying Snow Shoots the White Deer" and so on.
+
+I also have a habit of not rushing to watch things while the hype is at its peak. I prefer to wait until the noise settles, so that reviews and popularity do not bias my own judgment.
+
+For all those reasons, I only listened to the full story of *The Three-Body Problem* after the Qingxue audiobook version came out, even though the novels had been published for more than a decade by then.
+
+![Concept art of the Red Coast Base](/img/三体雷达峰概念图.png)
+
+## Audiobooks
+
+I have loved comedic sketches and cross-talk for many years, so it feels natural that I would enjoy storytelling performances and audiobooks. I have forgotten what coincidence first led me into audiobooks. The first one I listened to was probably Tian Lianyuan's *Water Margin*, and later *Heroes of the Sui and Tang Dynasties*. The heroic spirit in those stories always moved me.
+
+For *The Three-Body Problem*, the first version I encountered was likely Qingxue's. I also listened to part of the 729 Sound Factory version later, but the best version in my view was the Yun Ting / Sound Factory production. It accompanied me through many seasons of running, from spring to winter.
+
+Why was it so good?
+
+The voice cast was outstanding: Teacher Wang Mingjun as the narrator, Teacher Liao Jing as "older Ye Wenjie," Jiang Guangtao as Luo Ji, and many well-known voice actors such as Baomu Zhongyang, Peng Yao, Shan Xin, and Bai Xuecen.
+
+I believe only actors with real life experience can truly deliver a grand story that spans time. And that is exactly how it felt. Their grasp of characters was more immersive. The voices, cadence, and tone conveyed the right cognition and personality, with far less awkwardness and a stronger sense of reality.
+
+---
+
+---
 url: /en/article/peking-university-reminiscence-banquet-resignation/index.md
 ---
 # Peking University Memory - Leaving the Banquet Board
@@ -1250,6 +2296,107 @@ Before leaving campus at graduation, I wrote a short post on the Banquet board o
 ---
 
 ---
+url: /en/article/poem-in-praise-of-zhuwang-village/index.md
+---
+# Ode to Zhuwang Village
+> Author: Zhu Jianrong. Written in 2020. [Zhuwang Village](http://www.zhongguogucunluo.com/zgjg/html/?95.html) in Jingde County, Anhui, is the author's hometown and also one of the millennium-old villages of southern Anhui.
+> ::: center
+> ![A corner of Zhuwang Village](/img/朱旺村一角.jpg)
+
+The Daxi River\[^1] winds and flows to the southeast,
+
+Through the village runs a man-made nine-bend canal.
+
+Turtle Hill lies to the east, Dragon Ridge\[^2] to the west,
+
+Gateway to the "Anhui-Sichuan-Tibet" road of southern Anhui.
+
+An eight-li embankment guards both banks,
+
+A thousand mu of fields shimmer like golden waves.
+
+By Xianyun Terrace, one fishes at Dragon Pool\[^3],
+
+Under Shengwu Bridge\[^4], ducks and geese play.
+
+High-speed trains pass above the Six-Mu Pond,
+
+By the old buckwheat hermitage and the "third-front" buildings\[^5].
+
+Beneath the Thirteen Bridges\[^6], nine well-shadows linger,
+
+By Ninety-Nine Dangs, Bai-Mu E rises\[^7].
+
+White walls and dark tiles stand in dense rows,
+
+Who knows how many alleys hide in depth.
+
+Virtue and learning are honored; neighbors live in harmony,
+
+Zhu Jia and Zhu Jiannong\[^8] remain in history's record.
+
+Irrigation channels nourish the fields; the Half-Moon Well\[^9] reflects,
+
+All the village sings like a Jiangnan water town.
+
+Where is the ten-thousand-seat opera stage now,
+
+Only day-trip flags stand high at the village gate.
+
+Ten-li Three Villages\[^10] won the first fame,
+
+In southern Anhui's heartland, the peach-garden joy remains.
+:::
+
+Notes:
+
+\[^1]: The Daxi River flows eastward from Fushan, circles the village, and then flows south into the Huishui River near Caijiaqiao.
+\[^2]: To the east of the village is Turtle Hill; to the west is the ridgeline of the "incoming dragon" mountains.
+\[^3]: In the hills behind the village once stood Xianyun Terrace. It is said that Zhu Zedan, a Hanlin scholar, studied there in his youth. It was destroyed during the Cultural Revolution; only the cliff inscription "Xianyun and Pool Reflections" remains.
+\[^4]: Shengwu Bridge is a stone-beam bridge over the Daxi River on the eastern side of the village, now commonly called "New Bridge."
+\[^5]: Behind the village were the ancient Buckwheat Hermitage and Xiangyun Temple, with nearly a thousand years of history. In the Qing dynasty, the Yongzheng Emperor (Prince Yong) is said to have inscribed a plaque reading "Fuhu Zen Temple." It was destroyed during the Cultural Revolution, and only scattered foundation stones remain. In the 1970s, Shanghai built a "third-front" factory here known as Xinghuo Factory.
+\[^6]: Thirteen granite stone bridges span the man-made canal in the village, and nine stone wells are stacked along the canal from downstream to upstream.
+\[^7]: On the front hill of the village there is a stone-paved road nearly two meters wide that leads via Honglingjian to a hilltop "Hundred-Mu Garden." In the garden stands a "Five-Grain Tree" more than a hundred years old. It is said the tree blooms with five different kinds of grain flowers, and whichever flower blooms most foretells a bumper harvest of that grain.
+\[^8]: Zhu Jia was one of the leaders of a peasant uprising in Sichuan during the revolutionary period and was killed after its failure. Zhu Jiannong joined the underground Party in his youth and later became a professor at Wuhan University and a noted economist.
+\[^9]: In Xingtian within the village there is a stone-built irrigation channel that draws water from the Daxi River. Beside it sits a stone well shaped like a half moon, with the arc facing south and the chord facing north.
+\[^10]: Ten-li Three Villages refers to Zhuwang, Tangcun, and Qiaoting.
+
+---
+
+---
+url: /en/article/poet-tea-garden-baiyunshan-mountain/index.md
+---
+# A Poem on the Baiyunshan Tea Garden
+> Author: Zhu Jianrong. Published on April 21, 2020 in *Today's Jingde*.
+
+In the east corner of the slow city\[^1], clouds drift high,
+Terraced slopes gather crimson mist layer by layer.
+In the mountain, a rare encounter among ten thousand,
+Tea girls pick red azaleas from the leaves they lay.
+
+Notes:
+
+\[^1]: At the "International Cittaslow 2016 China Annual Conference," Jingyang Town of Jingde County, Xuancheng City successfully joined the International Cittaslow network and received official accreditation. It became the first in Anhui Province and the sixth in China. (https://www.ahjd.gov.cn/News/show/638264.html)
+
+---
+
+---
+url: /en/article/reflections-july-1st-party-branch-activity/index.md
+---
+# Reflections on a Party Branch Activity on July 1
+> Author: Zhu Jianrong. Published on July 11, 2022 in *Today's Jingde*.
+
+At Ningguo Martyrs' Cemetery, we pay our respects,
+
+By Chujiatan, landscapes stir the heart.
+
+Xicun's countryside shines with quiet beauty,
+
+To comfort the spirits of the fallen above.
+
+---
+
+---
 url: /en/article/standing-at-the-north-pole/index.md
 ---
 # Standing at the North Pole
@@ -1276,6 +2423,1127 @@ To all friends, slim or heavy, who have read this post: may you all find your no
 ---
 
 ---
+url: /en/article/talk-about-stock-market-2-can-rsi-help-make-money/index.md
+---
+# Talking About the Stock Market (2) - Can RSI Actually Help You Make Money?
+## 1. Technical Analysis Isn't Mysticism, and RSI Isn't Magic
+
+Many people dismiss technical analysis, especially value investors, and claim indicator users are "leeks". But personally, I find indicators useful in trading—they do have math/statistics logic behind them. In the end, trading is a probability game.
+
+With the same RSI, some people profit and some people lose. The key is not the indicator, but usage. Some people force one indicator in all regimes (trend and range). Others learn too many indicators and get lost. Indicators have different roles: some fit trends, some fit ranges.
+
+RSI is not ideal for strong trending names. It is more suitable for short-term guidance, especially in ranging markets.
+
+## 2. How Is RSI Calculated?
+
+### Step 1: Compute RS (relative strength)
+
+RS = average gain over the past N days ÷ average loss over the past N days.
+
+Two key statistical ideas:
+
+* Only count days with actual gains/losses; flat days are ignored.
+* Use averages to smooth noise and reduce the impact of single-day outliers.
+
+### Step 2: Convert RS into a 0–100 scale
+
+RSI = 100 - \[100 ÷ (1 + RS)]
+
+This is a normalization step. RS can be very large or very small; mapping to 0–100 makes interpretation intuitive:
+
+* RS → ∞ (only gains): RSI → 100 (extremely strong)
+* RS = 0 (only losses): RSI = 0 (extremely weak)
+* RS = 1: RSI = 50 (balanced)
+
+## 3. What RSI Really Means, and How to Choose Periods
+
+RSI (Relative Strength Index) compares buying and selling strength over a window. Higher RSI implies stronger buying pressure, lower RSI implies stronger selling pressure, around 50 implies balance.
+
+Most apps show RSI(6), RSI(12), RSI(24): different windows, like daily/weekly/monthly charts.
+
+* shorter window (6): more sensitive, more signals
+* longer window (24): slower, fewer signals
+
+Choosing 6/12/24 is mostly convention. You can use 5/10/20 too.
+
+One reminder: tweaking periods does not magically improve accuracy. I usually keep a single RSI line (6 or 12). I do not recommend beginners overcomplicate with multiple lines and crossovers.
+
+## 4. Practical Usage
+
+Two main RSI uses:
+
+1. basic: overbought/oversold
+2. advanced: divergence
+
+Combined with Bollinger Bands, signals can be stronger.
+
+### 1) Basic: overbought/oversold
+
+Core idea: after large moves, prices tend to mean-revert.
+
+* Conservative thresholds: 80 (overbought) and 20 (oversold)
+* Aggressive: 70 and 30 (more signals)
+
+Personally, I use 80/20.
+
+* RSI > 80: buying pressure overheated; risk of pullback rises
+* RSI < 20: selling pressure extreme; rebound probability increases
+
+Example: Google intraday oversold rebound:
+
+::: center
+
+:::
+
+Key point: RSI is not great in strong trends. In sustained uptrends, RSI repeatedly flags overbought; selling on that can make you miss big gains.
+
+For trend names, RSI can be misleading:
+
+::: center
+
+:::
+
+### 2) Advanced: RSI divergence
+
+Normally, price up → RSI up, price down → RSI down. Divergence (opposite direction) can hint at a reversal.
+
+* Bearish divergence: price makes a higher high, RSI makes a lower high → momentum weakening
+* Bullish divergence: price makes a lower low, RSI makes a higher low → selling exhaustion
+
+Examples of bearish divergence:
+
+::: center
+
+:::
+
+::: center
+
+:::
+
+::: center
+
+:::
+
+Two reminders:
+
+① Only treat divergence as meaningful near extremes. For bearish divergence, RSI should be above 80; for bullish divergence, below 20.
+
+② Confirm with Bollinger Bands. For example, bearish divergence + price above the upper band increases pullback probability. For bullish divergence, waiting for price to re-enter the band helps avoid catching a falling knife.
+
+Final misconception: divergence can still fail in strong trends. In one-way downtrends (price walking the lower band), even bullish divergence may not stop the fall. Divergence becomes more useful once price exits the band channel and the one-way move is likely ending:
+
+::: center
+
+:::
+
+---
+
+---
+url: /en/article/talk-about-stock-market-3-how-to-read-macd/index.md
+---
+# Talking About the Stock Market (3) - How to Read MACD?
+MACD is almost the default panel in many trading apps: lines plus red/green bars. It looks complicated, but the essence is simple: **compare the asset to itself**. Here is a plain-language walkthrough.
+
+## 1. The Three Components of MACD
+
+In a MACD panel you typically see two lines and a histogram:
+
+::: center
+
+
+
+* Fast line (often orange): the MACD line, also called DIF/DIFF. This is the core.
+* Slow line (often blue): the signal line (often labeled DEA). This is an average of the fast line and helps identify signals.
+* Histogram: the difference between the MACD line and the signal line. Since the signal line is typically a 9-day average of the MACD line, the histogram can be loosely thought of as the *change of momentum* (you can hand-wavily treat it as a second derivative of price).
+
+Common misconception: some apps label the histogram as "MACD". But the key is the fast line; the slow line and histogram are helpers.
+
+## 2. What MACD Is Actually Comparing
+
+MACD is essentially the difference between a short-period EMA and a long-period EMA. Defaults are often 12-day EMA minus 26-day EMA. You can change parameters (e.g., 5 vs 10), but 12/26/9 is a historically popular choice by Gerald Appel to balance sensitivity and stability.
+
+::: center
+
+
+
+Think of it like comparing a student's recent average score with their long-term average:
+
+* recent average > long-term average → MACD line > 0 → improving
+* recent average < long-term average → MACD line < 0 → weakening
+
+But direction also matters:
+
+::: center
+
+
+
+1. MACD > 0 and rising: bullish momentum strengthening
+2. MACD > 0 but falling: bullish momentum weakening; possible top forming
+
+::: center
+
+
+
+3. MACD < 0 and falling: bearish momentum strengthening
+4. MACD < 0 but rising: bearish momentum weakening; potential bottoming
+
+## 3. Practical Use: Crossovers and Pitfalls
+
+In practice, MACD helps with three things:
+
+::: center
+
+
+
+### 1) Trend direction
+
+* MACD line > 0: uptrend (bullish)
+* MACD line < 0: downtrend (bearish)
+
+### 2) Momentum
+
+Histogram bars growing suggests momentum strengthening; shrinking suggests weakening. You can also watch the distance between the two lines.
+
+### 3) Potential reversal points (golden cross / death cross)
+
+* Golden cross: MACD line crosses above signal line → momentum strengthening
+* Death cross: MACD line crosses below signal line → momentum weakening
+
+::: center
+
+
+
+## Closing
+
+When I first entered markets, MACD helped me avoid some detours—at least it taught me what to look at and what to wait for. Over time I realized its big weakness: in ranging markets it generates many false crosses. If you rely on it alone, you may overtrade, pay fees, and even miss the big move.
+
+Today I rarely use MACD alone. For beginners, it is a good learning tool to understand trend vs. range vs. decline. With experience, combining it with RSI and other signals makes it more useful. Just do not treat it as a "holy grail".
+
+---
+
+---
+url: /en/article/talk-about-stock-market-4-gold-investment/index.md
+---
+# Talking About the Stock Market (5) - How Should a Retail Investor Think About Gold?
+> Preface: I wrote this "Talking About the Stock Market" series from the perspective of an ordinary retail investor and non-finance professional, as a small memorial to more than ten years in markets. Data shows what happened in the past, but it can still serve as reference for decisions today. The thinking behind indicators is worth revisiting.
+
+Over the past decades, the highest annual gold gain was about 31%. But in 2025, gold was up more than 60% (as of Dec 9), breaking history. While the broader index struggled around 4000, gold approached 4400. The ChinaAMC Gold ETF (518850) was up 50%+ this year (as of Dec 9), likely beating most retail investors. Looking back at my daily stress selecting stocks and timing entries, reading reports, chasing rumors, waking up at night to check U.S. markets—honestly, it may have been better to just go all-in on this ETF at the start of the year.
+
+::: center
+
+
+
+First, even for professionals, gold is hard to model. [Xiao Lin](https://www.bilibili.com/video/BV19r421u7af/) discussed this too: short-term drivers like speculation and risk-off are hard to quantify. Where is a "reasonable" price? When is it overbought? Institutions struggle too. So the best you can do is watch a few basic indicators.
+
+So, as an ordinary retail investor, what can you track?
+
+## 1. Gold Price
+
+* USD-priced gold futures: search for COMEX Gold (GC00Y) in Eastmoney; trades nearly 24/7.
+* RMB spot price: search AU9999 in Eastmoney.
+* USD Index: add it to watchlist too; the basic logic is that a stronger USD tends to pressure USD-priced gold (USD up → gold down; USD down → gold up).
+* Historical gold prices: data from the [World Gold Council](https://china.gold.org/goldhub/data/gold-prices) is authoritative and free.
+
+## 2. How to Check "Central Bank Buying Gold"?
+
+* Visit: [SAFE](http://www.safe.gov.cn)
+* Navigate: "Statistics" → "Foreign Exchange Reserves" → "Official Reserve Assets"\
+  Link: [SAFE - Official reserve assets](http://www.safe.gov.cn/safe/whcb/index.html)
+* Choose HTML format
+
+You can compute month-over-month changes yourself. For example, in Nov 2025 the central bank bought another 30,000 ounces. As long as the central bank keeps buying, the market tends to believe the long-term story is okay. After a pause for a few months last year, it resumed buying small amounts monthly—almost like a DCA behavior. When gold was around 2000, the buying was more aggressive; now it is more like "a symbolic purchase".
+
+::: center
+
+
+
+Note: central bank buying is strategic reserve management (hedging USD credit risk), not like retail trading. Historically, the central bank has not sold gold. Lower buying recently could mean USD risk looks manageable in the short term, and gold price is high. But these stats are lagging; who knows what they will do later.
+
+Also: the chart shows official FX reserves (excluding gold) around $3.3T. The last similar high was in 2014 (~$4T), and within a year A-shares saw a big bull market. The simplistic logic: massive reserves stabilize the RMB exchange rate, which is foundational to attracting foreign investment. Many people are bullish on China's 2026 stock market; this may be one underlying factor.
+
+## 3. Gold-Silver Ratio
+
+Basic logic: gold and silver are often co-produced. Using 2024 data, for every 1 jin of gold mined, about 10 jin of silver is also mined. So the "factory ratio" is 1:10. But gold is globally treated as a quasi-currency and core asset, so the market ratio historically ranges around 1:50 to 1:80:
+
+::: center
+
+
+
+Historically:
+
+* ratio < 50: silver may be relatively expensive vs gold; gold looks better value
+* ratio > 80: silver may be relatively cheap vs gold, or gold may be overbought; silver-related exposure may be more attractive
+* ratio 50–80: both can be considered
+
+Over the past 20 years, when the ratio breaks above 80:1, silver's average gain over the next 12 months was ~35%, with peaks over 100%. Often, in the later stage of a gold bull run, silver catches up quickly. Some argue that silver is basically a leveraged trade on gold's main uptrend.
+
+## 4. Debt and Macro Backdrop
+
+One common view: the surge in gold and silver reflects a global bet on a major credit downturn. Global money supply is around $114T, while global debt is about $338T—~2.94× global GDP.
+
+::: center
+
+
+
+Many countries run persistent deficits. The U.S. is a typical case, where even interest costs feel heavy. The 40-year debt-driven growth model may be approaching its limit.
+
+Some argue gold correlates with U.S. debt-to-GDP (roughly inversely with credit). With higher uncertainty in U.S. GDP (trade wars, AI bubbles, etc.) and already high debt, risk-off sentiment pushes gold higher. The old saying "buy gold in chaotic times" still seems to carry weight.
+
+## 5. Closing
+
+On Oct 7, 2025, Goldman raised its Dec 2026 gold target from $4,300/oz to $4,900/oz. But the -5% big down day on Oct 22 may take time to digest: some statistics suggest after a -5% day, the probability of fully recovering within 60 days is below 30%. As of Dec 10, price indeed has not retested the Oct 22 high.
+
+To push gold further, we likely need even stronger risk-off sentiment.
+
+---
+
+---
+url: /en/article/talk-about-stock-market-4-how-to-read-bbi/index.md
+---
+# Talking About the Stock Market (4) - How to Read BBI?
+### 1. Moving averages: magic, or "retail indicator"?
+
+Moving averages are not that mystical. They mostly come in three types: SMA, WMA, EMA. All are averages; they differ in weighting.
+
+Plain-language:
+
+* SMA is "equal weight": SMA5 averages the last 5 closes equally.
+* Markets care more about recent information, so WMA and EMA weight recent prices more.
+  * WMA uses linear decay
+  * EMA uses exponential decay (faster decay)
+
+::: center
+
+
+
+The colorful 5/20/60-day lines on charts can overwhelm beginners. I once displayed eight moving averages at once:
+
+::: center
+
+
+
+BBI can make the chart cleaner.
+
+### 2. What is BBI, and why is it "lazy-friendly"?
+
+BBI stands for Bull and Bear Index. It is basically an "average of moving averages": take 4 SMA lines with different windows and average them.
+
+Many apps default to SMA3, SMA6, SMA12, SMA24:
+
+(SMA3 + SMA6 + SMA12 + SMA24) ÷ 4
+
+You can usually add it easily as a main-chart overlay (often shown as a yellow line):
+
+::: center
+
+
+
+### 3. How to Use BBI in Practice
+
+BBI is not decorative. It gives two simple functions:
+
+1. Determine market regime (bull, bear, range)
+
+* Price staying above BBI: bull regime (example: Lead Intelligent in Sep)
+  ::: center
+
+
+* Price staying below BBI: bear regime
+* Price crossing BBI up and down: range regime (watch out for long consolidation)
+
+2. Find support and resistance
+
+* In bull regimes: pullbacks to BBI often act as support; consider small buys.
+* In bear regimes: rebounds to BBI often act as resistance; consider reducing.
+
+### 4. How to Add BBI in Tonghuashun
+
+Tonghuashun PC: Tools → Formula Management → New → Technical Indicator → find the built-in "BBI" function, and set drawing mode to "Main chart". Then you can select it in the chart overlay options.
+
+In the end, both moving averages and BBI are probability tools, not guaranteed money machines. Do not worship a single line, but do not dismiss them as "retail-only" either. Used well, they provide another lens to observe price behavior.
+
+---
+
+---
+url: /en/article/the-34th-year-of-the-jiajing-reign-ming-dynasty/index.md
+---
+# The 34th Year of the Jiajing Reign (1555) - A Bizarre Story
+> Author: Zhu Anfeng. Originally published on [QQ Zone](https://user.qzone.qq.com/7260468/blog/1262930715) on January 8, 2010.
+
+On a weekend during a business trip, I happened to see a newer edition of my hometown's county gazetteer. A quick glance suggested it had too much "main theme" material, which was a pity. But one section was still worth mentioning. In fact, I had seen it in a Qing-dynasty edition of the gazetteer too, but I was young then and had no real sense of what it meant.
+
+It described the following:
+
+In the seventh month of the 34th year of the Jiajing reign (1555), a small band of sixty to seventy Japanese raiders moved west from Hangzhou. They passed through Chun'an, Shexian, and Jixi, burning, killing, looting, and abducting along the way, "ranging back and forth as if entering an empty land." When they reached Jingde, local residents in the south rose up in resistance, and the magistrate Cen Shu also dispatched the sub-magistrate Cai Yao with more than a thousand troops to block them at the General Temple in Banshu. With the joint effort of troops and civilians, the raiders were besieged at the temple for a full day and night. At dawn the next day, heavy fog fell, and the raiders used it to break out, killing dozens of civilians. They escaped to outside the south gate of the county town (which at the time had gates but no walls), set fire to several houses, and then fled toward Jingxian and Nanling.
+
+The thousand troops under Cai Yao managed only to cut off the head of one raider who had already died of illness, and to pick up one sick horse. Yet Cen Shu, following the advice of a clerk named Liu Bangda, reported the head and the sick horse as trophies and claimed merit. When the superior authorities investigated the facts, they replied: "Cutting a pirate head after he was already dead, and picking up a bow and horse abandoned on the road, is deception." Cen Shu was then impeached and dismissed from office.
+
+Since this appears in an official gazetteer, it is not entirely baseless. But what fascinated me was not the magistrate's defense tactics. It was how a group of only sixty to seventy raiders managed to reach southern Anhui at all.
+
+After some quick searching, I found a more detailed account of this group:
+
+On the 13th day of the seventh month of 1555, a small group of raiders moved west from Hangzhou and looted Shexian, Jixi, Jingde, Jingxian, and Nanling in present-day Anhui. On the 24th of the same month, they attacked Nanjing unsuccessfully and then moved toward Moling Pass. From Nanjing they looted Liyang and Yixing. Hearing that Ming forces were mobilizing from Taihu, they advanced to Wuxi and camped at Huishan. They then marched more than 180 li in a day and night, reaching Hushu Pass (northwest of today's Suzhou). Meanwhile, another band of raiders at Zhelin in Songjiang attempted to flee by sea, but storms wrecked their ships and more than three hundred landed again at Taozhaizhen. The governor Cao Bangfu personally led forces to prevent the two groups from merging, surrounded them from all sides, and killed nineteen raiders. The raiders, frightened, tried to slip toward Taihu under cover of darkness.
+
+On August 30, 1555, Ming forces caught up at Yanglin Bridge and wiped out the raiders who had occupied Hushu Pass. This group, only sixty to seventy men, ran thousands of li: from Zhejiang into Anhui and Jiangsu, even attacking Nanjing. Over more than eighty days, they allegedly killed and wounded four to five thousand Ming soldiers, killed several officials, and were only then eliminated near Taihu.
+
+In simple terms: a band of sixty to seventy raiders roamed the heartland of the Ming empire for more than eighty days, moving across multiple provinces, reaching Nanjing, and only then being destroyed, while inflicting shocking casualties.
+
+This episode has several notable features:
+
+1. The sources describe complex actions: night breakouts, movement through unfamiliar mountain regions of southern Anhui, and a long forced march of 180 li in a day and night. This suggests the core fighters were likely trained warriors rather than ordinary desperate civilians.
+
+2. Their mode was mobile warfare without a base. They rarely stayed in any one place for more than a day. Under the communication conditions of that era, this made it hard for Ming field forces to locate and strike them quickly. Correspondingly, the raiders tried to avoid fighting Ming mobile field forces directly. Many of the Ming forces they defeated along the way were more like local garrisons or militia.
+
+3. The greatest damage occurred along the southern Anhui–Nanjing corridor, which was densely populated and not a traditional coastal piracy zone. Local governments and civilians there lacked practical experience in resisting such raiders, and could not form effective defense and blockade quickly the way coastal regions could.
+
+4. Although the raiders' actual strength was wildly disproportionate to the destruction they caused, the political impact was huge precisely because the outcome was so unexpected.
+
+I sincerely hope local gazetteers can contain more history that is worth savoring.
+
+---
+
+---
+url: /en/article/the-year-of-2025/index.md
+---
+# 2025 - A Year of "First Years"
+I recently saw a finance/investing commentator list a whole bunch of "first years" when looking ahead to 2026:
+
+* the first year of autonomous driving
+* the first year of liquid cooling
+* the first year of domestic HBM
+* the first year of on-device AI
+* the first year of solid-state batteries
+* the first year of AI apps
+* the first year of quantum computing
+* the first year of in-memory computing chips at scale
+* the first year of neuromorphic computing
+* the first year of the low-altitude economy
+* the first year of commercial spaceflight
+* the first year of humanoid robots
+* the first year of silicon photonics
+* the first year of controllable nuclear fusion
+
+In short, "first years" everywhere. Stock investors have a lot of homework again.
+
+I am not here to explain those concepts. In the AI world—the area I follow most closely—2025 also had quite a few "first years." I want to summarize a few points that I personally found most interesting.
+
+## 1. The First Year of Reasoning
+
+In September 2024, OpenAI kicked off a "reasoning" revolution with o1 and o1-mini. This was also described as inference-scaling, or the **RLVR (reinforcement learning with verifiable rewards)** wave. In early 2025, they shipped o3, o3-mini, and o4-mini, doubling down on the direction. After that, reasoning ability basically became a signature trait of mainstream frontier models.
+
+To understand why this matters, here is Andrej Karpathy's [explanation](https://karpathy.bearblog.dev/year-in-review-2025/):
+
+> By training LLMs in multiple environments (e.g., math puzzles / code puzzles) with automatically verifiable rewards, models spontaneously develop strategies that humans recognize as "reasoning": breaking problems into intermediate steps, and iterating through multiple solution attempts (see the DeepSeek R1 paper for examples).
+
+> In practice, RLVR training has an extremely high ability-to-cost ratio, and it consumed large amounts of compute originally planned for pretraining. As a result, much of the progress in 2025 depended on how well labs exploited this new stage. Model sizes stayed similar, but RL training time increased substantially.
+
+In 2025, every major AI lab released at least one reasoning model. Some even offered hybrid models with both reasoning and non-reasoning modes. Many APIs now have a knob to tune how "deep" the model thinks for a prompt.
+
+One real breakthrough is **tool use**. A reasoning model that can use tools can plan multi-step tasks, execute them, and keep reasoning based on observations, updating the plan to reach a goal. A very visible result is that **AI-assisted search is now actually usable**. For a long time, combining search engines with LLMs felt underwhelming, but now—even for more complex research questions—I often get good answers via ChatGPT's "thinking" mode.
+
+Reasoning models also perform exceptionally well at **code generation and debugging**. The reasoning process lets the model start from an error and trace through multiple layers of a codebase to find root causes. As long as the model can read and run code, even very nasty bugs in large codebases can often be diagnosed by a strong reasoning model.
+
+## 2. The First Year of AI Agents
+
+When you combine reasoning ability with tool use, you get **AI agents**. This excites me a lot. AI used to feel like a writer or a consultant; now it is becoming an "actor" that can actually do things—trigger workflows, call APIs, and operate software.
+
+In 2025, everyone talked about agents, and definitions varied. In my view, an agent is an LLM system that repeatedly calls tools in a loop to reach a goal.
+
+The two breakthrough application areas are coding and search. Deep research mode—where the model collects information and spends 15+ minutes generating a detailed report—also became popular. I once used Doubao to explore an academic topic. It produced a plausible report, but many details still needed improvement (e.g., freshness of citations). ChatGPT's thinking mode is also a kind of agent-like mode, and works quite well.
+
+## 3. The First Year of Coding Agents
+
+In February, Anthropic quietly released Claude Code—so quietly that it did not even get a standalone blog post. They listed it as item #2 in the Claude 3.7 Sonnet announcement. Claude Code is a canonical example of what I call a coding agent: it can write code, run code, check results, then iterate and improve.
+
+In 2025, many labs shipped their own CLI-based coding agents: Claude Code, Codex CLI, Gemini CLI, Qwen Code, Mistral Vibe. Vendor-neutral options include GitHub Copilot CLI, Amp, OpenCode, OpenHands CLI, and Pi. IDEs like Zed, VS Code, and Cursor also invested heavily in agent integration.
+
+My first deep exposure to coding-agent workflows came from a small side project I built in the second half of the year: no heavy frontend frameworks, just plain HTML + CSS + JS to customize a company website. The hardest part was pixel-perfect implementation from the design mock, plus animations. I am not a frontend expert—at best I "know" frontend; CSS is only something I dabble in.
+
+I tried both Cursor and Trae, and eventually chose Trae due to cost considerations. After using it, my feeling is: projects that were hard or impossible for me before are now much easier—aside from needing to budget usage, it is genuinely great. Ironically, the hardest part can be converting a design draft into HTML. I also tried Figma Make and the result was not great.
+
+## 4. The First Year of Vibe Coding
+
+In February, Andrej Karpathy coined the term "vibe coding" in a [tweet](https://twitter.com/karpathy/status/1886192184808149383):
+
+> I have discovered a new kind of programming called vibe coding, where you fully give in to the vibes, embrace exponential productivity, and forget that the code even exists. It works because LLMs (e.g., Cursor Composer with Sonnet) are now too powerful. I also talk to them with voice via SuperWhisper and Composer, barely touching the keyboard. I ask for very tiny changes like "halve the sidebar padding" because I'm too lazy to find the code. I accept all changes without reading diffs. When errors happen, I copy-paste the error in, and it usually fixes itself. The code grows beyond my normal comprehension; to understand it I'd need to read carefully for a while. Sometimes the model can't fix a bug, so I go around it, or ask it to modify randomly until the problem disappears. It's good for weekend one-off projects, and it's fun. I'm building an app, but it's not really programming anymore. I look at the output, talk, run it, copy-paste stuff, and most of the time it works.
+
+The essence of vibe coding is: let humans do what humans are best at—creating and judging. Let AI do what AI is best at—executing and implementing. The key capability on our side is product thinking, judging code quality, expressing requirements clearly, and iterating fast.
+
+My own practice: AI IDEs are indeed powerful. But if I feel a change will be complicated, I usually ask the AI to propose a plan first, rather than editing files immediately. After I review it, then either I let the AI apply changes or I apply details myself. More than once, AI has completely wrecked my codebase: it may implement the requested feature, but break existing logic elsewhere. With deep call stacks, debugging becomes brutal. If you hand everything to AI, the moment it collapses is when you get a chain of bugs and the AI starts "arguing" with you. For large projects, context understanding is still limited. Ten-year legacy codebases with millions of lines are not easy for AI. Smaller apps or modules are fine.
+
+## 5. The First Year of MCP
+
+In November 2024, Anthropic introduced the **Model Context Protocol (MCP)** as an open standard for tool integration across LLMs. In early 2025, MCP adoption exploded. In May there was a striking milestone: within eight days, OpenAI, Anthropic, and Mistral all shipped API-level support for MCP.
+
+MCP is not just "USB-C for AI". It is a protocol that pushes AI from chatbots toward the agent era through plug-and-play discoverability and composability. Still, its adoption rate surprised me. I think timing mattered: MCP arrived when tool use finally became reliable enough that many people mistakenly treated MCP support as a prerequisite for tool use.
+
+After I started using Trae and similar tools deeply, I used MCP less. Anthropic also seemed to realize this later in the year and released an excellent Skills mechanism. MCP involves a web server and complex JSON payloads; a Skill is just a Markdown file in a folder, optionally with scripts. In November, Anthropic published ["Code Execution with MCP: Building More Capable Agents"](https://www.anthropic.com/engineering/code-execution-with-mcp), describing a way where coding agents generate code to call MCP, avoiding much of the context overhead.
+
+In early December, MCP was donated to the newly formed Agentic AI Foundation.
+
+## 6. The First Year of Context Engineering
+
+The term "context engineering" has gained attention recently as a better framing than "prompt engineering".
+
+Here is an example tweet from Shopify CEO Tobi Lutke [link](https://twitter.com/tobi/status/1935533422589399127):
+
+> Compared to "prompt engineering", I prefer "context engineering". It more accurately describes the core skill: providing all necessary context so an LLM can reasonably solve the task. It's an art.
+
+And Andrej Karpathy later strongly endorsed the idea [link](https://twitter.com/karpathy/status/1937902205765607626):
+
+> Strongly agree that "context engineering" is a better term. People associate "prompts" with short task descriptions, but in industrial LLM applications, context engineering is a sophisticated art and science: filling the context window with just the right information for the next step. It's science because it includes task descriptions and instructions, few-shot examples, RAG, relevant (possibly multimodal) data, tools, state and history, compression... It's hard. It's art because it requires intuition about the LLM's "mental model"...
+
+Common context engineering strategies include: offload, reduce, retrieve, isolate, and cache.
+
+## 7. The First Year of Synthetic Data
+
+Even the smartest AI needs "food"—data. In 2025, high-quality internet data was close to being exhausted, and cleaning costs kept rising. So synthetic data became a strategic weapon: use model-generated data to train models.
+
+Projects like Microsoft's [SYNTHLLM framework](https://www.microsoft.com/en-us/research/articles/synthllm/) suggest that with good design, synthetic data can support large-scale training. Bigger models may not require more raw data. Datasets can be tuned for specific goals rather than blindly chasing volume. Data enters an era of "custom cultivation".
+
+## 8. The First Year of Measuring Hallucinations
+
+Remember the 2024 case where a New York lawyer used ChatGPT to cite fake cases? In the past, people treated hallucination as a "quirk" and just retried. Now, vendors treat it as an engineering metric that can be measured and optimized.
+
+RAG (retrieval-augmented generation) has become close to a standard. There are also benchmark sets like RBG and RAGTruth to quantify hallucination rates. Hallucinations cannot be eliminated 100%, but the mindset is shifting from "tuning by intuition" to "governing with data".
+
+---
+
+---
+url: /en/article/thoughts-on-arrival-movie/index.md
+---
+# Thoughts on the Film *Arrival* (2016)
+## Why I Started
+
+Taopiaopiao has a small feature that I genuinely appreciate: it keeps all of your historical orders. That is relatively rare among today's big internet apps, where the common approach is to keep only a limited window of order records.
+
+Taopiaopiao is different. When I checked my account, even records from 2015—ten years ago—were still there. Perhaps that is simply because the total volume of movie ticket orders is not as massive as in other businesses.
+
+Anyway, on January 24, 2017, I watched *Arrival*. To be honest, as a sci-fi fan, I was slightly disappointed at the time: the pacing felt slow, the plot felt obscure, there were no grand Star Wars-style spectacles, and it was not scary like *Alien* either.
+
+Clearly I was not drawn in by the director's name. I had no idea who Denis Villeneuve was back then. If I had to be honest, beyond the sci-fi theme, I was probably also there for the lead actress Amy Adams. I have always found her beautiful. I also like the idea that truly "tough characters" should have alliterative names: Peter Parker, Bruce Banner, Bucky Barnes, Stephen Strange.
+
+Recently, after rewatching the film through several Bilibili movie critics, such as [Movie Has Luo Ji](https://www.bilibili.com/video/BV1wirLYfEZE/) and [Movie Top](https://www.bilibili.com/video/BV1h5GPzkELM/), my view changed.
+
+Years ago, [Liu Cixin once said in an interview](https://www.bilibili.com/video/BV1rRYvzMES9/) that we do not lack interesting sci-fi ideas; what we lack are good stories. *Arrival* is worth watching because it is a good story.
+
+![Still from Arrival](/img/movies/arrival.webp)
+
+## Language as a Way of Thinking and Communication
+
+People who speak different mother tongues often see the world differently. We all have the experience of learning foreign languages. Take English: just 26 letters, plus countless inversions and long complex sentences, and you cannot help thinking, "Why do foreigners like expressing things this way?" Chinese writing, on the other hand, is pictographic and carries meaning. That makes many Chinese readers more comfortable with a hazier kind of beauty, because pictographic meaning requires associative understanding, in other words, it requires guessing and insight.
+
+When we think, our minds either form images or use language to describe. So our thinking is influenced by language. The core idea of *Arrival* (based on the original story "Story of Your Life") is this:
+
+Human language is written and spoken linearly, from beginning to end. So human thinking is also linear, and our sense of time runs from past to future. But what if there were a language that was not linear? If humans mastered such a language, their thinking might also become non-linear. Their perception of time would become non-linear as well. And non-linearity implies mixing, even loops: the past and the future are not a simple cause-and-effect chain, but parallel.
+
+In a different way, [this essay](https://zhuanlan.zhihu.com/p/706029142) touches on a similar point.
+
+This also reminds me of today's large AI models. Their training data is mostly human text, so they learn human ways of thinking and communicating. That may help explain why current AI still struggles to surpass humanity in its understanding of the universe.
+
+## Is This Fatalism?
+
+This story is not really promoting fatalism. Fatalism claims that past and future are fixed and unchangeable. What the story emphasizes is that language shapes thinking. It imagines a non-linear sense of time, and once time itself is not linear, simplistic fatalism becomes difficult to even formulate.
+
+When you watch this work, do not fixate on predicting the future, or on things like the grandmother paradox. The story is not trying to argue that. It is trying to convey the idea that different languages can generate different patterns of thinking, including different ways of understanding time.
+
+## A Good Story
+
+Personally, I find this sci-fi idea deeply striking. There are no planet engines or sophons here, but the author cleverly ties language to cognition, and ties cognition to time, creating a story that feels both mind-blowing and romantic.
+
+Do not overthink it. Feel it. Feel the imagination behind it.
+
+---
+
+---
+url: /en/article/typical-issues-in-software-project-management/index.md
+---
+# Typical Pitfalls in Government/Enterprise Software Delivery
+::: center
+
+:::
+---
+
+**Preface: It's that time of year again, planning new projects**
+
+Based on my own experience, here are some of the classic moments that make projects start high and end low—and how to avoid being dragged into the ICU.
+
+***
+
+## 1. Beautiful goals, brutal reality
+
+**Crash scene:**
+
+Some projects start with the client aiming for a headline: build a "domestic leading" integrated platform within a year. Reality: the team is still on Struts + Hibernate.
+
+**What to do:**
+
+Make goals follow **SMART**:
+
+* **S (Specific)**: not "improve UX" but "reduce crash rate by 50%"
+* **M (Measurable)**: not "speed it up" but "query time ≤ 200ms"
+* **A (Achievable)**: do not build rockets before checking if you have fuel
+* **R (Relevant)**: do not force AI into everything when users just want a usable form
+* **T (Time-bound)**: no projects that last forever
+
+***
+
+## 2. A perfect plan on paper, near-zero execution
+
+**Crash scene:**
+
+The plan is detailed down to half a day, but execution looks like a college student making a PPT: two weeks of "thinking about life," one week of last-minute 996 crunch, barely meeting milestones, with code quality like bargain-bin goods.
+
+**What to do:**
+
+* Do not draw a Gantt chart on a whim. Break tasks reasonably; cycle lengths should not be shorter than food delivery.
+* Leave buffers. Do not keep the team living on countdown mode.
+* Agile is not "agile requirement changes". Define MVP and run small steps fast.
+
+***
+
+## 3. A shoestring budget, but you want to build an F1 car?
+
+**Crash scene:**
+
+The budget buys a cheap minivan, but the requirements doc reads like an F1 spec. Even better, the client keeps saying: "Can you optimize more? Our budget is really tight!"
+
+**What to do:**
+
+* Do what the money can support. Do not get trapped by low-bid wins.
+* Manage expectations early. Do not wait until delivery to say "pay more for special effects".
+* Do not use "human-wave" tactics. Use tools, frameworks, and automated tests where they matter.
+
+***
+
+## 4. Requirements change like a tornado
+
+**Crash scene:**
+
+Week 1 build A, week 2 change to B, week 3 back to A, week 4: "Actually B." The vendor team learns the art of waiting: do not code until requirements stabilize.
+
+**What to do:**
+
+* Use a **change evaluation mechanism**. One boss sentence should not force a full rewrite.
+* Client PMs need decision power; do not let "meeting literature" kill the project.
+* Lock change windows, e.g., "only two changes per month".
+
+***
+
+## 5. Client and vendor: each a king
+
+**Crash scene:**
+
+Vendors want to survive; clients want to cut budget. Clients change requirements daily; vendors play Tai Chi daily. One day before delivery, everyone realizes: it does not work.
+
+**What to do:**
+
+* Align goals regularly.
+* Communication is not just meetings: fewer PPTs, more demos.
+* Clients need people who understand the domain; do not let an admin assistant evaluate an AI project.
+
+***
+
+## 6. A team like a "loose band"
+
+**Crash scene:**
+
+The PM feels like a babysitter: "Did you finish yesterday's task?" Dev: "Almost." QA: "Bugs are just a tiny bit." Ops: "The server exploded and is smoking."
+
+**What to do:**
+
+* Do not let the team run like headless flies: OKRs + task decomposition, one role per responsibility.
+* Reduce churn. Three developer turnovers a month makes handover more expensive than development.
+* Do regular code reviews. Do not discover quality issues only at delivery.
+
+***
+
+## 7. No clear rewards and penalties
+
+**Crash scene:**
+
+The project launches. Developers are bald from overtime. HR says: "Here's a 200 RMB JD gift card." Meanwhile, someone who changed requirements daily gets a 200,000 RMB year-end bonus.
+
+**What to do:**
+
+* Focus on the process, not only the outcome.
+* Rewards should be sincere.
+* Penalties should be explicit too. Do not let the author of a legacy mess get great performance reviews every year.
+
+***
+
+## 8. No risk management: constant firefighting
+
+**Crash scene:**
+
+* Halfway through, the key tech lead quits
+* Cloud goes down and you realize the backup is from five years ago
+* One day before delivery, PM discovers the API design does not match business logic at all
+
+**What to do:**
+
+* Every key role needs a Plan B.
+* Drill emergency plans; outages should not be solved by praying.
+* Testing is not a checkbox; do not discover usability issues right before delivery.
+
+***
+
+## 9. Inexperienced PMs on either side: blind men touching an elephant
+
+**Crash scene:**
+
+Client PM: "We want an AI-empowered digital twin."
+Vendor PM: "Got it. We'll build a mini program."
+Final delivery: an Excel auto-fill sheet.
+
+**What to do:**
+
+* Client PMs should understand tech; not everything is solved by "adding AI".
+* Vendor PMs should understand the business; do not do whatever the client says—guide requirements.
+* Data-driven decisions: fewer PPTs, more real analysis.
+
+***
+
+### Epilogue
+
+Software delivery is like a marathon. It is not about who sprints fastest, but about who does not drop out.
+
+Hope today's rant helps you step on fewer landmines.
+
+---
+
+---
+url: /en/article/what-peak-ji-talked-about-before-manus-meta-acquisition/index.md
+---
+# What Did Peak Ji Talk About Before Manus Was Acquired by Meta?
+In December 2025, shortly before Manus was reportedly acquired by Meta, Peak Ji (English name: Peak; Manus co-founder and Chief Scientist) did a long [interview](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1knvYBDEjs/). It was a dense 3.5-hour talk—tens of thousands of words. Even at 1.25x speed I struggled to keep up. His clarity and speed of thinking are impressive, and his English is solid too.
+
+I took extensive notes and extracted the points below, focusing on technology and product rather than politics. Many lines are paraphrased, with some quotes preserved.
+
+## 1. Background and Three Major Startup Phases
+
+### 1) Early background
+
+* Grew up between two styles: a scientist father (PKU physics professor) and an entrepreneurial mother (Zhongguancun serial entrepreneur).
+* Not self-described as a "genius student"; more of a tinkerer with strong interests and uneven subjects.
+* 2009 App Store was a turning point: it provided a way to prove that "tinkering" could create real economic value.
+
+### 2) Startup #1: Mammoth Browser
+
+* Built a third-party iOS browser in high school.
+* A "copy" sales model: simple fixed price per sale; low maintenance.
+* Reportedly earned ~$300k+ total, which is meaningful for a high schooler.
+* Ended due to iOS compatibility changes and a desire to pursue more interesting work (NLP).
+* View: browsers are rarely a good disruption startup category; they fit incumbents with distribution.
+
+### 3) Startup #2: Magi (semantic search + knowledge graph)
+
+Motivation: traditional search UX with "10 blue links" would not work for small screens and voice interfaces.
+
+Key ideas and work:
+
+* Word2vec (Mikolov, 2013) was described as a mind-blowing inflection: dense vectors enabled applying ML/DL methods to NLP.
+* Built Open IE-like extraction to continuously extract entities/relations and build a knowledge graph.
+* Tackled long-context issues early; reportedly reached ~16K context in 2018, ahead of the era.
+* Product name Magi (from EVA), aimed at lifelong/continuous learning knowledge graphs.
+
+Why it failed:
+
+* Underestimated the data moat of search engines and the flywheel of data sources.
+* Wearables and new interfaces arrived too late; ChatGPT was the real inflection.
+* Engineering execution was strong (crawler, indexing, infra), but non-technical barriers were decisive.
+* GPT-3 early access was a shock: prompt-based generality competed with many vertical pipelines.
+
+### 4) Startup #3: Manus (general-purpose agent)
+
+After an interim period (including building LLM work inside a unicorn and time as EIR), he joined Manus with the CEO Xiao Hong and other co-founders. Monica (an existing product) provided cash flow and business stability.
+
+## 2. What Manus Is (and What It Is Not)
+
+### 1) The "AI-native browser" attempt
+
+They tried to build an AI-native browser:
+
+* On-device models for cost/privacy, with AI controlling automation flows.
+* They abandoned it after seeing:
+  * browsers are inherently online, so offline-on-device obsession is misguided
+  * small models (around 3B) lose too much quality vs. flagship cloud models
+  * "AI takes over your computer" creates weird control conflicts with users
+  * short tasks: humans are faster; long tasks: require keeping the machine awake
+  * browser switching has huge migration friction (Arc example)
+
+### 2) The Manus form factor
+
+The core insight came from seeing non-engineers use Cursor:
+
+* They were not "coding"; they were conversing with AI and letting code be a medium to solve non-coding tasks.
+* Programming is not just a vertical skill; it is a general-purpose medium.
+
+So they "moved the browser to the cloud":
+
+* run agents asynchronously and concurrently in cloud sandboxes
+* hide code and complexity for prosumers (knowledge workers, not necessarily programmers)
+* name Manus from Latin "hand" and MIT motto "mens et manus"
+
+## 3. Architecture and Key Bets
+
+* **Model strategy:** do not build a foundation model too early; focus on context engineering and the agent framework, and leverage strengths across multiple models (coding, multimodality, reasoning).
+* **Sandboxing:** lightweight full virtualization (Firecracker), isolated disposable sandboxes per session, supporting both Linux and Windows.
+* **Long context:** context window length is not the only answer; compression awareness and offloading to file systems matter.
+* **MCP stance:** cautious; MCP can pollute action space and increase costs. Prefer ways that keep the native action space clean.
+* **"Pure" agents:** avoid over-constraining with rigid rule workflows; let intelligence solve tasks, including visual self-checking (layout, fonts, overlap) via observations.
+
+## 4. Product Strategy and Metrics
+
+* **General vs. vertical:** general agents can cover more scenarios; vertical is "adding constraints".
+* **Long tail:** "long tail" can be daily work for some users; Manus can handle obscure formats by pulling tools from GitHub, etc.
+* **Cross-scenario synergy:** in one session, an agent can research, build a site, set up a database, analyze traffic, generate slides, draft outreach emails—creating internal network effects.
+* **Data flywheel:** user corrections teach the system; subjective evaluation is critical (and can be a moat).
+
+Commercial notes (as described):
+
+* Pricing moved from subscription + top-up complexity toward flexible subscription levels.
+* Agent workloads consume far more tokens than chatbot workloads (orders of magnitude).
+
+## 5. Industry Views
+
+* The boundary between "model companies" and "app companies" may blur; top apps will build model capabilities and vice versa.
+* SOTA half-life is short; differentiation comes from system-level execution and taste, not only model weights.
+* Agent adoption will expand; operating systems will grow agentic capabilities rather than a separate "agent OS" winning alone.
+* AI businesses behave more like manufacturing: higher fixed cost, more linear cost with usage, demanding operational discipline.
+
+## 6. A Few Memorable Lines
+
+* "For every complex problem there is an answer that is simple, clear and wrong."
+* "Everything added dilutes everything else."
+* "The monopoly of AI products is the monopoly of a mindshare, not the whole market."
+* "Building agents is about doing 1000 small things right, not 3 big things."
+
+This is still only a partial summary of a very dense talk, but it captures the themes I found most valuable: the shift from chatbots to agents, context engineering as the real craft, and the importance of system-level taste and evaluation.
+
+---
+
+---
+url: /en/article/what-yumingfeng-talked-about-ai/index.md
+---
+# How Does a Philosophy Professor Think About AI?
+Bilibili randomly recommended a talk like this to me. I know almost nothing about philosophy, but as I listened I found it genuinely interesting. A cross-disciplinary perspective, from two fields that feel far apart, can be unexpectedly illuminating. So I took some notes. Only afterward did I realize the speaker was a heavyweight: Yu Mingfeng, Associate Professor in the Department of Philosophy at Tongji University.
+
+And I still wonder: how did Bilibili decide I should watch a philosophy talk?
+
+## 1. A Core Philosophical Question: Correlation vs. Causation
+
+### 1) Defining the relationship
+
+Key idea: correlation is not causation. Today's AI is essentially built on correlation (statistical algorithms). What humans treat as "causation" may sometimes be nothing more than strong correlation under certain conditions.
+
+Quote:
+
+> "All causation is based on correlation, but correlation is not causation. And what AI gives us is correlation."
+
+> "What we take as causation, is it not still correlation in itself? Scientific theories are, under a given era's data conditions and cognitive conditions, determined by humans as causation. In the next era we may discover that what we had was only correlation."
+
+### 2) A classic philosophical challenge
+
+Key figure: David Hume.
+
+Core idea: causal relations are constructed by humans rather than directly observed.
+
+Quote (via a Kant example):
+
+> "Kant gives an example: we see the sun shining on a stone, and then we touch it and find the stone becomes warm. We say the stone is warm because the sun shines. But did you really see the 'because'? What you saw were events that happen in sequence over time. We humans establish the causal relation."
+
+### 3) Examples from scientific history
+
+Idea: what counts as causation can be limited by the scientific framework of its time.
+
+Quote:
+
+> "In Newton's time, people would feel that Aristotelian physics was only correlation rather than causation, and that the whole causal system was wrong."
+
+## 2. Three Time Horizons for AI
+
+### 1) Short term
+
+Time range: before the AI bubble bursts.
+
+Characteristic: the industry has not fully landed; technology hits bottlenecks; expectations remain high.
+
+Quote:
+
+> "Before this round of the AI bubble bursts, we are still talking in a short-term view. AI brings unprecedented expectations about the future, so there must be a bubble. The bubble is that the industry has not fully landed, but our expectations are high... technology also hits bottlenecks, and the industry has not truly landed."
+
+### 2) Medium term
+
+Characteristic: real industry adoption, integration into daily life, and concrete profit models; AI becomes a substantial pillar for research.
+
+Quote:
+
+> "The medium-term view is when it really gains the possibility of industry landing, enters our lives, and for research it is no longer just assistance. When AI in industry truly has a concrete profit model rather than being just a concept, I call that medium term."
+
+### 3) Long term
+
+Characteristic: the emergence of an autonomous agent with its own cognition and independent modes of understanding, comparable to human intelligence, touching the fundamental conditions of what it means to be human.
+
+Quote:
+
+> "The long-term view is what philosophers care most about. It really touches the fundamental conditions of what it means to be human: the birth of another kind of intelligent agent. This intelligence can be comparable to human intelligence. And the 'artificial' is not simply that humans made it, but that it has its own autonomy, even its own scientific cognition of the world and its own modes of understanding."
+
+## 3. The Boundaries of Knowledge
+
+### 1) Is correlation knowledge?
+
+Question: can the correlations AI produces be called knowledge, or does it mainly produce hallucinations?
+
+Quote:
+
+> "Can the correlation established through AI be called knowledge? Or will it bring us more hallucinations?"
+
+### 2) How AI may expand knowledge
+
+Idea: AI can expand our ability to establish correlations and might even break through narrow definitions of knowledge.
+
+Quote:
+
+> "The development of AI for science may not only expand our ability to establish correlations, but may also break through that narrow concept of knowledge."
+
+> "It gives you correlation, but it can tell you the degree of correlation. For example, I observed that when this star shines, that star shines too. I do not know the cause, but I established a correlation and can give you 70%. Is that an expansion of human knowledge?"
+
+### 3) Many forms of knowledge
+
+Idea: science is not the only valid form of knowledge. Myth, astrology, and other modes were effective ways humans once handled experience under their historical conditions.
+
+Quote:
+
+> "From a philosophical perspective, we do not treat science as the only valid form of knowledge. In the long history of humanity, there was no modern scientific method, but that does not mean people before modern science were ignorant. They had other effective modes of processing experience, including myths and astrology, each a knowledge form that was effective under their living conditions."
+
+> "Modern science is the most methodologically constrained, stable, and public form of knowledge humanity has had... experiments must be repeatable. In that sense, science today has become synonymous with knowledge."
+
+### 4) The value of non-scientific experience
+
+Idea: human experience that does not meet scientific standards of repeatability and publicity can still matter deeply, such as emotional connections between people.
+
+Quote:
+
+> "We met and have been talking since then. We are the same age, and we share many memories of the era. That is a strange thing. From a probabilistic view, how small is the probability? Science can give you a number. But when you really meet that person, this connection and mutual recognition completely exceeds the requirements of public, repeatable knowledge."
+
+> "If only what meets scientific public-method requirements counts as knowledge, then does human experience lose its status as knowledge? That is also a problem."
+
+## 4. Concrete Phenomena and Impacts of AI
+
+### 1) AI hallucination
+
+Definition: large language models can fabricate information with confidence, such as non-existent books and citations.
+
+Cause: they operate on correlations rather than semantic understanding.
+
+Trend: hallucinations may decrease, and the mechanisms behind them may become an important research area.
+
+Quote:
+
+> "All large language models have moments when they make things up, and they do so very confidently. Why? Because they do not understand language at the level of human semantics. They build language through correlation."
+
+> "When I ask it to help with philosophy references, it will fabricate a book that does not exist. The probability is quite high."
+
+> "In the future the hallucinations may decrease, and once they decrease to a certain level, the hallucination phenomenon itself may become worth studying... why does it hallucinate here? There must be reasons: which data interfered, what links it established."
+
+Note: Humans can also speak nonsense confidently. The difference is that AI is often unable to realize it is doing so.
+
+### 2) Emotions and jobs
+
+Idea: AI can provide strong emotional comfort, but human emotions have density and tension; AI may replace mechanical, repetitive work (including parts of research and education), pushing humans toward more conscious and creative work aligned with human nature.
+
+Quote:
+
+> "If you chat with AI, you will find it can provide emotional value in abundance. Whatever you ask, it will answer."
+
+> "But when we interact with a person, emotions are not simply one-way positivity. They have density and tension, which is the most important part of our lives... AI's development makes us reflect on what truly human emotion is."
+
+> "University education and work have become too mechanical and boring, so they can really be replaced by AI... When those boring jobs (including parts of research) are replaced, it forces humans to return to truly conscious, creative work aligned with our humanity."
+
+## 5. AI for Philosophy
+
+### 1) Popularizing philosophy education
+
+Idea: build philosopher-specific databases and "virtual philosophers" (e.g., an AI Plato) that can engage in real-time philosophical dialogue.
+
+Quote:
+
+> "Philosophers have writings and there is extensive research on them. These can form an independent database to generate a virtual person, like an AI Plato... it does not just quote Plato, but uses Plato-related data to discuss philosophy with you."
+
+> "A young person is confused about love, or whether to marry. Plato's advice may not be correct, but you can have a philosophical dialogue. Philosophy education would become completely different."
+
+### 2) Cross-cultural philosophical understanding
+
+Issue: different civilizations have deep differences in language and thought. Concepts like "ren" are not the same as "love".
+
+Potential: AI's cross-language strength may help mutual understanding at a basic level, which matters in an era of both globalization and de-globalization.
+
+Quote:
+
+> "Cross-cultural philosophical understanding remains a major problem. Chinese scholars spend huge effort studying Western philosophy, and then we have to use Western philosophical language and logic to explain Laozi and Confucius back to them."
+
+> "Civilizational differences are deeply rooted... Confucius' concept of ren is not the same as love."
+
+> "With AI, mutual understanding in this area may improve, because AI's cross-language ability is extremely strong... basic mutual understanding is very important."
+
+### 3) Reconnecting philosophy and science
+
+Issue: philosophy has become overly academic and specialized, often disconnected from scientific frontiers.
+
+Potential: AI may help philosophers understand the current human knowledge landscape and participate in scientific discussion, supporting a revival of philosophy at the frontier of knowledge.
+
+Quote:
+
+> "A major problem of philosophy today is that it has become academicized and professionalized... most philosophers do not understand the frontiers of science, and the disconnect has grown more serious over the past century."
+
+> "Human knowledge has differentiated to this extent... philosophy requires understanding the human knowledge situation itself. AI can help philosophy step out of its narrow professional scope."
+
+> "AI may bring change to philosophy education and research, allowing philosophers and philosophical thinkers to participate in scientific discussions... and letting philosophy return to the frontier of human knowledge."
+
+---
+
+---
+url: /en/article/who-wins-and-who-loses-in-prediction-markets/index.md
+---
+# Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket
+> Written based on Pat Akey, Vincent Grégoire, Nicolas Harvie, and Charles Martineau, *"Who Wins and Who Loses In Prediction Markets? Evidence from Polymarket"* (SSRN, 2026).
+
+***
+
+## 1) TL;DR
+
+Researchers analyzed all trades on Polymarket from 2022–2026—**2.4 million users, $67 billion volume, 588 million trades**—and found several striking facts:
+
+* **The top 1% captured 76.5% of total profits**
+* Winners tend to use limit orders to get "good prices"; losers tend to "impulsively take liquidity"
+* Roughly **1 out of 5 losers were actually directionally right**, but lost money mainly due to poor execution (market orders / bad prices)
+* Market prices are indeed informative—but much of that accuracy is produced by a small amount of "smart money"; ordinary participants are effectively paying for it
+
+**One-sentence summary:** prediction markets can feel like casinos, except the "house" is replaced by a small group of high-skill traders. For most people, entering is likely paying tuition.
+
+In my view, China's A-share market—often criticized as "gambling-heavy"—shows similar patterns.
+
+***
+
+## 2) Some Background
+
+### 2.1 What is a prediction market?
+
+A prediction market lets you bet on whether a future event will happen. For example: "Will Bitcoin exceed $150k before the end of 2026?" You can buy "yes" or "no" shares priced between $0 and $1. If the final outcome matches what you bought, you profit; otherwise you lose your stake.
+
+::: center
+
+:::
+
+The largest platform today is **Polymarket**, which runs on-chain with transparent transaction data. It became widely known during the 2024 U.S. election for accurately predicting a Trump victory.
+
+### 2.2 The "wisdom of crowds" narrative
+
+Supporters often claim: **when many people bet with real money, the price aggregates information and becomes more accurate than any expert.** This is the so-called wisdom of crowds.
+
+The paper asks: **Is this narrative true? If prices are accurate, whose wisdom is it? Who pays the cost?**
+
+### 2.3 Some simple trading terms
+
+| Term | Plain explanation |
+| --- | --- |
+| **Limit order** | "I only buy/sell at this price or better"—like waiting for a discount |
+| **Market order / taking liquidity** | "Execute now at whatever price"—like rushing in and paying full price |
+| **Providing liquidity** | Posting limit orders on the book and waiting for others to trade with you |
+| **Longshot** | Trading at extreme prices (e.g., $0.05 or $0.95)—betting on very unlikely or very likely outcomes |
+
+***
+
+## 3) What the Researchers Did
+
+Four scholars (ESSEC, ECGI, etc.) obtained **full Polymarket transaction data** from 2022 to 2026, covering:
+
+* 2.4M+ distinct users
+* $67B total volume
+* 588M trades
+
+They then tracked each user's PnL (profit and loss) and compared behavior patterns between winners and losers.
+
+***
+
+## 3.1 Key Findings
+
+### Finding 1: Profits are extremely concentrated
+
+**The top 1% captured 76.5% of all profits.**
+
+Imagine 100 players in a room and 1 person takes most of the money on the table. This is not exaggeration; it is what the data implies. Most participants are net losers, and their money flows to a tiny set of winners.
+
+### Finding 2: Winners win by execution, not only by being right
+
+Winners' profits come largely from using limit orders to trade at prices favorable relative to the eventual outcome.
+
+In other words: they are not just "right"—they **buy cheap and sell expensive**, patiently trading when prices drift away from reasonable ranges.
+
+### Finding 3: Losers lose by impulsive trading
+
+Losses are strongly associated with liquidity-taking (market orders): executing immediately rather than waiting for better prices.
+
+This is like rushing into a store because you fear a price increase, and paying more than you needed to. In markets, this "I must enter now" behavior often raises your cost for the same belief. In stock markets, chasing breakouts at high prices is the same idea.
+
+### Finding 4: Longshot behavior is a marker, not the root cause
+
+Trading at extreme prices is more common among losers, but after controlling for other variables (like trading frequency), its explanatory power drops.
+
+The bigger issue is a bundle of behaviors that includes frequent impulsive orders.
+
+### Finding 5: About 1 in 5 losers lost "unfairly"
+
+One particularly painful finding: **among losers, about one fifth would have flipped from negative to positive PnL if you remove the cost of liquidity-taking.**
+
+They were directionally correct. They lost mainly because their execution was poor. With slightly more patience and limit orders instead of market orders, they might have made money.
+
+This is easy to map to stock markets too: there are only so many good assets—so why do retail investors still lose so often?
+
+### Finding 6: Monthly performance persistence is weak
+
+Even though winner/loser profiles are clear in aggregate, **someone who profits one month may not profit the next**. Month-to-month persistence is weak.
+
+Possible explanations:
+
+* it may reflect opportunity variation rather than stable skill
+* or selection effects: winners trade more, losers quit
+
+For ordinary people, the practical takeaway is simple: a big win in one month does not mean you "figured it out".
+
+### Finding 7: Prices are accurate, but not because of the crowd
+
+The paper confirms that Polymarket prices track true probabilities reasonably well. But that efficiency is not driven by the crowd. It is driven by a small group of informed/professional traders who continuously correct prices. Ordinary participants are more like the ones paying for this efficiency.
+
+***
+
+## 4) So What Does This Mean?
+
+### 4.1 For ordinary participants
+
+* A prediction market is not "everyone guessing together"—you are competing against a small set of highly skilled traders.
+* Execution style can matter more than direction. Using limit orders and waiting for good prices reduces the chance of "losing for the wrong reasons".
+* Short-term profit does not imply long-term skill.
+* Prices can be accurate, but the cost of that accuracy may be paid by ordinary participants.
+
+### 4.2 For designers and regulators
+
+The paper hints at a deeper issue: prediction markets may create social value through information efficiency, but the cost is borne by the least sophisticated participants. This resembles retail losses in traditional financial markets—except prediction markets package the reality with a "wisdom of crowds" story.
+
+***
+
+## Paper Info
+
+* **Title:** *Who Wins and Who Loses In Prediction Markets? Evidence from Polymarket*
+* **Authors:** Pat Akey (ESSEC / ECGI), Vincent Grégoire, Nicolas Harvie, Charles Martineau
+* **Venue:** SSRN Working Paper, 2026
+* **DOI:** [10.2139/ssrn.6443103](https://doi.org/10.2139/ssrn.6443103)
+* **Link:** [SSRN page](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103)
+
+---
+
+---
 url: /en/article/why-blog-if-nobody-reads/index.md
 ---
 # If Nobody Reads Your Blog, Why Write It?
@@ -1294,6 +3562,93 @@ You may say that this is no longer the internet of around 2005. Blogs? Hardly an
 My answer is this: whether anyone reads it is not the important part. What matters is that, somewhere along your journey, you once thought seriously about a question or a piece of your life.
 
 I think. I write. I was here.
+
+---
+
+---
+url: /en/article/why-tech-giants-cut-jobs-while-spending-billions-on-ai/index.md
+---
+# Tech Giants Cut Jobs to Fund AI, While Money Circulates Among Giants—What's Going On?
+
+I recently saw a Reddit post and comments that deeply analyzed today's "AI hype" and criticized how capital is playing the AI narrative:\
+https://www.reddit.com/r/ArtificialInteligence/comments/1oj52xx/tech\_companies\_are\_firing\_everyone\_to\_fund\_ai\_but/
+
+China's capital market has also been hyping AI (especially hardware) for quite a while—some narratives even reach "the U.S. is running out of electricity" levels. Based on that article, I want to talk about the phenomenon: big tech companies are laying people off while pouring massive money into AI. What is behind this, and how should ordinary people view it rationally?
+
+## 1. The Core Tension: Why Layoffs and AI Spending Coexist
+
+First, the headline contradiction: layoffs have continued across tech. For example, [Amazon reportedly planned to cut 30,000 jobs](https://www.cnbc.com/2025/10/27/amazon-to-announce-sweeping-corporate-job-cuts-starting-tuesday.html), the largest in its history. Microsoft cut 15,000, Meta cut 3,600, Google cut hundreds. So far, 2025 tech layoffs have exceeded 180,000.
+
+In sharp contrast, these companies keep increasing AI investment. In 2025, total AI spending across big tech exceeded $300 billion, far more than the costs saved via layoffs. Many companies also justify layoffs with "AI replacement" narratives:
+
+* Zuckerberg: AI can do the work of mid-level engineers in writing code
+* Amazon CEO: many roles will not require humans in the future
+* Salesforce: cut 4,000 support staff due to expanded AI usage
+* IBM: cut 8,000 HR roles claiming AI can handle administrative work
+
+That leads to a key question: if AI replaces jobs and reduces costs, why does spending massively exceed savings? Where is the money going?
+
+## 2. Where the Money Goes: A Closed Loop Among Giants?
+
+The Reddit post argues that AI money largely circulates among tech giants, creating the appearance of growth without necessarily generating new profits.
+
+::: center
+
+
+
+Examples of the cross-loop:
+
+* Microsoft buys Nvidia chips and also rents AWS services
+* Amazon buys Nvidia chips and also uses Microsoft software
+* Meta buys Nvidia chips and rents infra from Google Cloud and AWS
+* Even Apple largely rents Google/AWS/Azure instead of building full AI infra itself
+
+Money forms loops: Apple pays Google for services; Google buys Nvidia chips; Nvidia pays TSMC; Microsoft pays Amazon for cloud; Amazon pays Microsoft for software. From a financial reporting perspective, everyone looks like they are growing—but profits are not necessarily new.
+
+The "Magnificent 7" (Apple, Microsoft, Nvidia, Amazon, Alphabet, Meta, Tesla) together have about $17T market cap (U.S. GDP ~ $30T). But in 2024 their combined revenue was ~$2.2T and net profit ~$550B. Their average P/E is ~35, while the rest of S\&P 500 averages ~15.5.
+
+Investors accept high valuations because they expect AI to generate profits later. Yet in current reality, aside from Meta having some AI-related revenue, most AI spending has not become clear profit.
+
+Worse, there is a spending inertia: if a company reduces AI investment, the stock may drop immediately because the market reads it as "giving up AI". So even without profits, companies keep spending, creating an AI arms race.
+
+Capex growth reinforces this: in 2024, Microsoft/Amazon/Alphabet/Meta capex grew 42% YoY; in 2025 they planned another 17% increase. Just these four could spend ~$244B capex in 2025, much of which flows to Nvidia → TSMC → ASML, again forming loops.
+
+This also links to ordinary people: much of U.S. retirement savings (401k) sits in S\&P 500 index funds, meaning a meaningful portion is indirectly betting on the Magnificent 7 AI story.
+
+## 3. A Mix of Views from Reddit Comments
+
+The comment section included many positions. A few representative themes:
+
+1. **Where do laid-off workers go?** Some argued that AI now becomes a survival tool: employers use AI to screen resumes, job seekers use AI to write resumes.
+
+2. **This is not a bubble, it's infrastructure.** Others argued compute is the competitive moat, and infrastructure build-out takes 10–15 years.
+
+3. **ROI transparency is missing.** Companies spend billions yet rarely explain what value AI spending yields; measurement frameworks should become standard.
+
+4. **What should ordinary people do?** Do not panic, but abandon the illusion of stable big-tech jobs; learn AI tools and stay competitive. "You do not control the market cycle; you control whether you are the one being cycled."
+
+5. **Small companies get squeezed.** Big players can cut prices and crowd out startups that cannot get chips or cloud discounts.
+
+6. **AI replaces some roles, not all.** Repetitive roles can be automated; high-end work still needs humans.
+
+7. **Supply chain risk.** Too much dependence on Nvidia + TSMC creates systemic fragility.
+
+8. **Consumer impact.** Cloud prices and subscription costs may rise under the banner of "AI upgrades".
+
+9. **Regulation.** Some called for clearer disclosure on AI spending and its labor-market impact, plus antitrust.
+
+## 4. Closing: How Should We View This AI Wave?
+
+AI clearly has real value: it can raise efficiency and improve services. But there is also plenty of "false heat": layoffs justified by AI narratives, growth optics created by closed-loop spending, and risks pushed onto investors, ordinary people, and smaller companies.
+
+Different groups should react differently:
+
+* Tech workers: learn AI tools and move toward higher-end work that is harder to replace; avoid tying your career to a single company.
+* Investors: focus on real AI revenue and business models, not only narratives.
+* Consumers: be cautious about price increases justified as "AI upgrades"; watch where savings are invested.
+* Policymakers: require disclosure, strengthen antitrust, support smaller companies, and reduce single-point supply chain risk.
+
+In the end, the AI narrative must land in people's phones and computers—not remain only inside data centers.
 
 ---
 
@@ -1319,6 +3674,40 @@ url: /en/demo/6ia0xkac/index.md
 ---
 # bar
 [foo](./foo.md)
+
+---
+
+---
+url: /en/hobbies/index.md
+---
+# Hobbies and Interests
+> Author: [Zhu Anfeng](https://zhuanfeng.netlify.app/)
+>
+> Website: <https://zhuanfeng.netlify.app/>
+
+### **Films & Music**
+
+* [IMDB Top 250 Quick Reviews](/en/article/imdb-top250-film-reviews/)
+* [Thoughts on the Film *Arrival* (2016)](/en/article/thoughts-on-arrival-movie/)
+* [My Story with Music (I)](/en/article/memories-of-my-favorite-songs/)
+
+### **Reading Notes**
+
+* [Fragments of Thoughts on *The Three-Body Problem*](/en/article/my-santi-memories/)
+* [How Does a Philosophy Professor Think About AI?](/en/article/what-yumingfeng-talked-about-ai/)
+
+### **History & Local Culture**
+
+* [A Strange Story from the 34th Year of the Jiajing Reign (1555)](/en/article/the-34th-year-of-the-jiajing-reign-ming-dynasty/)
+* [Hiking Jingde Xishan and a Study of a 1506 Stone Pavilion Inscription](/en/article/inscription-stone-pavilion-xishan-ridge-jingde-county/)
+
+### **Poems (My Father)**
+
+* [Ode to Zhuwang Village](/en/article/poem-in-praise-of-zhuwang-village/)
+* [Congratulations on the Opening of the 19th Asian Games](/en/article/congratulations-opening-19th-asian-games/)
+* [A Poem on the Millennium-Old Ginkgo Tree in Guzhuli Village](/en/article/a-poem-about-the-millennium-old-ginkgo-tree-guzhuli-village/)
+* [A Poem on the Baiyunshan Tea Garden](/en/article/poet-tea-garden-baiyunshan-mountain/)
+* [Reflections on a Party Branch Activity on July 1](/en/article/reflections-july-1st-party-branch-activity/)
 
 ---
 
@@ -1367,3 +3756,35 @@ These pieces record many scenes and reflections from student life through adulth
 [My 2011](/en/article/my-2011/): A reflection on the passing of time, on 2011, and on hopes for what comes next.
 
 [In the Tall Birch Forest, My Youth Wanders](/en/article/in-the-tall-birch-forest-my-youth-wanders/): A poetic remembrance of youth and wandering, full of nostalgia for the past and longing for the future.
+
+---
+
+---
+url: /en/tech/index.md
+---
+# Tech Notes
+> Author: [Zhu Anfeng](https://zhuanfeng.netlify.app/)
+>
+> Website: <https://zhuanfeng.netlify.app/>
+
+### **AI & Agents**
+
+* [2025: A Year of "First Years"](/en/article/the-year-of-2025/)
+* [A Note on the "Skills Panic" in the AI Era](/en/article/ai-skills-crisis-are-you-affected/)
+* [Tech Giants Cut Jobs to Fund AI, While Money Circulates Among Giants](/en/article/why-tech-giants-cut-jobs-while-spending-billions-on-ai/)
+
+### **Product, Projects, and Work**
+
+* [A Tiny Trick: Using AI to Define Data Fields for Product Prototypes](/en/article/a-tidbit-about-product-prototype/)
+* [Common Pitfalls in Government/Enterprise Software Delivery](/en/article/typical-issues-in-software-project-management/)
+* [After-Action Review: Look Forward](/en/article/aar-and-move-on/)
+* [Expectation Management, Starting from the *Resident Evil 9* Trailer](/en/article/​how-to-manage-expectations-from-capcom-re9-trailer-case​/)
+
+### **Markets & Data**
+
+* [Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket](/en/article/who-wins-and-who-loses-in-prediction-markets/)
+* [Question: How Many Videos Does Bilibili Have?](/en/article/an-article-about-bilibili-videos-total/)
+
+### **Interviews & Notes**
+
+* [What Did Peak Ji Talk About Before Manus Was Acquired by Meta?](/en/article/what-peak-ji-talked-about-before-manus-meta-acquisition/)

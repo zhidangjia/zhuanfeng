@@ -1,4 +1,4 @@
-# Zhuanfeng personal website
+# Zhu anfeng - Solution Architect
 
 > Explore Zhu Anfeng's personal website – a hub for technology insights, personal interests, and life stories. Discover technical columns, hobbies, and memorable moments that reflect a passion for learning and growth. Visit now for inspiration and unique perspectives!This file contains links to all documentation sections.
 
@@ -6,12 +6,24 @@
 
 ### blog
 
+- [After Watching a Talk by Yang Zhenning - From "Not Interested" to Admiring His Thinking and Candor](/en/article/​​learning-from-yang-zhenning-speech​/index.md)
+- [Expectation Management, Starting from the *Resident Evil 9* Trailer](/en/article/​how-to-manage-expectations-from-capcom-re9-trailer-case​/index.md)
 - [Twenty Million Donated Steps:Are Direction, Ability, and Persistence Really an Impossible Triangle?](/en/article/2000-steps-souvenir/index.md)
 - [Birthday Wishes in 2025 - Are These Little Rituals Really So Trivial?](/en/article/2025-birthday/index.md)
+- [A Poem on the Millennium-Old Ginkgo Tree in Guzhuli Village](/en/article/a-poem-about-the-millennium-old-ginkgo-tree-guzhuli-village/index.md)
 - [A Special Reward](/en/article/a-special-reward/index.md)
+- [A Tiny Trick - Using AI to Define Data Fields for Product Prototypes](/en/article/a-tidbit-about-product-prototype/index.md)
+- [Three Skills for the Future Workplace](/en/article/a-tidbit-about-three-abilities/index.md)
+- [After-Action Review - Look Forward](/en/article/aar-and-move-on/index.md)
 - [After Nanjing Was Eliminated in the 2025 Jiangsu City League Semifinal - Why Was It More Popular Than the Chinese Super League?](/en/article/about-2025-jiangsu-city-football-league/index.md)
+- [A Note on the "Skills Panic" in the AI Era - Have You Been Hit?](/en/article/ai-skills-crisis-are-you-affected/index.md)
+- [Question - How Many Videos Does Bilibili Have?](/en/article/an-article-about-bilibili-videos-total/index.md)
+- [Talking About the Stock Market (1) - Bollinger Bands in Practice](/en/article/an-article-about-bollinger-bands/index.md)
+- [In the Next 10 Years, Will Students and Retirees Be the Real "Core Consumers"?](/en/article/an-article-about-future-product-design/index.md)
+- [From 20 People to an Industry Benchmark - What Anduril's R&D Culture Reveals](/en/article/an-peek-behind-anduril/index.md)
 - [Ancient Poetry Related to the Name "Anfeng"](/en/article/anfeng-poem/index.md)
 - [On *The Great Comeback of the Chinese Women's Volleyball Team* and the 2002 World Championship](/en/article/china-women-volleyball/index.md)
+- [Congratulations on the Opening of the 19th Asian Games](/en/article/congratulations-opening-19th-asian-games/index.md)
 - [Early Spring, 2009](/en/article/early-spring-2009/index.md)
 - [Early Summer, Half Moon, Cool Night](/en/article/early-summer-2008/index.md)
 - [The Sea, Endless Drifting](/en/article/essay-business-trip-sea/index.md)
@@ -25,7 +37,10 @@
 - [Peking University Memory - Football Memories of Anzi](/en/article/football-memories-of-zhuanfeng/index.md)
 - [May Day Odds and Ends](/en/article/he-trivialities-of-may-day/index.md)
 - [I Saw the USS Enterprise](/en/article/i-see-uss-enterprise/index.md)
+- [IMDB Top 250 Quick Reviews](/en/article/imdb-top250-film-reviews/index.md)
 - [In the Tall Birch Forest, My Youth Wanders](/en/article/in-the-tall-birch-forest-my-youth-wanders/index.md)
+- [Information Creator or Consumer?](/en/article/infomation-creator-or-consumer/index.md)
+- [Hiking Jingde Xishan and a Study of a 1506 Stone Pavilion Inscription](/en/article/inscription-stone-pavilion-xishan-ridge-jingde-county/index.md)
 - [Major Events of Jingde Middle School (1943-1995)](/en/article/jingde-middle-school-big-events/index.md)
 - [A History of Jingde Middle School (1943-2003)](/en/article/jingde-middle-school-history/index.md)
 - [The Story of Jingde Middle School's Official Website](/en/article/jingde-middle-school-website/index.md)
@@ -33,12 +48,29 @@
 - [So I Was the Little Brother of the Zhu Family](/en/article/jingde-zhu-xiaodi/index.md)
 - [Memories of the 5460 China Alumni Directory](/en/article/memories-5460-china-alumni-directory/index.md)
 - [A Handwritten Thank-You Letter](/en/article/memories-jsptpd-handwritten-letter/index.md)
+- [My Story with Music (I)](/en/article/memories-of-my-favorite-songs/index.md)
 - [My 2011](/en/article/my-2011/index.md)
 - [My High School and College Football Jerseys](/en/article/my-football-jersey/index.md)
+- [Fragments of Thoughts on *The Three-Body Problem*](/en/article/my-santi-memories/index.md)
 - [Peking University Memory - Leaving the Banquet Board](/en/article/peking-university-reminiscence-banquet-resignation/index.md)
 - [Peking University Memory - In Memory of an IP Address](/en/article/peking-university-reminiscence-ip-address/index.md)
+- [Ode to Zhuwang Village](/en/article/poem-in-praise-of-zhuwang-village/index.md)
+- [A Poem on the Baiyunshan Tea Garden](/en/article/poet-tea-garden-baiyunshan-mountain/index.md)
+- [Reflections on a Party Branch Activity on July 1](/en/article/reflections-july-1st-party-branch-activity/index.md)
 - [Standing at the North Pole](/en/article/standing-at-the-north-pole/index.md)
+- [Talking About the Stock Market (2) - Can RSI Actually Help You Make Money?](/en/article/talk-about-stock-market-2-can-rsi-help-make-money/index.md)
+- [Talking About the Stock Market (3) - How to Read MACD?](/en/article/talk-about-stock-market-3-how-to-read-macd/index.md)
+- [Talking About the Stock Market (5) - How Should a Retail Investor Think About Gold?](/en/article/talk-about-stock-market-4-gold-investment/index.md)
+- [Talking About the Stock Market (4) - How to Read BBI?](/en/article/talk-about-stock-market-4-how-to-read-bbi/index.md)
+- [The 34th Year of the Jiajing Reign (1555) - A Bizarre Story](/en/article/the-34th-year-of-the-jiajing-reign-ming-dynasty/index.md)
+- [2025 - A Year of "First Years"](/en/article/the-year-of-2025/index.md)
+- [Thoughts on the Film *Arrival* (2016)](/en/article/thoughts-on-arrival-movie/index.md)
+- [Typical Pitfalls in Government/Enterprise Software Delivery](/en/article/typical-issues-in-software-project-management/index.md)
+- [What Did Peak Ji Talk About Before Manus Was Acquired by Meta?](/en/article/what-peak-ji-talked-about-before-manus-meta-acquisition/index.md)
+- [How Does a Philosophy Professor Think About AI?](/en/article/what-yumingfeng-talked-about-ai/index.md)
+- [Who Wins and Who Loses in Prediction Markets? Evidence from Polymarket](/en/article/who-wins-and-who-loses-in-prediction-markets/index.md)
 - [If Nobody Reads Your Blog, Why Write It?](/en/article/why-blog-if-nobody-reads/index.md)
+- [Tech Giants Cut Jobs to Fund AI, While Money Circulates Among Giants—What's Going On?](/en/article/why-tech-giants-cut-jobs-while-spending-billions-on-ai/index.md)
 
 ### Jingyang Zhu Genealogy
 
@@ -49,4 +81,6 @@
 - [Demo](/en/demo/index.md)
 - [foo](/en/demo/259rnea4/index.md)
 - [bar](/en/demo/6ia0xkac/index.md)
+- [Hobbies and Interests](/en/hobbies/index.md)
 - [Memories Worth Revisiting](/en/memories/index.md)
+- [Tech Notes](/en/tech/index.md)

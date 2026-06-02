@@ -1,0 +1,1 @@
+var e=`/img/OpenAI%E8%87%AA%E5%B7%B1%E9%97%AD%E7%8E%AF%E4%BA%86.jpg`;export{e as t};
