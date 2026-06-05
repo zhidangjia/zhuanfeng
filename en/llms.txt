@@ -1,6 +1,6 @@
-# Zhu anfeng - Solution Architect
+# Anfeng Zhu - Builder · Thinker · Writer
 
-> Explore Zhu Anfeng's personal website – a hub for technology insights, personal interests, and life stories. Discover technical columns, hobbies, and memorable moments that reflect a passion for learning and growth. Visit now for inspiration and unique perspectives!This file contains links to all documentation sections.
+> Explore Anfeng Zhu's personal website – a hub for technology insights, personal interests, and life stories. Discover technical columns, hobbies, and memorable moments that reflect a passion for learning and growth. Visit now for inspiration and unique perspectives!This file contains links to all documentation sections.
 
 ## Table of Contents
 
@@ -77,7 +77,7 @@
 
 ### Others
 
-- [About Me - Zhu Anfeng](/en/aboutme/index.md)
+- [About Me - Anfeng Zhu](/en/aboutme/index.md)
 - [Demo](/en/demo/index.md)
 - [foo](/en/demo/259rnea4/index.md)
 - [bar](/en/demo/6ia0xkac/index.md)

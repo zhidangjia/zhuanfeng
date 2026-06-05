@@ -1,7 +1,7 @@
 ---
 url: /en/aboutme/index.md
 ---
-# About Me - Zhu Anfeng
+# About Me - Anfeng Zhu
 ## Core Competencies
 
 * End-to-end management of informatization projects: With 20 years of experience in the IT industry, familiar with project execution logic across government, enterprise, defense, and telecom sectors, and capable of coordinating the full process from requirements analysis and solution design to final delivery.
