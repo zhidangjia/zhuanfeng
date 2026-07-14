@@ -24,6 +24,7 @@ This file contains links to all documentation sections.
 - [未来职场的三种能力](/article/a-tidbit-about-three-abilities/index.md)
 - [复盘与向前看](/article/aar-and-move-on/index.md)
 - [写在2025苏超半决赛，南京队被淘汰之后：为啥比中超火？](/article/about-2025-jiangsu-city-football-league/index.md)
+- [万字长文：AI Agent四年发展史与底层逻辑](/article/ai-agent-four-years-development-history-and-underlying-logic-disassembly/index.md)
 - [小议AI时代的“本领恐慌”，你中招了吗？](/article/ai-skills-crisis-are-you-affected/index.md)
 - [问题 - B站有多少视频？](/article/an-article-about-bilibili-videos-total/index.md)
 - [聊聊股市（1）：布林线实战](/article/an-article-about-bollinger-bands/index.md)

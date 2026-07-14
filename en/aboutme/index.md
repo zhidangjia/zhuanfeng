@@ -28,7 +28,7 @@ url: /en/aboutme/index.md
 
 ## Main Honors
 
-* In 2010, led the "Digital Dafeng Port Informatization Plan" project, which received the [Jiangsu Outstanding Engineering Consulting Achievement Award (First Prize)](https://www.doc88.com/p-393940177329.html).
+* In 2010, led the "Digital Dafeng Port Informatization Plan" project, which received the [Jiangsu Outstanding Engineering Consulting Achievement Award (First Prize)](https://www.zgsyb.com/news.html?aid=213573).
 
 * In November 2012, as a core member in developing the "Rui Intelligent Energy Consumption Monitoring, Management, and Decision Analysis System Based on Cloud Services," received the [Nanjing Science and Technology Award (Third Prize)](https://wenku.baidu.com/view/49c97d195a0102020740be1e650e52ea5518ce17.html).
 

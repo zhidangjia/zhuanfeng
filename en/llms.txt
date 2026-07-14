@@ -16,6 +16,7 @@
 - [Three Skills for the Future Workplace](/en/article/a-tidbit-about-three-abilities/index.md)
 - [After-Action Review - Look Forward](/en/article/aar-and-move-on/index.md)
 - [After Nanjing Was Eliminated in the 2025 Jiangsu City League Semifinal - Why Was It More Popular Than the Chinese Super League?](/en/article/about-2025-jiangsu-city-football-league/index.md)
+- [A 10,000-Word Deep Dive - Four Years of AI Agent Evolution and the Underlying Logic](/en/article/ai-agent-four-years-development-history-and-underlying-logic-disassembly/index.md)
 - [A Note on the "Skills Panic" in the AI Era - Have You Been Hit?](/en/article/ai-skills-crisis-are-you-affected/index.md)
 - [Question - How Many Videos Does Bilibili Have?](/en/article/an-article-about-bilibili-videos-total/index.md)
 - [Talking About the Stock Market (1) - Bollinger Bands in Practice](/en/article/an-article-about-bollinger-bands/index.md)
