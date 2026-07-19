@@ -55,6 +55,7 @@ This file contains links to all documentation sections.
 - [旌德中学官方网站的故事](/article/jingde-middle-school-website/index.md)
 - [旌德老照片](/article/jingde-old-pictures/index.md)
 - [是朱家小弟呀](/article/jingde-zhu-xiaodi/index.md)
+- [万字长文：2026年大模型（Gemma、Deepseek等）架构设计的最新进展](/article/llm-architecture-2026-progress/index.md)
 - [5460中国校友录的回忆](/article/memories-5460-china-alumni-directory/index.md)
 - [一封手写的感谢信](/article/memories-jsptpd-handwritten-letter/index.md)
 - [我与音乐的故事（一）](/article/memories-of-my-favorite-songs/index.md)
