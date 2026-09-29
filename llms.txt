@@ -61,6 +61,7 @@ This file contains links to all documentation sections.
 - [我与音乐的故事（一）](/article/memories-of-my-favorite-songs/index.md)
 - [我的2011](/article/my-2011/index.md)
 - [我高中和大学的球衣](/article/my-football-jersey/index.md)
+- [关于他的那场赌局，你说你愿赌服输！](/article/my-love-story/index.md)
 - [关于《三体》的思维碎片](/article/my-santi-memories/index.md)
 - [北大记忆 - Banquet离任](/article/peking-university-reminiscence-banquet-resignation/index.md)
 - [北大记忆 - IP留念](/article/peking-university-reminiscence-ip-address/index.md)
@@ -108,4 +109,5 @@ This file contains links to all documentation sections.
 - [个人简介 - 朱岸峰](/aboutme/index.md)
 - [兴趣爱好](/hobbies/index.md)
 - [那些值得回味的记忆](/memories/index.md)
+- [影像馆](/photos/index.md)
 - [技术杂谈](/rd/index.md)

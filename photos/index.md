@@ -1,0 +1,4 @@
+---
+url: /photos/index.md
+---
+
