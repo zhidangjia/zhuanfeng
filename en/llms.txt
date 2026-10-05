@@ -82,6 +82,3 @@
 - [Demo](/en/demo/index.md)
 - [foo](/en/demo/259rnea4/index.md)
 - [bar](/en/demo/6ia0xkac/index.md)
-- [Hobbies and Interests](/en/hobbies/index.md)
-- [Memories Worth Revisiting](/en/memories/index.md)
-- [Tech Notes](/en/tech/index.md)
