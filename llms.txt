@@ -153,3 +153,4 @@ This file contains links to all documentation sections.
 - [北大记忆 - Banquet离任](/memories-of-weiming/peking-university-reminiscence-banquet-resignation/index.md)
 - [北大记忆 - IP留念](/memories-of-weiming/peking-university-reminiscence-ip-address/index.md)
 - [影像馆](/photos/index.md)
+- [近期作品](/recent-works/index.md)

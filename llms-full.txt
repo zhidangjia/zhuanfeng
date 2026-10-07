@@ -4370,6 +4370,14 @@ url: /photos/index.md
 ---
 
 ---
+url: /recent-works/index.md
+---
+# 近期作品
+## 大型项目
+
+---
+
+---
 url: /sculpting-time/index.md
 ---
 # 雕刻时光
