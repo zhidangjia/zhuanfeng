@@ -135,6 +135,37 @@ url: /article/​how-to-manage-expectations-from-capcom-re9-trailer-case​/inde
 ---
 
 ---
+url: /article/a-job-interview/index.md
+---
+# 40 岁+的一次求职的感悟，以及想对年轻的自己说的话
+::: center
+
+:::
+---
+
+昨天去了一场面试，本地一家民营公司。其实能去面试也是偶然（系统推荐的）。这家公司做电表起家，2000年就成立，算老牌了。十年前我做某产品时候也有过竞争关系，彼时的一些细节也是特地询问了老同事才回想起来。当然了，这些都不重要。
+
+面试先见了事业部老大，一位女同志，有点出乎意料（事后看了下公司股东，她应该是其中之一，大概率是老员工持股）。她的想法比较含蓄，但我听得出：你信息化、项目管理的经验够用，但在能源管理这块，只是有小段经历，但行业积累弱，不专业。
+我心里也清楚，她顾虑的没错，她是前端拿项目的部门，出去跟行业客户对接，不懂行业里的门道，很难让客户信任。对于行业专家，你短时期难胜任，这一点我完全认同。
+
+后来见到董事长，他应该听HR说我的学历，才有兴趣见一面。其实刚才那位女事业部老总最后也说：“董事长看重学历”。
+这位一把手是某科研所出来创业的，他提出了最大的质疑：尽管你有你的解释，但事实是工作二十多年，你换过几个行业，军工、运营商、互联网都碰过，却始终没有在一个领域长期扎根（10年以上那种）。他问我，这么多年工作，除了几个行业表彰，还有什么能真正拿得出手的行业积累？有没有研高职称，有没有专利，有没有论文？（这话听着尖锐，却也没错。其实去之前我也看了下，这公司不到百人专利有85个，确实还不错了。不过牵涉的官司好像也不少）他还跟我举例：他楼下理发店的师傅，一做二十多年不挪窝，无非就是认准一件事，沉下心做下去。现在小孩都考上研究生了。。。
+
+他说的，我全都认。
+
+我一直以为，年轻时多尝试、多跨界，是做创新、跟得上变化，现在才明白，这种不停切换赛道的经历，看似阅历丰富，背后有不少的沉没成本，实则是不断清零。
+
+现在职场里值钱的，从来不是你走过多少领域，而是你在一个地方扎得多深，懂多少行业里实打实的 know-how。
+
+前不久听校友[冯是聪](https://www.xiaoyuzhoufm.com/episode/69800c7ab4be4c149b8ba7ab)的一个播客，里面有句话给我留下很深印象：三年入行，五年懂行，十年成王。年轻时没往心里去，但现在结合这次面试也深刻理解了：不管行业怎么变，哪怕现在 AI 发展这么快，核心逻辑没变 —— 一个人有在一个领域的长期沉淀，就是别人拿不走的竞争力。正如刘德华《17岁》那首歌中唱的那样：如今我四十看从前，沙哑了声线。四十岁的我再回头看，职场没有那么多高大上的道理，也不用总想着追求新鲜感。一辈子踏踏实实扎根一个行业，把一件事做透，其实也是最稳妥、也最幸福的事。
+
+作为40+的人，对于这次面试没什么情绪波动，做自己就好。回去的路上，也没有失落，反倒多了几分实实在在的感悟。趁着记忆清晰，随手记下几句，算给自己二十多年的职场路，做个平实的总结，也希望可以给年轻人一些启发。
+
+如果能回到十年前，我不会跟自己讲什么大道理，只想说：不要总想着挑战新的领域，极大概率不如把手上现有的事情沉下心做下去，把行业里的本事学扎实，坚持长期主义，时间自会有答案。
+
+---
+
+---
 url: /article/a-poem-about-the-millennium-old-ginkgo-tree-guzhuli-village/index.md
 ---
 # 题庙首古竹里古银杏
@@ -1144,6 +1175,1190 @@ url: /article/congratulations-opening-19th-asian-games/index.md
 不是杭州中秋月，
 
 几人识得钱塘潮。
+
+---
+
+---
+url: /article/design-inspiration-websites-beyond-ai/index.md
+---
+如今，人们对真正由设计师创造、具有鲜明个性和独特判断的设计作品越来越感兴趣。与此同时，越来越多的设计师和企业开始对千篇一律的 AI 风格产生审美疲劳。
+
+如果你正在寻找新的设计灵感，下面这 10 个网站值得加入收藏夹。它们大多免费，而且各自关注的方向不同，从 Web、UI、UX，到动效、品牌、演示文稿和移动端界面，都可以成为日常设计研究的素材库。
+
+***
+
+## 01｜Recent.design
+
+![recent.design](/img/10-design/recent.jpg)
+
+它本身就设计得非常漂亮，同时也是一个覆盖面很广的设计灵感库。Web 设计、UI 设计、动效设计、平面设计、3D、Logo 等内容，都可以在这里找到。
+
+它的使用方式有些类似 Pinterest。你可以将喜欢的作品保存到自己的收藏夹和分类集合中，登录后还能从不同设备访问这些收藏。
+
+除了常规的设计作品，它还专门整理了 Logo 设计灵感，并采用了非常漂亮的画廊式展示方式。
+
+更有意思的是，它还提供了一个招聘页面，汇集正在寻找设计师的公司岗位，包括远程和现场职位。
+
+对于希望一边寻找灵感、一边关注设计行业机会的人来说，这是一个值得长期关注的平台。
+
+***
+
+## 02｜Deck.gallery
+
+![deck.gallery](/img/10-design/deck.jpg)
+
+做工作汇报的人，大概都经历过这样的时刻：
+
+**内容已经准备好了，却不知道 PPT 应该怎么设计。**
+
+Deck.gallery 专门收集来自世界各地的优秀演示文稿。
+
+![deck.gallery](/img/10-design/deck2.webp)
+
+在这里，你可以看到各种不同的设计处理方式：抽象图案、专业网格、趣味元素，以及大量值得借鉴的版式设计。
+
+它还提供了一个可以持续滚动浏览的幻灯片库。与直接看完整 PPT 相比，这种按照单页进行浏览的方式，对于寻找某一个具体页面的设计灵感尤其方便。比如封面怎么做、数据页怎么排、产品介绍页如何组织信息，都可以快速找到参考。
+
+网站还提供了一些付费的演示文稿模板，同时免费资源库会持续更新，目前保持每周更新。
+
+如果你经常需要制作汇报、方案或产品演示，这个网站很值得收藏。
+
+***
+
+## 03｜Posts.design
+
+![posts.design](/img/10-design/posts.webp)
+
+Posts.design 是一个大型设计灵感库，专门收集企业发布在社交媒体上的设计内容。
+
+这些内容经过了细致分类，并被整理到不同页面中。其中有专门针对产品发布和品牌设计的分类。
+
+它还提供了一个独立的 Newsletter，会定期把互联网上精选的设计内容整理后发送到你的邮箱。
+
+如果你平时习惯通过 Twitter、Instagram 等社交平台寻找设计灵感，那么 Posts.design 会是一个非常合适的替代选择。
+
+相比在社交媒体的信息流中被动刷到设计作品，这里的内容已经经过整理和筛选，寻找灵感的效率会高很多。
+
+***
+
+## 04｜UXSnaps
+
+![UXsnaps](/img/10-design/uxsnaps.jpg)
+
+有时候，我们需要的并不是好看的设计，而是想知道：
+
+**优秀的产品为什么这样设计？**
+
+UXSnaps 关注的正是 UX/UI 设计背后的界面与交互模式。
+
+![UXsnaps设计拆解](/img/10-design/uxsnaps2.webp)
+
+它会对不同产品的界面进行拆解，通过具体的页面和设计模式，展示哪些设计真正有效，以及这些设计从用户和 UX 设计师的角度来看为什么成立。
+
+这里的内容并非简单地罗列截图。
+
+很多设计拆解都以短文章的形式呈现，你可以边浏览界面，边了解其中的设计逻辑。
+
+如果你正在研究竞品、分析头部产品，或者希望提升自己的 UX 判断能力，UXSnaps 会比单纯浏览设计作品更有价值。
+
+***
+
+## 05｜Details.so
+
+![Details.so](/img/10-design/details.so.jpg)
+
+Details.so 更关注那些容易被忽略，却真正影响产品体验的 UI 细节。
+
+它收集了大量来自真实网站的 UI 设计细节。
+
+一个按钮的动效、一段 Footer 的呈现方式，甚至某个微小的交互处理，都可能成为这里的研究对象。
+
+对于 UI 设计师来说，这类资源尤其有价值。
+
+因为真正决定一个界面质感的，很多时候并不是整体布局，而是这些细节之间的组合。
+
+Details.so 还提供了一个名为 Vault 的功能，并支持 MCP，可以将自己喜欢的 AI 工具与平台连接起来，让 AI Agent 直接访问其中的设计灵感资源。
+
+大部分功能免费，部分高级 AI 功能则需要支付少量月费。
+
+***
+
+## 06｜On.design
+
+![on.design](/img/10-design/on.design.webp)
+
+On.design 是设计师 Charles Patterson 发起的一个设计社区。
+
+这个社区目前仍处于 Beta 阶段，但它希望从设计社区的角度，成为下一个类似 Dribbble 或 Behance 的平台。
+
+目前已经有一些知名设计团队和工作室入驻，包括 Nooon Studio、Framer 等。通过这些团队，你不仅可以看到个人设计师的作品，也可以了解优秀公司和设计工作室正在做什么。
+
+你还可以创建自己的个人主页和作品集，将项目统一展示出来。
+
+除此之外，平台还提供独立的 About 页面，以及一个具有创意感的个人“ID Card”，方便你分享到社交媒体。
+
+如果你希望通过作品建立自己的设计网络，而不仅仅是把作品上传到一个作品展示平台，那么 On.design 值得关注。
+
+目前平台采用邀请制 Beta。
+
+***
+
+## 07｜Curated.design
+
+![Curated.design](/img/10-design/curated.jpg)
+
+Curated.design 是一个持续滚动更新的 Web 设计灵感网站。
+
+它收集来自优秀公司、设计工作室以及真实线上项目的网站设计。
+
+其中一个非常实用的功能，是它对页面中的具体 Section 进行了整理。
+
+例如：
+
+* 定价模块
+* 功能介绍
+* Footer
+* 导航
+* 产品介绍
+* 其他常见页面区块
+
+如果你正在设计某个具体页面，却不知道某个模块应该怎么处理，可以直接从这里寻找参考。
+
+Curated.design 还提供了一个模板商店，收录了一些适用于不同设计工具的模板，其中既有免费模板，也有付费模板。
+
+对于需要频繁进行 Web 设计研究的设计师来说，这种按页面模块组织的灵感库，比单纯浏览整站作品更加高效。
+
+***
+
+## 08｜Screensdesign.com
+
+![Screensdesign.com](/img/10-design/screensdesign.webp)
+
+如果你熟悉 Mobbin，那么 Screensdesign.com 可以看作是一个值得尝试的替代选择。
+
+它同样聚焦于移动应用 UI，通过大量真实产品界面，帮助设计师深入研究不同 App 的界面设计和交互模式。
+
+网站提供了丰富的分类和筛选条件，可以帮助你快速找到需要研究的页面。
+
+更有意思的是，它的筛选维度并不局限于设计本身。
+
+你甚至可以根据 App 的商业表现进行研究，例如：
+
+* 产品的成功程度
+* 收入
+* 付费方式
+* 安装量
+
+这意味着你研究的不只是“这个页面长什么样”，还可以进一步观察：
+
+**什么样的设计出现在真正获得市场验证的产品中？**
+
+在 AI 时代，Screensdesign.com 也加入了 MCP 支持，可以将 AI Agent 连接到网站，让 AI 基于其数据库进行设计研究。
+
+目前平台拥有数千个 App 页面，可以作为移动端 UI 研究的重要素材库。
+
+***
+
+## 09｜See.saw
+
+![See.saw](/img/10-design/See.saw.jpg)
+
+See.saw 关注一个非常具体的方向：
+
+**最近上线的真实产品网站。**
+
+这里收集的是软件和硬件产品在正式发布时使用的真实网站。
+
+相比单纯看概念设计，你可以直接观察一个新的产品理念最终是如何落地为真实页面，以及这些页面如何承担产品介绍和转化任务。
+
+这个网站的设计非常克制。
+
+不需要注册，也不需要付费，打开就可以浏览。
+
+甚至可以说，它把设计灵感网站最基本的功能做到了极致：打开、浏览、研究。
+
+如果你希望观察最近真实上线的产品，以及这些产品是如何通过网站表达自己的产品价值，See.saw 是一个很轻量的选择。
+
+***
+
+## 10｜Supahero
+
+![Supahero.io](/img/10-design/Supahero.io.jpg)
+
+Supahero 的定位非常直接：
+
+**一个专门收集网站 Hero Section 的灵感库。**
+
+如果你正在设计一个网站首页，需要寻找首屏视觉、标题、CTA、产品展示等方面的参考，这里会非常方便。
+
+网站采用无限滚动的方式，集中展示大量漂亮的 Hero Section，并提供对应的真实网站链接。
+
+它最大的特点也是它最明显的限制：
+
+**这里主要提供静态截图，没有视频和动效。**
+
+对于如今越来越强调动态体验的 Web 设计来说，这确实是一个遗憾。
+
+但如果你的目标只是快速寻找首页首屏的构图、排版和视觉方向，Supahero 依然非常实用。
+
+***
+
+# 写在最后
+
+设计灵感从来不缺，真正稀缺的是**高质量的设计观察**。
+
+过去，我们习惯从 Pinterest、Dribbble、Behance 等平台寻找参考。如今，设计灵感正在变得更加细分：
+
+有人专门研究真实网站，有人关注移动端界面，有人研究 UI 细节，有人拆解 UX 模式，也有人专门收集产品发布页面。
+
+这其实反映了一个很有意思的变化。
+
+**设计师真正需要的，越来越不是“再看一张漂亮图片”，而是建立自己的设计研究系统。**
+
+当你开始有意识地观察真实产品、真实用户场景和真实商业结果，设计灵感才会逐渐从“找参考”变成“形成判断”。
+
+这 10 个网站，可以作为一个不错的起点。
+
+---
+
+---
+url: /article/design-inspiration-websites-beyond-ai/index.md
+---
+# 一次 LLM API 调用，背后到底发生了什么？
+::: note 本文已发表于 [InfoQ](https://xie.infoq.cn/article/ec68fd4d5dc13e6871fc9ceff) 。
+:::
+
+![LLM API 调用](/img/inside_an_llm_call.webp)
+
+**从 Tokenization、Routing 到 Prefill、Decode、KV Cache 与 Billing**
+
+你输入一句：
+
+> 帮我分析一下这份报告。
+
+点击发送。
+
+过了一会儿，答案出现在屏幕上。
+
+对于大多数使用者来说，这个过程很简单。API 接收请求，模型生成答案，客户端把结果显示出来。一行代码就能完成。
+
+真正运行起来，事情要复杂得多。
+
+一个生产环境中的 LLM API，前面连着网络、认证、限流和路由，后面连着 Token 计量、Safety、Streaming 和 Observability。进入模型之后，又会涉及 Prefill、Decode、KV Cache、GPU Memory、Batching 等一系列计算和调度机制。
+
+如果模型支持 Reasoning、Web Search、Code Execution 或其他工具，一次请求还可能在模型和外部工具之间来回几轮。
+
+可以把它看成一条完整的 **AI Serving Pipeline**。
+
+*下面这套流程主要用于理解一个典型的文本生成请求。不同 Provider、模型和部署架构之间会有差别，有些环节可能合并，有些则会拆成独立服务。*
+
+***
+
+## 01、请求从哪里开始？
+
+先从 API Gateway 说起。
+
+客户端发出的请求，大致会经过：
+
+```
+Client
+  ↓
+Network / TLS
+  ↓
+API Gateway / Edge
+  ↓
+Authentication
+  ↓
+Request Validation
+  ↓
+Rate Limiting
+  ↓
+Usage Accounting
+```
+
+这里处理的事情都比较熟悉。
+
+TLS 负责安全连接，Authentication 判断调用者有没有权限，请求验证检查参数和格式，Rate Limiting 控制访问速度。与此同时，系统还需要建立这次请求的 Usage 信息，后面才能知道用了多少 Token、产生了多少费用。
+
+限流也比“每分钟最多调用多少次”稍微复杂一些。
+
+实际 API 通常同时存在 RPM、TPM、并发量、项目级限制、模型级限制等约束。不同服务商的具体规则不同。
+
+因此，一个：
+
+```
+429 Too Many Requests
+```
+
+未必意味着模型本身出了问题。
+
+它可能只是说明，当前请求触碰到了某一层容量限制。
+
+***
+
+## 02、请求接下来去哪里？
+
+传统 Web 服务里，我们很容易把这一层理解成 Load Balancer：
+
+```
+              Load Balancer
+              /     |     \
+             ↓      ↓      ↓
+          Server  Server  Server
+```
+
+LLM Serving 的调度通常要考虑更多事情。
+
+系统需要知道请求使用哪个模型、哪个 Region、哪个 Replica，以及当前各个 Worker 的负载和队列情况。
+
+对于现代推理系统，还可能进一步考虑：
+
+* KV Cache 是否已经存在
+* Prefill Worker 的状态
+* Decode Worker 的状态
+* GPU 和节点之间的拓扑
+* 数据传输成本
+* 当前模型的可用容量
+
+因此，现在谈这一层，用 **Routing & Scheduling** 更合适。
+
+尤其值得注意的是 KV Cache。
+
+假设某个 Worker 已经保存了大量与你当前请求相同的上下文，把新的请求送到那里，就有机会复用已有的 Cache。换一台 GPU，则可能需要重新计算。
+
+于是，“请求发给谁”逐渐和“Cache 在哪里”联系在了一起。
+
+NVIDIA Dynamo 等现代 Serving 系统已经提供 KV-aware routing、Prefill/Decode Disaggregation 等能力。
+
+***
+
+## 03、模型看到的并不是文字
+
+接下来是 Tokenization。
+
+你输入：
+
+```
+帮我分析一下这份报告
+```
+
+Tokenizer 会把它转换成模型能够处理的 Token IDs：
+
+```
+Text
+ ↓
+Tokenizer
+ ↓
+Token IDs
+ ↓
+[ ... ]
+```
+
+不同模型使用的 tokenizer 并不完全相同。BPE、SentencePiece、WordPiece 都属于常见方案。
+
+因此，同一句话交给不同模型，得到的 Token 数量可能不同。
+
+Token 数量很重要。
+
+它关系到 Context Window，也会影响计算量、延迟和费用。
+
+经常有人用：
+
+> 1 Token ≈ 4 个字符
+
+来帮助理解 Token。
+
+这个经验值对于英文文本可以提供一点直觉，放到中文、代码、JSON 或数学表达式里就不太可靠了。真正的 Token 数量，还是应该交给对应模型的 tokenizer 来计算。
+
+***
+
+## 04、Context Window 是怎么参与进来的？
+
+Tokenization 完成之后，系统还需要检查这次请求是否符合模型的上下文限制。
+
+Context 里装的东西，远不止用户刚刚输入的那句话。
+
+它可能包括：
+
+```
+System Prompt + Conversation History + User Input + Tool Definitions + Retrieved Documents +
+Previous Tool Results
+```
+
+对于 Agent，这个列表还会不断增长。
+
+因此，“我只输入了 2000 个字”并不能直接说明这次请求用了多少 Context。
+
+另外，Context 超限之后怎么处理，也取决于 API 的设计。有的接口允许截断历史内容，有的会直接返回错误。
+
+Context Window 更适合被理解成：
+
+> **一次推理任务可以携带的上下文预算。**
+
+***
+
+## 05、Prefill：模型先把上下文读进去
+
+现在才真正进入模型推理。
+
+LLM 的生成过程通常可以分成两个重要阶段：
+
+```
+                Inference
+                    │
+          ┌─────────┴─────────┐
+          ↓                   ↓
+       Prefill              Decode
+```
+
+Prefill 可以理解成“先处理输入”。
+
+假设 Prompt 很长：
+
+```
+10,000 Tokens
+       ↓
+    Prefill
+       ↓
+Attention States
+       ↓
+   KV Cache
+```
+
+模型会对这批输入 Token 进行计算，并建立后续生成所需要的中间状态。
+
+其中非常重要的一部分，就是 **Key / Value，也就是 KV Cache**。
+
+这里有一个容易产生误解的地方。
+
+Prefill 确实可以对输入序列进行高度并行的计算，但它并不等于“10,000 个 Token 各算各的”。Transformer 的 Attention 仍然存在序列关系，实际耗时还受到模型结构、硬件利用率、Batching、Chunked Prefill 和 Cache Reuse 等因素影响。
+
+因此，不能简单地用“10,000 Token 一定是 1,000 Token 的十倍时间”来估算。
+
+工程系统里的实际情况会复杂一些。
+
+***
+
+## 06 — KV Cache：模型为什么不用每次从头算？
+
+假设你正在和一个模型进行长对话。
+
+每生成一个新 Token，如果都重新计算之前所有上下文，重复计算会非常可观。
+
+KV Cache 解决的就是这一部分问题。
+
+可以粗略地想象：
+
+```
+Previous Context
+       ↓
+   KV Cache
+       ↓
+    New Token
+       ↓
+Continue Generation
+```
+
+已经计算过的 Key 和 Value 被保存下来，后续生成可以继续使用。
+
+问题也随之而来：
+
+**KV Cache 很占内存。**
+
+尤其在长上下文、高并发场景下，大量请求同时保存 KV Cache，GPU Memory 很快就会成为系统的重要资源。
+
+于是，Serving 系统开始围绕 KV Cache 做各种优化：
+
+* Paged KV Cache
+* Prefix Caching
+* KV Cache Offloading
+* Distributed KV Cache
+* KV-aware Routing
+
+有些系统还会把 Cache 放在 GPU 之外，根据性能和容量需要，在 CPU Memory、SSD 或其他存储层之间进行管理。vLLM、NVIDIA NIM 等推理系统都已经提供不同形式的 KV Cache 管理和 Offloading 能力。
+
+这也是今天 LLM Serving 很有意思的一点。
+
+过去讨论负载均衡时，通常关心：
+
+> 哪台服务器比较空？
+
+现在还要问：
+
+> **哪台服务器已经有我要的 Cache？**
+
+***
+
+## 07、Decode：答案开始一个 Token 一个 Token 的生成
+
+Prefill 完成之后，进入 Decode。
+
+典型的自回归生成过程可以画成：
+
+```
+Prompt
+  ↓
+Prefill
+  ↓
+Token 1
+  ↓
+Token 2
+  ↓
+Token 3
+  ↓
+Token 4
+  ↓
+...
+```
+
+模型每一步都会根据当前上下文预测接下来的 Token。
+
+这就是 LLM 和很多传统 API 在性能表现上的一个明显区别。
+
+一个普通 API 往往是：
+
+```
+Request
+  ↓
+Compute
+  ↓
+Response
+```
+
+LLM 生成则更像：
+
+```
+Request
+  ↓
+Inference
+  ↓
+Token
+  ↓
+Token
+  ↓
+Token
+  ↓
+Token
+  ↓
+...
+```
+
+输出越长，生成过程通常也越长。
+
+因此，LLM 性能分析里经常会看两个指标。
+
+TTFT：Time To First Token
+
+从发送请求到第一个 Token 出现，需要多久？
+
+ITL：Inter-Token Latency
+
+相邻 Token 之间的生成间隔是多少？
+
+对于聊天机器人、Coding Agent 等交互式应用，这两个指标都很有意义。
+
+一个回答总共需要 8 秒，并不代表用户要等 8 秒才能看到任何东西。如果第一个 Token 在 500ms 左右就出现，后面的内容持续流出，体验会完全不同。
+
+***
+
+## 08、Attention：GPU 到底在计算什么？
+
+Decode 阶段会反复执行 Transformer 的计算。
+
+把 Attention 极度简化之后，可以画成：
+
+```
+Q × Kᵀ
+   ↓
+Attention Scores
+   ↓
+Softmax
+   ↓
+× V
+   ↓
+Next Layer
+```
+
+现代模型中可以看到很多不同的 Attention 设计，例如：
+
+* Multi-Head Attention（MHA）
+* Multi-Query Attention（MQA）
+* Grouped-Query Attention（GQA）
+* FlashAttention
+
+其中 GQA 和 MQA 会减少 Key / Value Head 的数量，从而降低 KV Cache 的内存压力。
+
+FlashAttention 则从另一个方向优化 Attention 的计算和内存访问。
+
+所以，LLM 推理性能很少只是一个“GPU 算力够不够”的问题。
+
+计算能力、显存容量、Memory Bandwidth、Cache、Batching 和调度策略都会参与其中。
+
+***
+
+## 09、GPU 只是计算资源的一部分
+
+大型模型通常需要多张 GPU 或其他 AI Accelerator 协同工作。
+
+例如：
+
+```
+                  Model
+                    │
+        ┌───────────┼───────────┐
+        ↓           ↓           ↓
+      GPU 0       GPU 1       GPU 2
+        │           │           │
+        └───────────┼───────────┘
+                    ↓
+                 Serving
+```
+
+常见的并行方式包括：
+
+* Tensor Parallelism
+* Pipeline Parallelism
+* Data Parallelism
+* Expert Parallelism
+
+硬件也一直在变化。H100、H200、B200，以及其他 GPU、TPU 和 AI Accelerator 都可能出现在实际 Serving 环境中。
+
+对于推理来说，显存尤其重要。
+
+模型权重需要放进去，KV Cache 需要放进去，中间状态也需要空间。
+
+于是很多性能优化最后都会落到几个很朴素的问题上：
+
+**计算能不能少一点？**
+
+**数据能不能少搬一点？**
+
+**已经算过的东西能不能复用？**
+
+***
+
+## 10、Prefill 和 Decode，已经可以分开运行
+
+这是近几年 LLM Serving 架构里非常值得关注的一件事情。
+
+最容易理解的方式，是先把整个推理过程放在一个 Worker 里：
+
+```
+Request
+   ↓
+Worker
+   ↓
+Prefill
+   ↓
+Decode
+   ↓
+Response
+```
+
+但 Prefill 和 Decode 对资源的需求并不完全相同。
+
+Prefill 更偏计算密集。
+
+Decode 则更容易受到 Memory Bandwidth、KV Cache 和并发调度的影响。
+
+在高负载场景下，如果大量长 Prompt 同时进入 Prefill，它们可能影响正在进行的 Decode。
+
+因此，一些现代 Serving 架构开始把两者拆开：
+
+```
+                    ┌───────────────┐
+                    │ Prefill Pool  │
+                    └───────┬───────┘
+                            │
+                         KV Cache
+                            │
+                            ↓
+Request → Router → ┌───────────────┐
+                   │  Decode Pool  │
+                   └───────────────┘
+```
+
+Prefill Worker 负责建立 KV Cache，再把相关状态交给 Decode Worker。
+
+这种架构叫：
+
+> **Disaggregated Serving**
+
+NVIDIA Dynamo 当前文档已经把 Prefill/Decode Disaggregation 作为重要的 Serving 架构，并专门处理 KV Transfer、Worker 路由和拓扑问题。
+
+当然，拆开以后也多了一次数据传输。
+
+如果 KV Transfer 成为瓶颈，分离架构未必能够带来收益。
+
+这件事情很典型：LLM Serving 的优化经常不是简单地“多加一种技术”，而是在计算、内存、网络和调度之间重新找平衡。
+
+***
+
+## 11、Reasoning 出现之后，一次请求可能变长了
+
+过去讨论 LLM API，常见的模型是：
+
+```
+Prompt
+  ↓
+Answer
+```
+
+今天这个模型已经不太够用了。
+
+对于支持 Reasoning 的模型，一次请求可能更接近：
+
+```
+Prompt
+  ↓
+Reasoning
+  ↓
+Tool Call?
+  ↓
+Observation
+  ↓
+More Reasoning
+  ↓
+Final Answer
+```
+
+用户最终看到的答案，可能只有几百个 Token。
+
+模型在整个过程中实际处理的 Token 数量却可能更多。
+
+现代 API 已经开始把 Reasoning Tokens 单独统计出来。
+
+这也解释了一个经常出现的现象：
+
+同一个问题，有时候模型很快给出答案，有时候却“思考”更久。
+
+延迟和 Token Usage 都可能随之变化。
+
+对于成本分析，只看最终回答有多少字，已经不够用了。
+
+***
+
+## 12、Tool Use 让一条 API 调用变成一段流程
+
+再看一个稍微复杂的例子。
+
+你问：
+
+> 帮我查一下今天 NVIDIA 的股价，再分析一下上涨的原因。
+
+如果模型可以使用工具，后台可能是：
+
+```
+User Prompt
+     ↓
+LLM
+     ↓
+Reasoning
+     ↓
+Tool Call
+     ↓
+External API / Web
+     ↓
+Tool Result
+     ↓
+LLM
+     ↓
+More Reasoning
+     ↓
+Final Answer
+```
+
+这里的时间已经不能简单理解成“模型生成答案用了多久”。
+
+外部 API 需要多久，搜索需要多久，工具返回的数据有多少，模型需要进行几轮推理，这些都会加入整个过程。
+
+所以在 Agent 系统里，一次用户操作经常对应一条更长的 Trace。
+
+LLM 只是其中的一部分。
+
+***
+
+## 13、Safety 和 Policy 也在这条链路里
+
+安全控制的位置并不固定在最终输出之后。
+
+一个典型的系统可能在不同阶段进行检查：
+
+```
+Input
+  ↓
+Policy / Safety
+  ↓
+Model
+  ↓
+Tool Call
+  ↓
+Output
+  ↓
+Policy / Safety
+```
+
+具体实现取决于 Provider 和 API。
+
+有的系统会在输入阶段进行检查，有的会在输出阶段进行过滤，还有的会针对工具调用增加额外的策略控制。
+
+最终响应中还可能带有某种 termination reason，例如：
+
+```
+STOP
+MAX_TOKENS
+SAFETY
+...
+```
+
+不过这些字段和枚举并没有统一的行业标准。
+
+因此，在工程代码里最好按照具体 Provider 的 API 定义来处理。
+
+***
+
+## 14 、为什么答案会一个 Token 一个 Token 地出现？
+
+因为 Streaming。
+
+普通响应大致是：
+
+```
+Request
+   ↓
+████████████████
+   ↓
+Complete Response
+```
+
+Streaming 则是：
+
+```
+Request
+   ↓
+Token 1 → Client
+Token 2 → Client
+Token 3 → Client
+Token 4 → Client
+...
+```
+
+模型仍然在做原来的计算。
+
+改变的是数据返回方式。
+
+因此 Streaming 对交互体验非常重要，尤其是 Chat、Coding Assistant 和 Agent UI。用户可以更早看到结果，不必等整个 Response 完成。
+
+这也是 TTFT 值得单独监控的原因。
+
+***
+
+## 15、然后，系统开始计算这次调用用了多少钱
+
+模型生成完成之后，Usage 信息会进入计量流程。
+
+最简单的模型可以写成：
+
+```
+Cost ≈
+
+Input Tokens × Input Rate
++
+Cached Tokens × Cached Rate
++
+Output Tokens × Output Rate
+```
+
+现在实际的计费项目已经丰富得多。
+
+可能涉及：
+
+* Input Tokens
+* Cached Input Tokens
+* Output Tokens
+* Reasoning Tokens
+* Tool Usage
+* Image / Audio 等多模态用量
+* Batch / Priority / Flex 等不同服务模式
+
+不同 Provider、模型和服务等级采用不同的计费方式。
+
+因此，“一次 API 调用多少钱”其实没有一个脱离具体模型和服务商的固定答案。
+
+有一点倒是非常稳定：
+
+> **Token Usage 是 AI 应用成本分析里最重要的数据之一。**
+
+***
+
+## 16、Prompt Caching 为什么越来越重要？
+
+假设一个 Agent 每次请求都会携带：
+
+```
+System Prompt
++
+Tool Definitions
++
+Company Rules
++
+Long Documentation
++
+User Question
+```
+
+其中前面几万 Token 几乎没有变化。
+
+如果每次都重新处理，重复计算会非常多。
+
+Caching 的思路很直接：
+
+```
+First Request
+     ↓
+Compute
+     ↓
+Cache
+
+Later Requests
+     ↓
+Reuse
+```
+
+现代 Provider 已经提供不同形式的 Prompt / Context Caching。
+
+缓存命中以后，可以减少重复上下文带来的计算和费用；具体收益取决于模型、缓存策略和请求模式。OpenAI、Anthropic、Google 等主要 Provider 都已经提供相应机制。
+
+对于 Agent，这个问题尤其值得关注。
+
+因为 Agent 很容易反复携带：
+
+* System Prompt
+* Tool Schema
+* Conversation History
+* User Context
+* Retrieved Knowledge
+
+在长上下文应用里，Cache 的位置已经逐渐从一个局部优化手段，进入 Serving Architecture 本身。
+
+***
+
+## 17、有些任务，根本不需要实时完成
+
+还有一类请求，对延迟并不敏感。
+
+比如：
+
+* 大规模文档分类
+* Embedding
+* 数据清洗
+* Evaluation
+* 批量摘要
+* 夜间数据处理
+
+这类任务可以考虑 Batch Processing。
+
+实时请求追求：
+
+```
+Low Latency
+```
+
+Batch 更在意：
+
+```
+Resource Utilization
++
+Cost
++
+Throughput
+```
+
+目前不同 Provider 对 Batch 的价格和 SLA 有不同设计，不能简单概括成一个统一的折扣比例。
+
+但工程上的判断很简单：
+
+> **业务不需要实时的时候，没必要为实时能力支付同样的成本。**
+
+***
+
+## 18、最后，你需要知道发生了什么
+
+用户看到的可能只有：
+
+> 分析完成。
+
+后台却应该有足够的信息，让工程师能够回答：
+
+> 为什么今天变慢了？
+>
+> 为什么成本突然上升？
+>
+> 为什么 429 增多？
+>
+> 为什么这个用户特别慢？
+>
+> 为什么 Cache 没有命中？
+
+所以一条完整的 Trace 里，通常值得关注：
+
+```
+Request ID
+Model
+Region
+Latency
+TTFT
+ITL
+Input Tokens
+Cached Tokens
+Output Tokens
+Reasoning Tokens
+Cache Hit / Miss
+Tool Calls
+Errors
+Retries
+Rate Limits
+Termination Reason
+Cost
+```
+
+对于生产系统来说，这些数据比“模型平均响应时间 1.2 秒”有用得多。
+
+因为真正的问题往往藏在平均值下面。
+
+***
+
+## 19、把整条链路重新看一遍
+
+现在再回头看一次 LLM API 调用：
+
+```
+User
+ │
+ ↓
+API Gateway / Edge
+ │
+ ├─ Authentication
+ ├─ Validation
+ ├─ Rate Limit
+ └─ Usage Accounting
+ │
+ ↓
+Routing & Scheduling
+ │
+ ├─ Model
+ ├─ Region
+ ├─ Capacity
+ ├─ KV Locality
+ └─ Prefill / Decode
+ │
+ ↓
+Tokenization
+ │
+ ↓
+Context Check
+ │
+ ↓
+┌──────────────────────────┐
+│       Inference          │
+│                          │
+│  Prefill → KV Cache      │
+│              ↓           │
+│           Decode         │
+│              ↓           │
+│       Token by Token     │
+└──────────────────────────┘
+ │
+ ├───────────────┐
+ ↓               ↓
+Reasoning      Tool Call
+ │               │
+ └───────┬───────┘
+         ↓
+    More Inference
+         │
+         ↓
+Safety / Policy
+         │
+         ↓
+Streaming
+         │
+         ↓
+Usage / Billing
+         │
+         ↓
+Observability
+         │
+         ↓
+User
+```
+
+如果采用 Prefill/Decode 分离的 Serving 架构，中间的 Inference 又可以展开成：
+
+```
+                    ┌───────────────┐
+                    │ Prefill Pool  │
+                    └───────┬───────┘
+                            │
+                         KV Cache
+                            │
+                            ↓
+Request → Router → ┌───────────────┐
+                   │  Decode Pool  │
+                   └───────────────┘
+```
+
+这时候再看“调用一个 LLM API”这件事情，会发现它已经远远超出了一个模型文件本身。
+
+模型只是其中最核心的一块。
+
+围绕它运行的，还有 GPU、Memory、Cache、Network、Router、Scheduler、Tool、Policy、Billing 和 Observability。
+
+***
+
+## 写在最后
+
+调用一个 LLM API，看起来可能只有一行代码：
+
+```
+response = client.responses.create(...)
+```
+
+但这行代码背后，是一整条系统链路。
+
+网络把请求送进来，
+
+Gateway 完成认证和限流；
+
+Router 决定请求去哪里；
+
+Tokenizer 把文字转换成 Token；
+
+Prefill 建立上下文状态；
+
+KV Cache 保存可以复用的信息；
+
+Decode 一个 Token 一个 Token 地生成结果。
+
+如果模型需要 Reasoning 或 Tool Use，流程还会继续向外延伸。
+
+最后，结果经过 Streaming 返回客户端，同时留下 Usage、Latency、Cost 和 Trace 数据。
+
+这也是理解 LLM API 内部机制的意义。
+
+以后看到一个 API 请求变慢，可以去看 TTFT、Queue、Prefill、Decode、Cache 和 Tool Call。
+
+成本突然上涨，可以从 Input、Cached、Reasoning、Output Token 一路查下去。
+
+429 增多，可以回到 Rate Limit 和 Capacity。
+
+同样的 Prompt 有时快、有时慢，可以看看 Routing、Batching、Cache Locality 和当前系统负载。
+
+当这些东西逐渐串起来之后，LLM API 就没有那么神秘了。
+
+你看到的仍然是一句话和一个答案。
+
+只是从工程角度看，中间已经站着一整套系统。
 
 ---
 
@@ -4373,7 +5588,33 @@ url: /photos/index.md
 url: /recent-works/index.md
 ---
 # 近期作品
-## 大型项目
+## 近期大型项目
+
+## 社交媒体（部分有代表性的内容）
+
+### 1、知乎
+
+2026年8月25日，[为什么这边建议你多少还是会点Linux哈？](https://www.zhihu.com/pin/2075632337321191351)
+
+2026年6月17日，[斯德哥尔摩大学和香港大学联合发布了一篇论文，想搞清楚：学生选择用AI之后，成绩到底变好了还是变差了？](https://www.zhihu.com/pin/2050666954210407025)
+
+2026年6月11日，[现代 RAG 流水线](https://www.zhihu.com/pin/2048116255132067480)
+
+2026年2月24日，[窦文涛访谈（陈鲁豫主持）都聊了哪些精彩话题（精华笔记）？](https://zhuanlan.zhihu.com/p/2008127919638217395)
+
+2026年2月19日，[Kimi创始人杨植麟访谈详细笔记（25年8月）](https://zhuanlan.zhihu.com/p/2007825193452737475)
+
+2026年2月19日，[这会是巨石阵Stonehenge建造时间的真相吗?](https://zhuanlan.zhihu.com/p/2007468206642701972)
+
+2026年2月13日，[OpenAI 核心工程师翁家翌最新访谈的详细笔记](https://zhuanlan.zhihu.com/p/2004863849233413134)
+
+### 2、小红书
+
+2026年9月12日，[如何把数据设计成一场视觉探索？](https://www.xiaohongshu.com/discovery/item/6aa51406000000002b0259fa?source=webshare\&xhsshare=pc_web\&xsec_token=ABLKtPNcyT1xGnMROZtd9H5Gzm7cipcig8ch3RVsSTf2c=\&xsec_source=pc_share)
+
+2026年9月11日，[完整的大模型推理是怎样的流程？](https://www.xiaohongshu.com/discovery/item/6aa363fa00000000120249d0?source=webshare\&xhsshare=pc_web\&xsec_token=ABFeZsxSVajYEx7ekh0p6nOsAJwbVmRApSIIrEx6wnZkA=\&xsec_source=pc_share)
+
+2026年8月25日，[一个会成为 RAG 的主流技术栈？](https://www.xiaohongshu.com/discovery/item/6a8d0b830000000017009529?source=webshare\&xhsshare=pc_web\&xsec_token=AB7_u0IH8RVLqGTiedY8bcVZNBnWCFJOrBvQfwL-vyiaA=\&xsec_source=pc_share)
 
 ---
 
