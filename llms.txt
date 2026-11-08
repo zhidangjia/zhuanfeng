@@ -51,6 +51,7 @@ This file contains links to all documentation sections.
 - [Manus临近被Meta收购前，季逸超（peak）都聊了些什么干货？](/article/what-peak-ji-talked-about-before-manus-meta-acquisition/index.md)
 - [哲学教授是怎么看AI的？](/article/what-yumingfeng-talked-about-ai/index.md)
 - [赌博为主的市场（如Polymarket、A股）中，赢钱或亏钱有什么科学分析吗？](/article/who-wins-and-who-loses-in-prediction-markets/index.md)
+- [深度学习为什么能从海量维度的数据中发现规律？](/article/why-machine-learning-finds-order-in-a-million-dimensions/index.md)
 - [科技公司疯狂裁员养 AI，钱却在巨头间打转？这波操作到底啥情况？](/article/why-tech-giants-cut-jobs-while-spending-billions-on-ai/index.md)
 
 ### 雕刻时光
@@ -92,6 +93,7 @@ This file contains links to all documentation sections.
 - [Manus临近被Meta收购前，季逸超（peak）都聊了些什么干货？](/article/what-peak-ji-talked-about-before-manus-meta-acquisition/index.md)
 - [哲学教授是怎么看AI的？](/article/what-yumingfeng-talked-about-ai/index.md)
 - [赌博为主的市场（如Polymarket、A股）中，赢钱或亏钱有什么科学分析吗？](/article/who-wins-and-who-loses-in-prediction-markets/index.md)
+- [深度学习为什么能从海量维度的数据中发现规律？](/article/why-machine-learning-finds-order-in-a-million-dimensions/index.md)
 - [科技公司疯狂裁员养 AI，钱却在巨头间打转？这波操作到底啥情况？](/article/why-tech-giants-cut-jobs-while-spending-billions-on-ai/index.md)
 - [捐步两千万步后：方向、能力与坚持，真的是人生 “不可能三角” 吗？](/sculpting-time/2000-steps-souvenir/index.md)
 - [收到 2025 年生日祝福：这些 “仪式感”，真的只是无关紧要的碎碎念吗？](/sculpting-time/2025-birthday/index.md)
